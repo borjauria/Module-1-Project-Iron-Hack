@@ -1,4 +1,4 @@
-# Project Title
+# The best ever project
 
 This is a project about what we learned in module 1 of Iron Hack.
 
