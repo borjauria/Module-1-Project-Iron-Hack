@@ -1,6 +1,6 @@
 # The best ever project
 
-This is a project about what we learned in module 1 of Iron Hack.
+This project analyzes a data set and returns conclusions.
 
 # Getting Started
 
