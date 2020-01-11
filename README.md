@@ -1,6 +1,3 @@
-
-My new project 1 about everything seen in module 1.
-
 # Project Title
 
 This is a project about what we learned in module 1 of Iron Hack.
