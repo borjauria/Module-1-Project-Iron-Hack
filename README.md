@@ -1,5 +1,5 @@
 
-# NOTE: To see everything about project, switch between the development branches.
+### NOTE: To see everything about project, switch between the development branches.
 
 # The best ever project
 
