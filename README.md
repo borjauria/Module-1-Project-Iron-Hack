@@ -13,7 +13,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 # Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software and how to install them. But.. You can see the requirements.txt file to get a better idea of what you will need
 
 Pandas
 Mathplot
@@ -29,13 +29,9 @@ Add additional notes about how to deploy this on a live system
 
 ### LOVE ❤️
 
-# Contributing
-
-Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
-
 # Authors
 
-Borja Uría - Initial work - at Iron Hack
+Borja Uría - Initial work for Project one at Iron Hack
 See also the list of contributors who participated in this project.
 
 # License
