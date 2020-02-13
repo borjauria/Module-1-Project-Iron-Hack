@@ -1,12 +1,12 @@
-from packages.acquisition import adquire
-from packages.cleaning import wrangling
-from packages.enrichment import enrichment
-#from packages.reporting import plotting_data
+from acquisition import acquisition
+from cleaning import cleaning
+from webscraping import webscraping
+#from reporting import reporting
 
 def main():
-    data = adquire()
-    filtered = wrangling(data)
-    enriched = enrichment(filtered)
+    data = acquisition()
+    filtered = cleaning(data)
+    enriched = webscraping(filtered)
     #results = plotting_data(enriched)
 
 if __name__ == '__main__':

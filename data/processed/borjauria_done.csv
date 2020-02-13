@@ -1,0 +1,2209 @@
+Name,Age,Gender,From,Real Time Position,Industry,Company
+Jeff Bezos,54,Male,United States,1.0,Technology ,Amazon
+Bill Gates,62,Male,United States,2.0,Technology ,Microsoft
+Warren Buffett,87,Male,United States,3.0,Finance and Investments ,Berkshire hathaway
+Bernard Arnault,69,Male,United States,4.0,Fashion & Retail ,Lvmh
+Mark Zuckerberg,33,Male,United States,5.0,Technology ,Facebook
+Amancio Ortega,82,Male,United States,6.0,Fashion & Retail ,Zara
+Carlos Slim helu,78,Male,United States,7.0,Telecom ,Telecom
+Charles Koch,82,Male,United States,12.0,Diversified ,Koch industries
+David Koch,78,Male,United States,13.0,Diversified ,Koch industries
+Larry Ellison,73,Male,United States,8.0,Technology ,Software
+Michael Bloomberg,76,Male,United States,11.0,Media & Entertainment ,Bloomberg lp
+Larry Page,45,Male,United States,9.0,Technology ,Google
+Sergey Brin,44,Male,United States,10.0,Technology ,Google
+Jim Walton,70,Male,United States,19.0,Fashion & Retail ,Walmart
+S. Walton,73,Male,United States,20.0,Fashion & Retail ,Walmart
+Alice Walton,68,Female,United States,21.0,Fashion & Retail ,Walmart
+Ma Ma,46,Female,China,15.0,Technology ,Internet media
+Francoise Bettencourt meyers,64,Female,China,14.0,Fashion & Retail ,L'oreal
+Mukesh Ambani,61,Male,China,17.0,Energy ,"Petrochemicals, oil & gas"
+Jack Ma,53,Male,China,18.0,Technology ,E-commerce
+Sheldon Adelson,84,Male,United States,16.0,Gambling & Casinos ,Casinos
+Steve Ballmer,62,Male,United States,22.0,Technology ,Microsoft
+Li Li,90,Male,United States,24.0,Diversified ,Diversified
+Hui Hui,59,Male,People'S Republic Of China,26.0,Real Estate ,Real estate
+Lee Lee,90,Male,People'S Republic Of China,28.0,Real Estate ,Real estate
+Wang Wang,63,Male,People'S Republic Of China,27.0,Real Estate ,Real estate
+Beate Albrecht jr.,66,NaN,People'S Republic Of China,29.0,Fashion & Retail ,Supermarkets
+Phil Knight,80,Male,United States,25.0,Fashion & Retail ,Nike
+Jorge Lemann,78,Male,Brazil,30.0,Food and Beverage ,Beer
+Francois Pinault,81,Male,Brazil,23.0,Fashion & Retail ,Luxury goods
+Georg Schaeffler,53,Male,Brazil,40.0,Automotive ,Auto parts
+Susanne Klatten,56,Female,Brazil,38.0,Automotive ,"Bmw, pharmaceuticals"
+David Thomson,61,Male,Brazil,32.0,Media & Entertainment ,Media
+Jacqueline Mars,78,Male,United States,34.0,Food and Beverage ,"Candy, pet food"
+John Mars,82,Male,United States,35.0,Food and Beverage ,"Candy, pet food"
+Joseph Safra,79,Male,Brazil,53.0,Finance and Investments ,Banking
+Giovanni Ferrero,53,Male,Brazil,43.0,Food and Beverage ,"Nutella, chocolates"
+Dietrich Mateschitz,74,Male,Brazil,33.0,Food and Beverage ,Red bull
+Michael Dell,53,Male,Brazil,36.0,Technology ,Dell computers
+Masayoshi Son,60,Male,Brazil,42.0,Telecom ,"Internet, telecom"
+Serge Dassault,93,Male,Brazil,42.0,Diversified ,Diversified
+Stefan Quandt,52,Male,Germany,51.0,Automotive ,Bmw
+Yang Yang,35,Female,China,31.0,Real Estate ,Real estate
+Paul Allen,65,Male,United States,49.0,Technology ,"Microsoft, investments"
+Leonardo Del vecchio,83,Male,United States,39.0,Fashion & Retail ,Eyeglasses
+Dieter Schwarz,78,Male,United States,79.0,Fashion & Retail ,Retail
+Thomas Peterffy,73,Male,United States,41.0,Finance and Investments ,Discount brokerage
+Theo Albrecht,67,Male,United States,54.0,Fashion & Retail ,"Aldi, trader joe's"
+Len Blavatnik,61,Male,United States,44.0,Diversified ,Diversified
+He He,75,Male,China,47.0,Manufacturing ,Home appliances
+Lui Lui,89,Male,China,46.0,Gambling & Casinos ,Casinos
+James Simons,80,Male,China,50.0,Finance and Investments ,Hedge funds
+Henry Sy,93,Male,Philippines,67.0,Diversified ,Diversified
+Elon Musk,46,Male,Philippines,45.0,Automotive ,Tesla motors
+Hinduja Hinduja,-9999,Male,United Kingdom,61.0,Diversified ,Diversified
+Tadashi Yanai,69,Male,Japan,37.0,Fashion & Retail ,Fashion retail
+Vladimir Lisin,62,Male,Russia,52.0,Metals & Mining ,"Steel, transport"
+Laurene Powell jobs,54,Male,United States,48.0,Philanthropy/NGO ,"Apple, disney"
+Azim Premji,72,Male,United States,71.0,Technology ,Software services
+Alexey Mordashov,52,Male,United States,60.0,Metals & Mining ,"Steel, investments"
+Lee Lee,76,Male,United States,62.0,Diversified ,Samsung
+Lakshmi Mittal,68,Male,India,63.0,Metals & Mining ,Steel
+Wang Wang,48,Male,People'S Republic Of China,64.0,Service ,Package delivery
+Leonid Mikhelson,62,Male,People'S Republic Of China,59.0,Energy ,"Gas, chemicals"
+Charoen Sirivadhanabhakdi,74,Male,Thailand,87.0,Food and Beverage ,"Drinks, real estate"
+Pallonji Mistry,89,Male,Ireland,57.0,Construction & Engineering ,Construction
+Ray Dalio,68,Male,Ireland,68.0,Finance and Investments ,Hedge funds
+Takemitsu Takizaki,73,Male,Ireland,65.0,Manufacturing ,Sensors
+William Ding,46,Male,China,80.0,Technology ,Online games
+R. Hartono,77,Male,China,91.0,Finance and Investments ,"Banking, tobacco"
+Gina Rinehart,64,Female,China,66.0,Metals & Mining ,Mining
+German Larrea mota velasco,64,Female,China,86.0,Metals & Mining ,Mining
+Carl Icahn,82,Female,United States,58.0,Finance and Investments ,Investments
+Stefan Persson,70,Male,United States,78.0,Fashion & Retail ,H&m
+Michael Hartono,78,Male,United States,102.0,Manufacturing ,"Banking, tobacco"
+Joseph Lau,66,Male,United States,73.0,Real Estate ,Real estate
+Thomas Kwok,-9999,Male,Hong Kong,75.0,Real Estate ,Real estate
+Vagit Alekperov,67,Male,Hong Kong,69.0,Energy ,Oil
+James Ratcliffe,65,Male,Hong Kong,89.0,Manufacturing ,Chemicals
+Donald Bren,86,Male,United States,76.0,Real Estate ,Real estate
+Iris Fontbona,75,Female,United States,70.0,Metals & Mining ,Mining
+Gennady Timchenko,65,Male,United States,74.0,Energy ,"Oil, gas"
+Abigail Johnson,56,Female,United States,72.0,Finance and Investments ,Money management
+Vladimir Potanin,57,Male,United States,82.0,Metals & Mining ,Metals
+Lukas Walton,30,Male,United States,101.0,Fashion & Retail ,Walmart
+Charlene De carvalho-heineken,63,Female,Netherlands,81.0,Food and Beverage ,Heineken
+Zhang Zhang,46,Male,Netherlands,85.0,Technology ,Internet media
+Petr Kellner,54,Male,Netherlands,100.0,Finance and Investments ,Banking
+Andrey Melnichenko,46,Male,Russia,105.0,Energy ,"Coal, fertilizers"
+David Reuben,-9999,Male,Russia,88.0,Real Estate ,"Investments, real estate"
+Klaus-michael Kuehne,81,Male,Russia,99.0,Logistics ,Shipping
+Li Li,55,Male,Russia,83.0,Automotive ,Automobiles
+Mikhail Fridman,54,Male,Russia,106.0,Energy ,"Oil, banking, telecom"
+Rupert Murdoch,87,Male,Russia,55.0,Media & Entertainment ,"Newspapers, tv network"
+Dhanin Chearavanont,79,Male,Russia,95.0,Diversified ,Diversified
+Robert Kuok,94,Male,Russia,84.0,Diversified ,"Palm oil, shipping, property"
+Emmanuel Besnier,47,Male,Russia,90.0,Food and Beverage ,Cheese
+Shiv Nadar,72,Male,Russia,108.0,Technology ,Software services
+Viktor Vekselberg,61,Male,Russia,107.0,Energy ,"Metals, energy"
+Aliko Dangote,61,Male,Nigeria,117.0,Manufacturing ,"Cement, sugar, flour"
+Harold Hamm,72,Male,United States,56.0,Energy ,Oil & gas
+Steve Cohen,62,Male,United States,137.0,Finance and Investments ,Hedge funds
+Dustin Moskovitz,33,Male,United States,77.0,Technology ,Facebook
+Marcel Telles,68,Male,United States,109.0,Food and Beverage ,Beer
+Reinhold Wuerth,83,Male,United States,118.0,Manufacturing ,Fasteners
+Charles Ergen,65,Male,United States,141.0,Media & Entertainment ,Satellite tv
+Eric Schmidt,63,Male,United States,92.0,Technology ,Google
+Philip Anschutz,78,Male,United States,104.0,Finance and Investments ,Investments
+Jim Kennedy,70,Male,United States,157.0,Media & Entertainment ,Media
+Blair Parry-okeden,68,Female,United States,156.0,Media & Entertainment ,Media
+Alain Wertheimer,69,Female,France,96.0,Fashion & Retail ,Chanel
+Gerard Wertheimer,67,Female,France,97.0,Fashion & Retail ,Chanel
+Leonard Lauder,81,Female,France,94.0,Fashion & Retail ,Estee lauder
+Heinz Thiele,77,Male,Germany,132.0,Construction & Engineering ,Brakes
+Dilip Shanghvi,62,Male,Germany,121.0,Healthcare ,Pharmaceuticals
+Hasso Plattner,74,Male,Germany,103.0,Technology ,Software
+Stephen Schwarzman,71,Male,United States,111.0,Finance and Investments ,Investments
+Lei Lei,48,Male,United States,115.0,Technology ,Smartphones
+Hans Rausing,92,Male,Sweden,114.0,Manufacturing ,Packaging
+Alisher Usmanov,64,Male,Sweden,112.0,Metals & Mining ,"Steel, telecom, investments"
+Donald Newhouse,88,Male,United States,122.0,Media & Entertainment ,Media
+Peter Woo,71,Male,United States,116.0,Real Estate ,Real estate
+Luis Sarmiento,85,Male,United States,124.0,Finance and Investments ,Banking
+Robin Li,49,Male,China,93.0,Technology ,Internet search
+Carlos Sicupira,70,Male,China,134.0,Food and Beverage ,Beer
+Seo Seo,60,Male,South Korea,123.0,Healthcare ,Biotech
+Kumar Birla,51,Male,South Korea,145.0,Diversified ,Commodities
+Alexander Otto,50,Male,Germany,129.0,Real Estate ,Real estate
+Stefano Pessina,77,Male,Germany,126.0,Fashion & Retail ,Drugstores
+Udo Tschira,-9999,Male,Germany,110.0,Technology ,Software
+Wang Wang,50,Male,Germany,147.0,Metals & Mining ,"Mining, copper products"
+Andrew Beal,65,Male,United States,119.0,Finance and Investments ,"Banks, real estate"
+Lee Lee,88,Male,Hong Kong,127.0,Food and Beverage ,"Oyster sauce, real estate"
+John Menard,78,Male,United States,130.0,Fashion & Retail ,Home improvement stores
+Xu Xu,60,Male,United States,158.0,Food and Beverage ,"Snacks, beverages"
+Zhou Zhou,47,Male,United States,271.0,Technology ,Security software
+Gong Gong,53,Male,Hong Kong,139.0,Finance and Investments ,Video surveillance
+Michael Otto,75,Male,Hong Kong,142.0,Fashion & Retail ,"Retail, real estate"
+David Tepper,60,Male,Hong Kong,136.0,Finance and Investments ,Hedge funds
+Roman Abramovich,51,Male,Hong Kong,125.0,Diversified ,"Steel, investments"
+Liu Liu,43,Male,People'S Republic Of China,144.0,Technology ,E-commerce
+Robert Ng,-9999,Male,Singapore,143.0,Real Estate ,Real estate
+Alberto Bailleres gonzalez,86,Male,Singapore,165.0,Metals & Mining ,Mining
+Uday Kotak,59,Male,India,113.0,Finance and Investments ,Banking
+Pierre Omidyar,51,Male,India,135.0,Technology ,Ebay
+Walter Droege,65,Male,India,154.0,Service ,Consulting
+Dietmar Hopp,78,Male,India,133.0,Technology ,Software
+Graeme Hart,63,Male,India,155.0,Finance and Investments ,Investments
+Eduardo Saverin,35,Male,India,128.0,Technology ,Facebook
+Yan Yan,45,Male,India,166.0,Real Estate ,Real estate
+Radhakishan Damani,63,Male,India,120.0,Finance and Investments ,"Investments, retail"
+German Khan,56,Male,India,174.0,Energy ,"Oil, banking, telecom"
+Ronald Perelman,75,Male,India,151.0,Finance and Investments ,Leveraged buyouts
+Gautam Adani,56,Male,India,210.0,Diversified ,"Commodities, ports"
+Micky Arison,68,Male,United States,161.0,Service ,Carnival cruises
+Pan Pan,48,Male,China,197.0,Technology ,Electronics
+Joseph Tsai,54,Male,China,138.0,Technology ,E-commerce
+Thomas Frist,79,Male,United States,148.0,Healthcare ,Health care
+Mikhail Prokhorov,53,Male,Russia,167.0,Finance and Investments ,Investments
+Galen Weston,77,Male,Russia,162.0,Fashion & Retail ,Retail
+Zong Zong,72,Male,Russia,163.0,Food and Beverage ,Beverages
+Eyal Ofer,68,Male,Israel,164.0,Diversified ,"Real estate, shipping"
+Charles Schwab,80,Male,United States,149.0,Finance and Investments ,Discount brokerage
+Gianluigi Aponte,77,NaN,United States,177.0,Logistics ,Shipping
+Herbert Kohler,79,Male,United States,169.0,Manufacturing ,Plumbing fixtures
+Viktor Rashnikov,69,Male,United States,173.0,Manufacturing ,Steel
+Harry Triguboff,85,Male,United States,152.0,Real Estate ,Real estate
+August Von finck,88,Male,United States,170.0,Finance and Investments ,Investments
+Yao Yao,48,Male,United States,179.0,Diversified ,Conglomerate
+Jan Koum,42,Male,United States,160.0,Technology ,Whatsapp
+Cyrus Poonawalla,77,Male,India,190.0,Healthcare ,Vaccines
+James Goodnight,75,Male,India,150.0,Technology ,Software
+Ken Griffin,49,Male,United States,171.0,Finance and Investments ,Hedge funds
+Giorgio Armani,83,Male,Italy,185.0,Fashion & Retail ,Luxury goods
+Ernesto Bertarelli,52,Male,Italy,178.0,Healthcare ,"Biotech, investments"
+Savitri Jindal,68,Female,India,193.0,Metals & Mining ,Steel
+Sunil Mittal,60,Male,India,205.0,Telecom ,Telecom
+James Chambers,61,Male,India,268.0,Media & Entertainment ,Media
+Katharine Rayner,73,Male,United States,269.0,Media & Entertainment ,Media
+Margaretta Taylor,76,Female,United States,270.0,Media & Entertainment ,Media
+Terry Gou,67,Male,Taiwan,204.0,Technology ,Electronics
+Gordon Moore,89,Male,United States,153.0,Technology ,Intel
+James Irving,90,Male,United States,183.0,Diversified ,Diversified
+Stanley Kroenke,70,Male,United States,184.0,Sports ,"Sports, real estate"
+Melker Schorling,71,Male,Sweden,188.0,Finance and Investments ,Investments
+Johann Graf,71,Male,Sweden,209.0,Gambling & Casinos ,Gambling
+Guo Guo,51,Male,Sweden,189.0,Diversified ,Conglomerate
+John Malone,77,Male,United States,201.0,Media & Entertainment ,Cable television
+Xavier Niel,50,Male,United States,322.0,Telecom ,"Internet, telecom"
+Silvio Berlusconi,81,Male,United States,231.0,Diversified ,Media
+Carl Cook,55,Male,United States,176.0,Healthcare ,Medical devices
+David Geffen,75,Male,United States,182.0,Media & Entertainment ,"Movies, record labels"
+Hui Hui,67,Male,United States,168.0,Real Estate ,Real estate
+Walter Kwok,67,Male,Hong Kong,196.0,Real Estate ,Real estate
+George Soros,87,Male,Hong Kong,194.0,Finance and Investments ,Hedge funds
+Edward Johnson,87,Male,Hong Kong,198.0,Finance and Investments ,Money management
+Massimiliana Landini aleotti,75,Female,Hong Kong,215.0,Healthcare ,Pharmaceuticals
+David Duffield,77,Male,Hong Kong,180.0,Technology ,Business software
+George Kaiser,75,Male,Hong Kong,195.0,Energy ,"Oil & gas, banking"
+Patrick Soon-shiong,65,Male,United States,207.0,Healthcare ,Pharmaceuticals
+Zhou Zhou,48,Male,United States,272.0,Technology ,Smartphone screens
+Nicky Oppenheimer,73,Male,South Africa,200.0,Metals & Mining ,Diamonds
+Sun Sun,59,Male,South Africa,131.0,Healthcare ,Pharmaceuticals
+Wu Wu,54,Female,China,186.0,Real Estate ,Real estate
+Alexei Kuzmichev,55,Male,China,236.0,Energy ,"Oil, banking, telecom"
+Stephen Ross,78,Male,China,206.0,Real Estate ,Real estate
+Vincent Bollore,66,Male,France,293.0,Finance and Investments ,Investments
+Pauline Keinath,84,Female,France,212.0,Food and Beverage ,Cargill
+Jay Lee,50,Male,France,230.0,Diversified ,Samsung
+Anders Povlsen,45,Male,Denmark,239.0,Fashion & Retail ,Fashion retail
+Eli Broad,85,Male,United States,216.0,Finance and Investments ,Investments
+Michael Kadoorie,76,Male,United States,202.0,Energy ,"Hotels, energy"
+Iskander Makhmudov,54,Male,Russia,229.0,Metals & Mining ,"Mining, metals, machinery"
+Frederik Paulsen,67,Male,Russia,225.0,Healthcare ,Health care
+Sun Sun,55,Male,Russia,187.0,Real Estate ,Real estate
+Christy Walton,69,Male,United States,259.0,Fashion & Retail ,Walmart
+Shahid Khan,67,Male,United States,218.0,Automotive ,Auto parts
+Ananda Krishnan,80,Male,Malaysia,274.0,Telecom ,"Telecoms, media, oil-services"
+Carrie Perrodo,67,Female,Malaysia,175.0,Energy ,Oil
+Quek Quek,76,Female,Malaysia,221.0,Diversified ,"Banking, property"
+Wang Wang,51,Female,China,316.0,Real Estate ,Real estate
+John Doerr,66,Male,China,181.0,Technology ,Venture capital
+Patrick Drahi,54,Male,China,601.0,Telecom ,Telecom
+Eva Gonda de rivera,-9999,Male,Mexico,267.0,Food and Beverage ,Beverages
+Willi Liebherr,-9999,NaN,Mexico,240.0,Construction & Engineering ,Construction
+Ricardo Salinas pliego,62,Male,Mexico,327.0,Fashion & Retail ,"Retail, media"
+Suh Suh,55,Male,Mexico,226.0,Fashion & Retail ,Cosmetics
+Pollyanna Chu,60,Female,Mexico,840.0,Finance and Investments ,Financial services
+John Fredriksen,73,Male,Mexico,213.0,Logistics ,Shipping
+Goh Goh,91,Male,Mexico,191.0,Manufacturing ,Paints
+Sri Lohia,65,Male,Mexico,222.0,Manufacturing ,Polyester
+Lu Lu,65,Male,China,275.0,Real Estate ,Real estate
+Jorn Rausing,58,Male,China,208.0,Food and Beverage ,Packaging
+Johann Rupert,68,Male,South Africa,242.0,Fashion & Retail ,Luxury goods
+Jacques Saade,81,Male,France,228.0,Logistics ,Shipping
+Wu Wu,62,Male,People'S Republic Of China,234.0,Food and Beverage ,Wine
+Leonid Fedun,62,Male,Russia,219.0,Energy ,Oil
+Kim Kim,50,Male,Russia,254.0,Technology ,Online games
+Sandra Ortega mera,49,Female,Spain,220.0,Fashion & Retail ,Zara
+Jim Pattison,89,Female,Canada,243.0,Diversified ,Diversified
+Michael Platt,50,Female,Uk,253.0,Finance and Investments ,Hedge funds
+Chan Chan,77,Female,Uk,386.0,Real Estate ,Real estate
+David Green,76,Female,United States,203.0,Fashion & Retail ,Retail
+Hank Meijer,-9999,Male,United States,223.0,Fashion & Retail ,Supermarkets
+Dmitry Rybolovlev,51,Male,United States,237.0,Manufacturing ,Fertilizer
+Tsai Tsai,61,Male,United States,199.0,Food and Beverage ,"Food, beverages"
+Andreas Von bechtolsheim,62,Male,United States,227.0,Technology ,Google
+Oleg Deripaska,50,Male,United States,681.0,Metals & Mining ,"Aluminum, utilities"
+Liu Liu,70,Male,People'S Republic Of China,249.0,Service ,Diversified
+Ludwig Merckle,53,Male,Germany,306.0,Finance and Investments ,Pharmaceuticals
+Brian Acton,46,Male,United States,256.0,Technology ,Whatsapp
+John Grayken,62,Male,United States,248.0,Finance and Investments ,Private equity
+Ann Kroenke,69,Male,United States,313.0,Fashion & Retail ,Walmart
+Augusto Perfetti,-9999,Male,United States,255.0,Food and Beverage ,Candy
+Finn Rausing,63,Male,Sweden,250.0,Food and Beverage ,Packaging
+Kirsten Rausing,66,Male,Sweden,251.0,Food and Beverage ,Packaging
+Odd Reitan,66,Male,Norway,261.0,Fashion & Retail ,"Retail, real estate"
+Nassef Sawiris,57,Male,Norway,235.0,Construction & Engineering ,"Construction, chemicals"
+Wee Wee,89,Male,Norway,264.0,Finance and Investments ,Banking
+Aloys Wobben,66,Male,Norway,305.0,Energy ,Wind turbines
+Leon Black,66,Male,United States,258.0,Finance and Investments ,Private equity
+Ivan Glasenberg,61,Male,United States,241.0,Metals & Mining ,Mining
+John Paulson,62,Male,United States,277.0,Finance and Investments ,Hedge funds
+Wei Wei,54,Male,China,365.0,Automotive ,Automobiles
+Francis Choi,70,Male,China,262.0,Real Estate ,Real estate
+Erivan Haub,85,Male,China,262.0,Fashion & Retail ,Retail
+Jason Jiang,45,Male,China,308.0,Media & Entertainment ,Advertising
+Suleiman Kerimov,52,Male,China,396.0,Finance and Investments ,Investments
+Ian Livingstone,-9999,Male,China,276.0,Real Estate ,Real estate
+Pang Pang,62,Male,China,172.0,Food and Beverage ,Soy sauce maker
+David Shaw,67,Male,United States,282.0,Finance and Investments ,Hedge funds
+Kushal Singh,86,Male,United States,337.0,Real Estate ,Real estate
+John Sobrato,79,Male,United States,233.0,Real Estate ,Real estate
+Acharya Balkrishna,45,Male,United States,252.0,Food and Beverage ,Consumer goods
+Guenther Fielmann,78,Male,United States,294.0,Healthcare ,Optometry
+Daniel Gilbert,56,Male,United States,257.0,Finance and Investments ,Quicken loans
+Antonia Johnson,74,Male,United States,285.0,Diversified ,Diversified
+Vikram Lal,76,Male,United States,266.0,Automotive ,Motorcycles
+Akira Mori,81,Male,United States,265.0,Real Estate ,Real estate
+Maria-elisabeth Schaeffler-thumann,76,Female,United States,329.0,Automotive ,Auto parts
+Albert Frere,92,Male,United States,299.0,Finance and Investments ,Investments
+Richard Kinder,73,Male,United States,273.0,Energy ,Pipelines
+Robert Kraft,77,Male,United States,278.0,Sports ,New england patriots
+Ralph Lauren,78,Male,United States,232.0,Fashion & Retail ,Ralph lauren
+Bruno Schroder,85,Male,United States,331.0,Finance and Investments ,Banking
+Nusli Wadia,74,Male,United States,217.0,Food and Beverage ,Consumer goods
+Pierre Bellon,88,Male,France,377.0,Service ,Food services
+Les Wexner,80,Male,France,335.0,Fashion & Retail ,Retail
+Benu Bangur,87,Male,France,362.0,Manufacturing ,Cement
+David Cheriton,67,Male,Canada,260.0,Technology ,Google
+Ma Ma,54,Male,China,192.0,Fashion & Retail ,"Textiles, apparel"
+Whitney Macmillan,88,Male,China,291.0,Food and Beverage ,Cargill
+Dan Olsson,71,Male,Sweden,359.0,Diversified ,Diversified
+Vivek Sehgal,61,Male,Sweden,381.0,Automotive ,Auto parts
+Teh Teh,88,Male,Sweden,281.0,Finance and Investments ,Banking
+Abdulla Al ghurair,-9999,Male,Sweden,315.0,Diversified ,Diversified
+Maria Aramburuzabala,55,Female,Sweden,295.0,Food and Beverage ,"Beer, investments"
+Ralph Dommermuth,54,Male,Sweden,300.0,Technology ,Internet service provider
+Frank Lowy,87,Male,Sweden,304.0,Real Estate ,Shopping malls
+Wolfgang Marguerre,77,Male,Sweden,320.0,Healthcare ,Pharmaceuticals
+Marijke Mars,53,Female,United States,287.0,Food and Beverage ,"Candy, pet food"
+Pamela Mars,57,Female,United States,288.0,Food and Beverage ,"Candy, pet food"
+Valerie Mars,59,Female,United States,289.0,Food and Beverage ,"Candy, pet food"
+Victoria Mars,61,Female,United States,290.0,Food and Beverage ,"Candy, pet food"
+David Barclay,84,Female,United States,284.0,Diversified ,"Media, retail"
+John Gokongwei,91,Male,United States,556.0,Diversified ,Food and beverage
+Kwon Kwon,44,Male,United States,529.0,Technology ,Online games
+Nancy Laurie,67,Female,United States,387.0,Fashion & Retail ,Walmart
+Lin Lin,81,Male,United States,324.0,Real Estate ,Real estate
+Tom Love,81,NaN,United States,263.0,Fashion & Retail ,Retail & gas stations
+Robert Rowling,64,Male,United States,317.0,Energy ,Investments
+Dennis Washington,83,Male,United States,303.0,Logistics ,"Construction, mining"
+Yao Yao,53,Male,China,283.0,Manufacturing ,Furniture
+Zhang Zhang,55,Male,China,245.0,Fashion & Retail ,Appliance retailer
+Juan Beckmann vidal,78,Male,China,437.0,Food and Beverage ,Tequila
+David Sun,66,Male,China,246.0,Technology ,Computer hardware
+John Tu,76,Male,China,247.0,Technology ,Computer hardware
+Martin Viessmann,64,Male,China,352.0,Manufacturing ,Heating equipment
+Stef Wertheimer,91,Male,China,318.0,Manufacturing ,Metalworking tools
+Hansjoerg Wyss,83,Male,Switzerland,319.0,Healthcare ,Medical devices
+James Dyson,71,Male,Switzerland,353.0,Manufacturing ,Vacuums
+Laurence Graff,80,Male,Switzerland,333.0,Fashion & Retail ,Diamond jewelry
+Jen-hsun Huang,55,Male,Switzerland,286.0,Technology ,Semiconductors
+Charles Johnson,85,Male,Switzerland,394.0,Finance and Investments ,Money management
+Jerry Jones,75,Male,Switzerland,334.0,Sports ,Dallas cowboys
+Kei Kei,52,Male,Switzerland,244.0,Real Estate ,Real estate
+Kwee Kwee,-9999,Male,Switzerland,351.0,Real Estate ,Real estate
+Lee Lee,79,Male,Switzerland,389.0,Manufacturing ,"Palm oil, property"
+Richard Lefrak,72,Male,United States,280.0,Real Estate ,Real estate
+Shigenobu Nagamori,73,Male,United States,328.0,Manufacturing ,Motors
+Steven Rales,67,Male,United States,297.0,Manufacturing ,Manufacturing
+Friede Springer,75,Female,United States,422.0,Media & Entertainment ,Publishing
+Yeung Yeung,54,Male,Hong Kong,330.0,Manufacturing ,Electronics
+Rinat Akhmetov,51,Male,Hong Kong,345.0,Metals & Mining ,"Steel, coal"
+Shari Arison,60,Female,Israel,360.0,Service ,Carnival cruises
+Dannine Avara,54,Female,Israel,310.0,Energy ,Pipelines
+Rahel Blocher,42,Female,Switzerland,379.0,Manufacturing ,Chemicals
+Andrew Currie,62,Male,Uk,400.0,Manufacturing ,Chemicals
+Scott Duncan,34,Male,United States,312.0,Energy ,Pipelines
+Milane Frantz,48,Male,United States,311.0,Energy ,Pipelines
+Diane Hendricks,71,Female,United States,414.0,Construction & Engineering ,Roofing
+Magdalena Martullo-blocher,49,Female,United States,380.0,Manufacturing ,Chemicals
+Hiroshi Mikitani,53,Female,Japan,493.0,Fashion & Retail ,Online retail
+Gabe Newell,55,Male,United States,339.0,Gambling & Casinos ,Videogames
+Pan Pan,55,Male,United States,344.0,Real Estate ,"Real estate, finance"
+Anthony Pratt,58,Male,Australia,378.0,Manufacturing ,Manufacturing
+John Reece,61,Male,Australia,401.0,Manufacturing ,Chemicals
+Randa Williams,56,Female,Australia,309.0,Energy ,Pipelines
+Zhang Zhang,38,Male,Australia,224.0,Service ,After-school tutoring
+Zhang Zhang,71,Male,Australia,413.0,Metals & Mining ,Aluminum products
+Jean-michel Besnier,51,Male,Australia,349.0,Food and Beverage ,Cheese
+Marie Besnier beauvalot,36,Female,Australia,350.0,Food and Beverage ,Cheese
+Richard Devos,92,Female,Australia,363.0,Service ,Amway
+Michael Herz,74,Male,Australia,366.0,Fashion & Retail ,Coffee
+Wolfgang Herz,67,Male,Germany,367.0,Fashion & Retail ,Coffee
+Kjeld Kristiansen,70,Male,Denmark,370.0,Manufacturing ,Lego
+Sofie Kristiansen,42,Male,Denmark,371.0,Manufacturing ,Lego
+Thomas Kristiansen,-9999,Male,Denmark,372.0,Manufacturing ,Lego
+Lam Lam,-9999,Female,Denmark,348.0,Manufacturing ,Smartphone screens
+Lin Lin,62,Male,Denmark,486.0,Technology ,Electronics
+Margarita Louis-dreyfus,56,Male,Denmark,356.0,Food and Beverage ,Commodities
+George Roberts,74,Male,Denmark,323.0,Finance and Investments ,Private equity
+Edward Roski,79,Male,United States,301.0,Real Estate ,Real estate
+Agnete Thinggaard,-9999,Female,United States,369.0,Manufacturing ,Lego
+Mike Adenuga,65,Female,Nigeria,469.0,Diversified ,"Telecom, oil"
+Jim Davis,75,Male,United States,292.0,Manufacturing ,New balance
+David Filo,52,Male,United States,307.0,Technology ,Yahoo
+Pansy Ho,55,Female,United States,374.0,Gambling & Casinos ,Casinos
+Henry Kravis,74,Male,United States,332.0,Finance and Investments ,Private equity
+Emanuele Saputo,81,Male,United States,347.0,Food and Beverage ,Cheese
+Xu Xu,83,Male,United States,487.0,Manufacturing ,"Chemicals, logistics"
+Alexander Abramov,59,Male,Russia,314.0,Metals & Mining ,"Steel, mining"
+Israel Englander,69,Male,Russia,296.0,Finance and Investments ,Hedge funds
+Frits Goldschmeding,84,Male,Russia,420.0,Service ,Temp agency
+Marian Ilitch,85,Female,United States,420.0,Food and Beverage ,"Pizza, sports team"
+Bruce Kovner,73,Female,United States,364.0,Finance and Investments ,Hedge funds
+George Lucas,74,Male,United States,357.0,Media & Entertainment ,Star wars
+Kalanithi Maran,52,Male,United States,507.0,Media & Entertainment ,Media
+Elisabeth Mohn,77,Female,United States,415.0,Media & Entertainment ,Publishing
+Robert Rich,77,Male,United States,341.0,Food and Beverage ,Frozen foods
+Wang Wang,52,Male,People'S Republic Of China,496.0,Automotive ,"Batteries, automobiles"
+Maria Amorim,83,Female,People'S Republic Of China,373.0,Diversified ,"Energy, investments"
+Pyotr Aven,63,Male,Russia,443.0,Energy ,"Oil, banking, telecom"
+Bernard Marcus,89,Male,Russia,354.0,Fashion & Retail ,Home depot
+Pedro Moreira salles,58,Male,Russia,558.0,Diversified ,"Banking, minerals"
+Frederick Smith,73,Male,United States,361.0,Logistics ,Fedex
+Ronda Stryker,64,Female,United States,336.0,Healthcare ,Medical equipment
+Richard Branson,67,Male,United Kingdom,388.0,Diversified ,Virgin
+Subhash Chandra,67,Male,India,441.0,Media & Entertainment ,Media
+Denise Coates,50,Male,Uk,446.0,Gambling & Casinos ,Online gambling
+Martha Ingram,82,Female,Uk,358.0,Media & Entertainment ,"Book distribution, transportation"
+Law Law,70,Male,Uk,406.0,Real Estate ,Real estate
+Joe Lewis,81,Male,Uk,391.0,Finance and Investments ,Investments
+Gabriella Meister,70,Female,Germany,405.0,Manufacturing ,Appliances
+Fernando Moreira salles,72,Male,Brazil,570.0,Diversified ,"Banking, minerals"
+Joao Moreira salles,56,Male,Brazil,569.0,Diversified ,"Banking, minerals"
+Walther Moreira salles junior,62,Male,Brazil,571.0,Finance and Investments ,"Banking, minerals"
+Pankaj Patel,65,Male,Brazil,433.0,Healthcare ,Pharmaceuticals
+Karen Pritzker,60,Female,Brazil,385.0,Service ,"Hotels, investments"
+Thomas Schmidheiny,72,Male,Switzerland,466.0,Construction & Engineering ,Cement
+Vichai Srivaddhanaprabha,60,Male,Thailand,416.0,Fashion & Retail ,Duty-free
+Keiichiro Takahara,87,Male,Japan,321.0,Manufacturing ,Diapers
+M.a. Yusuff ali,62,Male,India,497.0,Fashion & Retail ,Retail
+Robert Bass,70,Male,India,407.0,Energy ,"Oil, investments"
+Marc Benioff,53,Male,India,302.0,Technology ,Business software
+Martin Bouygues,-9999,Male,India,461.0,Construction & Engineering ,"Construction, media"
+Chung Chung,80,Male,India,474.0,Automotive ,Motor vehicles
+Charles Dolan,91,Male,United States,346.0,Media & Entertainment ,Cable television
+Ray Hunt,75,Male,United States,392.0,Energy ,"Oil, real estate"
+Liu Liu,66,Male,United States,508.0,Service ,Agribusiness
+John Overdeck,48,Male,United States,343.0,Finance and Investments ,Hedge funds
+Ajay Piramal,62,Male,United States,453.0,Healthcare ,Pharmaceuticals
+Enrique Razon,58,Male,United States,639.0,Logistics ,Ports
+Sumner Redstone,95,Male,United States,411.0,Media & Entertainment ,Media
+Paolo Rocca,-9999,Male,Italy,355.0,Metals & Mining ,Pipe manufacturing
+Reinhold Schmieding,63,Male,Italy,340.0,Healthcare ,Medical devices
+David Siegel,56,Male,Italy,342.0,Finance and Investments ,Hedge funds
+Andrei Skoch,52,Male,Italy,428.0,Metals & Mining ,Steel
+Yu Yu,57,Male,China,421.0,Finance and Investments ,Mining
+Sam Zell,76,Male,China,398.0,Real Estate ,"Real estate, private equity"
+Zhou Zhou,58,Male,China,399.0,Fashion & Retail ,Fashion retail
+Bajaj Bajaj,-9999,Male,China,390.0,Diversified ,Diversified
+Garrett Camp,39,Male,China,429.0,Technology ,Uber
+Bubba Cathy,64,Male,China,402.0,Food and Beverage ,Chick-fil-a
+Dan Cathy,65,Male,China,403.0,Food and Beverage ,Chick-fil-a
+Fu Fu,50,Male,China,515.0,Technology ,Surveillance equipment
+Philip Green,66,NaN,China,424.0,Fashion & Retail ,Fashion retail
+Mikhail Gutseriev,60,Male,China,468.0,Energy ,"Oil, real estate"
+Rupert Johnson,77,Male,China,524.0,Finance and Investments ,Money management
+Travis Kalanick,41,Male,China,430.0,Technology ,Uber
+Andrei Kozitsyn,58,Male,Russia,447.0,Metals & Mining ,Metals
+Horst Paulmann,83,Male,Russia,530.0,Fashion & Retail ,Retail
+Julio Ponce lerou,72,Male,Chile,500.0,Metals & Mining ,Fertilizer
+Trevor Rees-jones,66,Male,Chile,431.0,Energy ,Oil & gas
+Mark Scheinberg,44,Male,Chile,434.0,Gambling & Casinos ,Online gambling
+Jeffrey Skoll,53,Male,United States,409.0,Technology ,Ebay
+Murat Ulker,59,Male,Turkey,553.0,Food and Beverage ,Food
+Daniel Ziff,46,Male,United States,425.0,Finance and Investments ,Investments
+Dirk Ziff,54,Male,United States,426.0,Finance and Investments ,Investments
+Robert Ziff,51,Male,United States,427.0,Finance and Investments ,Investments
+Juergen Blickle,71,Male,United States,495.0,Manufacturing ,Auto parts
+Bernard Broermann,74,Male,Germany,448.0,Healthcare ,Hospitals
+Clive Calder,71,Male,Germany,442.0,Media & Entertainment ,Record label
+Stanley Druckenmiller,65,Male,Germany,444.0,Finance and Investments ,Hedge funds
+Ted Lerner,92,Male,Germany,383.0,Real Estate ,Real estate
+Li Li,61,Male,Germany,408.0,Manufacturing ,Petrochemicals
+Lim Lim,66,Male,Germany,338.0,Gambling & Casinos ,Casinos
+Niels Louis-hansen,70,Male,Germany,298.0,Healthcare ,Medical devices
+Fredrik Lundberg,66,Male,Germany,559.0,Real Estate ,"Real estate, investments"
+Gwendolyn Meyer,56,Female,United States,438.0,Food and Beverage ,Cargill
+J. Reyes,64,Male,United States,325.0,Food and Beverage ,Food distribution
+Jude Reyes,62,Male,United States,326.0,Food and Beverage ,Food distribution
+Alexandra Schoerghuber,59,Female,United States,445.0,Real Estate ,Real estate
+Sheldon Solow,89,Male,United States,439.0,Real Estate ,Real estate
+Lucio Tan,83,Male,United States,645.0,Diversified ,Diversified
+Majid Al futtaim,-9999,Male,United States,509.0,Real Estate ,"Real estate, retail"
+Andrej Babis,63,Male,Czech Republic,550.0,Food and Beverage ,Agriculture
+Dona Bertarelli,50,Female,Switzerland,476.0,Diversified ,Biotech
+Cai Cai,55,Male,People'S Republic Of China,404.0,Real Estate ,Real estate
+Bidzina Ivanishvili,62,Male,People'S Republic Of China,450.0,Finance and Investments ,Investments
+Jeremy Jacobs,78,Male,People'S Republic Of China,393.0,Service ,Concessions
+Chris Larsen,58,Male,People'S Republic Of China,449.0,Finance and Investments ,Cryptocurrency
+Patrick Lee,76,Male,Hong Kong,440.0,Manufacturing ,Paper
+Liang Liang,61,Male,Hong Kong,419.0,Manufacturing ,Construction equipment
+Denis O'brien,60,Male,Ireland,492.0,Telecom ,Telecom
+Kapil Bhatia,-9999,Male,Ireland,522.0,Service ,Airlines
+Jean-pierre Cayard,75,Male,Ireland,464.0,Food and Beverage ,Spirits
+Chey Chey,57,Male,Ireland,565.0,Telecom ,"It, telecom"
+Fang Fang,44,Male,Ireland,613.0,Manufacturing ,Steel
+Andrei Guriev,58,Male,Ireland,545.0,Manufacturing ,Fertilizers
+Bertil Hult,77,Male,Sweden,463.0,Service ,Education
+Ji Ji,50,Male,Sweden,451.0,Real Estate ,Real estate
+Paul Jones,63,Male,Sweden,458.0,Finance and Investments ,Hedge funds
+Robert Miller,85,Male,United Kingdom,499.0,Fashion & Retail ,Retail
+Sergei Popov,46,Male,Russia,460.0,Finance and Investments ,Banking
+Juan Roig,68,Male,Russia,473.0,Fashion & Retail ,Supermarkets
+John Sall,70,Male,Russia,384.0,Technology ,Software
+Leonard Stern,80,Male,Russia,465.0,Real Estate ,Real estate
+Ye Ye,74,Male,Hong Kong,454.0,Healthcare ,Pharmaceuticals
+Anthony Bamford,72,Male,United Kingdom,581.0,Construction & Engineering ,Construction equipment
+Chu Chu,58,Male,People'S Republic Of China,472.0,Real Estate ,Real estate
+Juan Escotet,58,Male,People'S Republic Of China,520.0,Finance and Investments ,Banking
+Miguel Fluxa rossello,79,Male,People'S Republic Of China,547.0,Service ,Hotels
+Andrew Forrest,56,Male,People'S Republic Of China,586.0,Metals & Mining ,Mining
+Paul Gauselmann,83,Male,People'S Republic Of China,527.0,Gambling & Casinos ,Gambling
+Tamara Gustavson,56,Female,United States,382.0,Service ,Self storage
+Micky Jagtiani,66,Male,United States,693.0,Fashion & Retail ,Retail
+Johan Johannson,51,Male,United States,532.0,Fashion & Retail ,Grocery stores
+Richard Li,51,Male,United States,477.0,Telecom ,Telecom
+John Morris,70,Male,United States,412.0,Fashion & Retail ,Sporting goods retail
+Theo Mueller,78,Male,United States,470.0,Food and Beverage ,Dairy
+Akio Nitori,74,Male,United States,418.0,Fashion & Retail ,Home furnishings
+Wolfgang Reimann,65,Male,Germany,540.0,Fashion & Retail ,Consumer goods
+Matthias Reimann-andersen,53,Male,Germany,537.0,Fashion & Retail ,Consumer goods
+Stefan Reimann-andersen,54,Male,Germany,539.0,Fashion & Retail ,Consumer goods
+Renate Reimann-haas,66,Male,Germany,538.0,Fashion & Retail ,Consumer goods
+Robert Smith,55,Male,Germany,481.0,Finance and Investments ,Private equity
+Russ Weiner,48,Male,United States,482.0,Food and Beverage ,Energy drinks
+Jeronimo Arango,92,Male,United States,471.0,Fashion & Retail ,Retail
+Rahul Bajaj,80,Male,United States,452.0,Automotive ,Motorcycles
+Rainer Blickle,70,Male,United States,587.0,Manufacturing ,Auto parts
+Rocco Commisso,68,Male,United States,459.0,Telecom ,Telecom
+Giuseppe De'longhi,79,Male,Italy,536.0,Fashion & Retail ,Coffee makers
+Tilman Fertitta,60,Male,Italy,475.0,Food and Beverage ,"Houston rockets, entertainment"
+Nathan Kirsh,86,Male,Italy,417.0,Fashion & Retail ,"Retail, real estate"
+Terrence Pegula,67,Male,United States,491.0,Energy ,Natural gas
+Robert Pera,40,Male,United States,397.0,Technology ,Wireless networking gear
+Gary Rollins,73,Male,United States,479.0,Service ,Pest control
+Randall Rollins,86,Male,United States,480.0,Service ,Pest control
+Alejandro Santo domingo,41,Male,United States,516.0,Food and Beverage ,Beer
+Andres Santo domingo,40,Male,United States,513.0,Food and Beverage ,Beer
+Pham Vuong,49,Male,Vietnam,238.0,Diversified ,Diversified
+Roger Wang,69,Male,United States,555.0,Fashion & Retail ,Retail
+Stephen Bisciotti,58,Male,United States,478.0,Sports ,"Staffing, baltimore ravens"
+Austen Cargill,67,Male,United States,510.0,Food and Beverage ,Cargill
+James Cargill,69,Male,United States,511.0,Food and Beverage ,Cargill
+Archie Emmerson,89,Male,United States,498.0,Manufacturing ,"Timberland, lumber mills"
+Antti Herlin,61,Male,United States,523.0,Manufacturing ,"Elevators, escalators"
+Sumet Jiaravanon,83,Male,United States,551.0,Diversified ,Diversified
+Lars Larsen,69,Male,Denmark,695.0,Fashion & Retail ,Retail
+Marianne Liebmann,64,Female,Denmark,512.0,Food and Beverage ,Cargill
+Bobby Murphy,28,Male,United States,807.0,Technology ,Snapchat
+Igor Olenicoff,75,Male,United States,514.0,Real Estate ,Real estate
+Walter Scott,87,Male,United States,526.0,Energy ,"Utilities, telecom"
+Clemmie Spangler,86,Male,United States,518.0,Finance and Investments ,Investments
+Wang Wang,54,Male,China,423.0,Energy ,Natural gas distribution
+Carl Bennet,66,Male,China,616.0,Finance and Investments ,Investments
+Arthur Blank,75,Male,China,504.0,Sports ,Home depot
+Jaran Chiaravanont,88,Male,China,567.0,Diversified ,Diversified
+Jack Dangermond,72,NaN,United States,435.0,Technology ,Mapping software
+Fan Fan,51,NaN,China,462.0,Energy ,Petrochemicals
+John Gandel,83,NaN,China,563.0,Real Estate ,Shopping malls
+James Jannard,69,Male,United States,521.0,Fashion & Retail ,Sunglasses
+Montri Jiaravanont,87,Male,United States,568.0,Diversified ,Diversified
+Samuel Lee,79,Male,United States,583.0,Real Estate ,Real estate
+Pawan Munjal,64,Male,United States,557.0,Automotive ,Motorcycles
+Axel Oberwelland,51,Male,United States,620.0,Food and Beverage ,Candy
+James Packer,50,Male,United States,552.0,Gambling & Casinos ,Casinos
+Isaac Perlmutter,75,Male,United States,535.0,Media & Entertainment ,Marvel comics
+H. Perot,87,Male,United States,517.0,Diversified ,"Computer services, real estate"
+Michael Pieper,72,Male,United States,670.0,Manufacturing ,Kitchen appliances
+Thomas Pritzker,68,Male,United States,541.0,Finance and Investments ,"Hotels, investments"
+Julian Robertson,85,Male,United States,543.0,Finance and Investments ,Hedge funds
+Renzo Rosso,62,Male,United States,654.0,Fashion & Retail ,Fashion
+Hussain Sajwani,65,Male,United States,800.0,Real Estate ,Real estate
+Yasumitsu Shigeta,53,Male,Japan,368.0,Telecom ,Mobile phone retailer
+Evan Spiegel,27,Male,Japan,817.0,Technology ,Snapchat
+Wang Wang,45,Male,Japan,549.0,Technology ,E-commerce
+Kelcy Warren,62,Male,United States,503.0,Energy ,Pipelines
+Ben Ashkenazy,48,Male,United States,560.0,Real Estate ,Real estate
+Ursula Bechtolsheimer-kipp,-9999,Female,Germany,592.0,Real Estate ,Retail
+Otto Braun,40,Female,Germany,593.0,Healthcare ,Medical technology
+Che Che,51,Male,Germany,467.0,Fashion & Retail ,Furniture retailing
+Dagmar Dolby,76,Male,Germany,544.0,Technology ,Dolby laboratories
+Traudl Engelhorn,91,Female,Germany,561.0,Healthcare ,"Pharmaceuticals, medical equipment"
+Dan Friedkin,53,Male,United States,531.0,Automotive ,Toyota dealerships
+Sergei Galitsky,50,Male,United States,623.0,Fashion & Retail ,Retail
+Huang Huang,66,Male,United States,679.0,Real Estate ,Real estate
+Erman Ilicak,50,Male,Turkey,780.0,Construction & Engineering ,Construction
+Ronald Lauder,74,Male,United States,548.0,Fashion & Retail ,Estee lauder
+Michel Leclercq,79,Male,France,643.0,Fashion & Retail ,Sporting goods
+Michael Moritz,63,Male,United States,485.0,Technology ,Venture capital
+Issad Rebrab,74,Male,United States,577.0,Food and Beverage ,Food
+Naguib Sawiris,64,Male,United States,533.0,Telecom ,Telecom
+Richard Schulze,77,Male,United States,505.0,Fashion & Retail ,Best buy
+B.r. Shetty,76,Male,India,534.0,Healthcare ,Healthcare
+Jeff Sutton,58,Male,India,572.0,Real Estate ,Real estate
+Tony Tan caktiong,65,Male,India,686.0,Food and Beverage ,Food
+Yu Yu,52,Male,China,650.0,Logistics ,Package delivery
+Zhang Zhang,70,Male,China,588.0,Metals & Mining ,Aluminum
+Zhang Zhang,33,Male,China,562.0,Technology ,Software
+Suhail Bahwan,79,Male,China,740.0,Diversified ,Diversified
+Rick Caruso,59,Male,China,574.0,Real Estate ,Real estate
+Tom Gores,53,Male,United States,575.0,Finance and Investments ,Private equity
+Peter Hargreaves,71,Male,United States,489.0,Finance and Investments ,Financial services
+Daniela Herz,64,Female,United States,614.0,Finance and Investments ,Coffee
+Guenter Herz,77,Male,Germany,615.0,Finance and Investments ,Coffee
+Masatoshi Ito,94,Male,Japan,542.0,Fashion & Retail ,Retail
+Barry Lam,69,Male,Japan,635.0,Technology ,Electronics
+Sudhir Mehta,-9999,Male,Japan,624.0,Diversified ,Diversified
+Ravi Pillai,64,Male,Japan,619.0,Construction & Engineering ,Construction
+Stewart Resnick,-9999,NaN,Japan,436.0,Food and Beverage ,"Agriculture, water"
+Jerry Speyer,78,Male,United States,576.0,Real Estate ,Real estate
+Harry Stine,76,Male,United States,719.0,Food and Beverage ,Agriculture
+George Ty,85,Male,United States,854.0,Finance and Investments ,Banking
+Steven Udvar-hazy,72,Male,United States,582.0,Service ,Aircraft leasing
+Christoph Zeller,61,Male,United States,610.0,Healthcare ,Dental implants
+Nathan Blecharczyk,34,Male,United States,598.0,Technology ,Airbnb
+Hubert Burda,78,Male,United States,647.0,Media & Entertainment ,Publishing
+Chen Chen,60,Male,United States,618.0,Finance and Investments ,Insurance
+Brian Chesky,35,Male,United States,596.0,Technology ,Airbnb
+Gustaf Douglas,80,Male,Sweden,696.0,Diversified ,Investments
+Joe Gebbia,35,Male,United States,597.0,Technology ,Airbnb
+Peter Gilgan,67,Male,Canada,699.0,Construction & Engineering ,Homebuilding
+Jeff Greene,63,Male,United States,600.0,Real Estate ,"Real estate, investments"
+Jiang Jiang,63,Male,China,692.0,Manufacturing ,Chemicals
+Dominika Kulczyk,-9999,NaN,China,599.0,Finance and Investments ,Diversified
+Li Li,52,NaN,China,612.0,Real Estate ,Real estate
+Robert Mcnair,81,NaN,China,602.0,Sports ,"Energy, sports"
+Masahiro Miki,62,NaN,Japan,636.0,Fashion & Retail ,Shoes
+Katharina Otto-bernstein,-9999,NaN,Japan,607.0,Real Estate ,Real estate
+Ira Rennert,84,Male,United States,590.0,Finance and Investments ,Investments
+Henry Samueli,63,Male,United States,566.0,Technology ,Semiconductors
+Zeng Zeng,52,Female,People'S Republic Of China,634.0,Technology ,Smartphone components
+Zhang Zhang,46,Female,China,632.0,Diversified ,Diversified
+Nick Caporella,82,Female,China,506.0,Food and Beverage ,Beverages
+Mark Cuban,59,Male,United States,608.0,Media & Entertainment ,Online media
+Ken Fisher,67,Male,United States,621.0,Finance and Investments ,Money management
+Jaime Gilinski bacal,60,Male,United States,638.0,Finance and Investments ,Banking
+Andreas Halvorsen,57,Male,Norway,633.0,Finance and Investments ,Hedge funds
+H. Johnson,60,Male,United States,671.0,Manufacturing ,Cleaning products
+Imogene Johnson,87,Female,United States,671.0,Manufacturing ,Cleaning products
+S. Johnson,63,Female,United States,657.0,Manufacturing ,Cleaning products
+Helen Johnson-leipold,61,Female,United States,656.0,Manufacturing ,Cleaning products
+Winifred Johnson-marquart,59,Female,United States,658.0,Manufacturing ,Cleaning products
+Viatcheslav Kantor,64,Male,United States,653.0,Manufacturing ,"Fertilizer, real estate"
+Samvel Karapetyan,52,Male,United States,796.0,Construction & Engineering ,Real estate
+Marc Ladreit de lacharriere,77,Male,United States,662.0,Finance and Investments ,Finance
+Angela Leong,57,Female,United States,578.0,Gambling & Casinos ,Casinos
+Li Li,46,Male,United States,804.0,Manufacturing ,Hair dryers
+Mangal Lodha,62,Male,India,849.0,Real Estate ,Real estate
+Michael Milken,71,Male,India,609.0,Finance and Investments ,Investments
+Yuri Milner,56,Male,Russia,617.0,Finance and Investments ,Tech investments
+Andreas Struengmann,68,Male,Russia,667.0,Healthcare ,Pharmaceuticals
+Thomas Struengmann,68,Male,Germany,668.0,Healthcare ,Pharmaceuticals
+Tse Tse,66,Male,People'S Republic Of China,376.0,Healthcare ,Pharmaceuticals
+Yitzhak Tshuva,69,Male,People'S Republic Of China,626.0,Real Estate ,Real estate
+Samuel Yin,67,Male,Taiwan,525.0,Diversified ,Diversified
+Michael Ashley,53,Male,Taiwan,627.0,Fashion & Retail ,Sports retailing
+Cao Cao,60,Male,Taiwan,457.0,Healthcare ,Pharmaceuticals
+Jeffery Hildebrand,59,Male,United States,528.0,Energy ,Oil
+Jiang Jiang,64,Male,United States,279.0,Healthcare ,Vaccine production
+Edward Johnson,53,Male,United States,651.0,Finance and Investments ,Money management
+Elizabeth Johnson,55,Male,United States,652.0,Finance and Investments ,Money management
+Peter Kellogg,75,Male,United States,708.0,Finance and Investments ,Investments
+Lim Lim,78,Male,United States,1018.0,Healthcare ,Pharmaceuticals
+Friedhelm Loh,71,Male,United States,689.0,Manufacturing ,Manufacturing
+Kiran Mazumdar-shaw,65,Female,United States,664.0,Healthcare ,Biotech
+Idan Ofer,62,Male,United States,798.0,Diversified ,"Drilling, shipping"
+Karsanbhai Patel,74,Male,United States,603.0,Diversified ,Consumer goods
+Qin Qin,53,Male,United States,745.0,Food and Beverage ,Pig breeding
+Qiu Qiu,66,Male,United States,432.0,Fashion & Retail ,Fashion retail
+Sarath Ratanavadi,52,Male,Thailand,770.0,Energy ,Energy
+Rodger Riney,72,Male,Thailand,605.0,Finance and Investments ,Discount brokerage
+Steven Spielberg,71,Male,United States,637.0,Media & Entertainment ,Movies
+Gabriele Volkmann,-9999,Male,United States,775.0,Automotive ,Auto parts
+Arne Wilhelmsen,88,Male,Norway,721.0,Logistics ,Cruise ships
+Xu Xu,73,Male,Norway,659.0,Healthcare ,Pharmaceuticals
+Zhang Zhang,65,Male,China,716.0,Real Estate ,Real estate
+Zhang Zhang,52,Female,China,683.0,Real Estate ,Real estate
+Anita Zucker,66,Female,United States,985.0,Manufacturing ,Chemicals
+Carlo Benetton,74,Male,Italy,701.0,Fashion & Retail ,"Fashion retail, investments"
+Gilberto Benetton,77,Male,Italy,702.0,Fashion & Retail ,"Fashion retail, investments"
+Giuliana Benetton,80,Male,Italy,703.0,Fashion & Retail ,"Fashion retail, investments"
+Luciano Benetton,83,Male,Italy,704.0,Fashion & Retail ,"Fashion retail, investments"
+Chen Chen,52,Male,China,375.0,Healthcare ,Hospitals
+Kuldip Dhingra,-9999,Male,China,585.0,Manufacturing ,Paints
+Abilio Diniz,81,Male,China,963.0,Fashion & Retail ,Retail
+Bernard Ecclestone,87,Male,United Kingdom,720.0,Sports ,Formula one
+Judy Faulkner,74,Female,United Kingdom,666.0,Technology ,Health it
+Gao Gao,66,Male,China,1061.0,Real Estate ,"Real estate, finance"
+Joshua Harris,53,Male,United States,680.0,Finance and Investments ,Private equity
+Arthur Irving,88,Male,United States,502.0,Energy ,Oil
+Baba Kalyani,69,Male,United States,847.0,Construction & Engineering ,Engineering
+Dmitry Kamenshchik,50,Male,Russia,729.0,Service ,Airport
+Douglas Leone,60,Male,United States,580.0,Finance and Investments ,Venture capital
+Edwin Leong,66,Male,Hong Kong,674.0,Real Estate ,Real estate
+Arnon Milchan,73,Male,Hong Kong,630.0,Media & Entertainment ,Movie making
+Maren Otto,-9999,Female,Hong Kong,687.0,Diversified ,"Retail, real estate"
+Anthony Pritzker,57,Male,United States,677.0,Service ,"Hotels, investments"
+Jay Pritzker,53,Male,United States,678.0,Finance and Investments ,"Hotels, investments"
+Mitchell Rales,61,Male,United States,604.0,Manufacturing ,"Manufacturing, investments"
+Kjell Rokke,59,Male,Norway,455.0,Logistics ,"Shipping, seafood"
+Bernard Saul,86,Male,Norway,648.0,Finance and Investments ,"Banking, real estate"
+Donald Sterling,84,Male,United States,663.0,Real Estate ,Real estate
+Tahir Tahir,66,Male,United States,682.0,Diversified ,Diversified
+Chairul Tanjung,56,Male,Indonesia,611.0,Diversified ,Diversified
+Clemens Toennies,62,Male,Indonesia,665.0,Food and Beverage ,Meat processing
+Somphote Ahunai,51,Male,Indonesia,1431.0,Energy ,Energy
+Igor Altushkin,47,Male,Indonesia,747.0,Metals & Mining ,Metals
+Riley Bechtel,66,Male,United States,738.0,Construction & Engineering ,"Engineering, construction"
+Stephen Bechtel,93,Male,United States,739.0,Construction & Engineering ,"Engineering, construction"
+Mike Cannon-brookes,38,Male,United States,483.0,Technology ,Software
+Rafael Del pino y calvo-sotelo,59,Male,United States,705.0,Construction & Engineering ,Construction
+Antonio Del valle ruiz,79,Male,United States,742.0,Manufacturing ,Chemicals
+Scott Farquhar,38,Male,United States,484.0,Technology ,Software
+Lindsay Fox,81,Male,Australia,735.0,Logistics ,"Logistics, real estate"
+Jimmy Haslam,64,Male,Australia,640.0,Fashion & Retail ,"Gas stations, retail"
+Heidi Horten,77,Female,Australia,743.0,Fashion & Retail ,Retail
+Min Kao,69,Male,Australia,707.0,Technology ,Navigation equipment
+Melissa Ma,48,Female,People'S Republic Of China,554.0,Technology ,Internet search
+Rudolf Maag,72,Male,Switzerland,676.0,Healthcare ,Medical devices
+Alexander Ponomarenko,53,Male,Russia,726.0,Logistics ,"Real estate, airport"
+Carlos Rodriguez-pastor,59,Male,Peru,646.0,Finance and Investments ,Finance
+Shashi Ruia,-9999,Male,Peru,706.0,Diversified ,Diversified
+Teddy Sagi,46,Male,Peru,691.0,Gambling & Casinos ,Gambling software
+Shaul Shani,63,Male,Peru,709.0,Telecom ,Telecom
+Alexander Skorobogatko,50,Male,Peru,725.0,Logistics ,"Real estate, airport"
+Sun Sun,55,Male,China,765.0,Diversified ,Diversified
+Rita Tong liu,69,Male,China,688.0,Real Estate ,Real estate
+Juan-miguel Villar mir,86,Male,China,1016.0,Construction & Engineering ,Construction
+Steve Wynn,76,Male,China,805.0,Gambling & Casinos ,"Casinos, hotels"
+Anil Agarwal,64,Male,China,832.0,Metals & Mining ,"Mining, metals"
+Abdulla Al futtaim,-9999,Male,China,733.0,Automotive ,"Auto dealers, investments"
+John Arnold,44,Male,United States,732.0,Finance and Investments ,Hedge funds
+Sid Bass,76,Male,United States,675.0,Energy ,"Oil, investments"
+Alain Bouchard,69,Male,United States,823.0,Fashion & Retail ,Retail
+John Brown,83,Male,United States,622.0,Healthcare ,Medical equipment
+Vanich Chaiyawan,86,Male,United States,860.0,Finance and Investments ,"Insurance, beverages"
+Chen Chen,70,Male,United States,631.0,Gambling & Casinos ,"Casinos, property, energy"
+Charles Cohen,66,Male,United States,711.0,Real Estate ,Real estate
+Ashwin Dani,75,Male,United States,672.0,Manufacturing ,Paints
+Rakesh Gangwal,64,Male,United States,815.0,Service ,Airline
+Reid Hoffman,50,Male,United States,718.0,Technology ,Linkedin
+Amos Hostetter,81,Male,United States,737.0,Media & Entertainment ,Cable television
+Zarakh Iliev,51,Male,Russia,898.0,Real Estate ,Real estate
+Ji Ji,51,Male,Russia,456.0,Real Estate ,"Hotels, motels"
+Kenneth Langone,82,Male,United States,684.0,Finance and Investments ,Investments
+Li Li,61,Male,United States,784.0,Real Estate ,Real estate
+George Lindemann,82,Male,United States,710.0,Finance and Investments ,Investments
+Liu Liu,54,Male,China,649.0,Manufacturing ,Aluminum products
+Luo Luo,62,Male,People'S Republic Of China,488.0,Manufacturing ,Chemicals
+Mary Malone,68,Female,People'S Republic Of China,822.0,Food and Beverage ,Campbell soup
+Henry Nicholas,58,Male,United States,644.0,Technology ,Semiconductors
+God Nisanov,46,Male,United States,897.0,Real Estate ,Real estate
+Pat Stryker,62,Male,United States,625.0,Healthcare ,Medical equipment
+Alexander Svetakov,50,Male,Russia,766.0,Finance and Investments ,Real estate
+Hans Wild,77,Male,Russia,769.0,Food and Beverage ,Flavorings
+Yvonne Bauer,41,Female,Russia,746.0,Media & Entertainment ,Media
+Patrizio Bertelli,72,Male,Russia,628.0,Fashion & Retail ,Luxury goods
+Neil Bluhm,80,Male,Russia,722.0,Real Estate ,Real estate
+Andrew Cherng,-9999,NaN,United States,715.0,Food and Beverage ,Restaurants
+Scott Cook,65,NaN,United States,589.0,Technology ,Software
+Leon Cooperman,75,Male,United States,750.0,Finance and Investments ,Hedge funds
+John Dejoria,74,Male,United States,713.0,Fashion & Retail ,"Hair products, tequila"
+Martin Ebner,72,Male,United States,595.0,Finance and Investments ,Investments
+Walter Faria,63,Male,United States,863.0,Food and Beverage ,Beer
+Sameer Gehlaut,44,Male,United States,700.0,Finance and Investments ,Finance
+Tom Golisano,76,Male,United States,690.0,Service ,Payroll services
+Otto Happel,70,Male,United States,801.0,Construction & Engineering ,Engineering
+Jiang Jiang,51,Male,United States,988.0,Technology ,Acoustic components
+Karel Komarek,49,Male,United States,797.0,Gambling & Casinos ,Lotteries
+Kurt Krieger,70,Male,Germany,810.0,Fashion & Retail ,Furniture retailing
+Timur Kulibaev,51,Male,Germany,778.0,Finance and Investments ,Banking
+Dinara Kulibaeva,50,Male,Kazakhstan,779.0,Finance and Investments ,Banking
+Spiro Latsis,71,Male,Kazakhstan,874.0,Diversified ,"Banking, shipping"
+Daniel Loeb,56,Male,Kazakhstan,755.0,Finance and Investments ,Hedge funds
+Luo Luo,92,Male,Kazakhstan,803.0,Automotive ,Tires
+Ronald Mcaulay,82,Male,Kazakhstan,712.0,Energy ,Energy
+Alain Merieux,80,Male,Kazakhstan,752.0,Healthcare ,Pharmaceuticals
+Hans Naeder,56,Male,Kazakhstan,789.0,Manufacturing ,Prosthetics
+Nie Nie,42,Male,China,501.0,Service ,Logistics
+Daniel Och,57,Male,China,756.0,Finance and Investments ,Hedge funds
+Miuccia Prada,69,Female,China,629.0,Fashion & Retail ,Luxury goods
+Marc Rowan,55,Male,United States,758.0,Finance and Investments ,Private equity
+Haim Saban,73,Male,United States,760.0,Media & Entertainment ,"Tv network, investments"
+Alvaro Saieh bendeck,68,Male,United States,753.0,Finance and Investments ,Banking
+Michael Schmidt-ruthenbeck,75,Male,Germany,982.0,Fashion & Retail ,Retail
+Lynn Schusterman,79,Female,Germany,751.0,Energy ,"Oil & gas, investments"
+Mark Shoen,67,Female,United States,787.0,Automotive ,U-haul
+Michal Solowow,55,Male,Poland,808.0,Finance and Investments ,Investments
+Daniel Tsai,62,Male,Poland,730.0,Finance and Investments ,Finance
+Richard Tsai,61,Male,Taiwan,731.0,Finance and Investments ,Finance
+Frank Wang,36,Male,China,749.0,Technology ,Drones
+Meg Whitman,61,Female,China,728.0,Technology ,Ebay
+John Catsimatidis,69,Male,China,768.0,Energy ,"Oil, real estate"
+Do Chang,62,NaN,United States,792.0,Fashion & Retail ,Fashion retail
+Cheng Cheng,54,Female,United States,490.0,Healthcare ,Pharmaceuticals
+Barry Diller,76,Male,United States,717.0,Media & Entertainment ,Online media
+Jack Dorsey,41,Male,United States,395.0,Technology ,Twitter
+Yakir Gabay,52,Male,United States,727.0,Real Estate ,Real estate
+Allan Goldman,75,Male,United States,773.0,Real Estate ,Real estate
+Jane Goldman,62,Female,United States,764.0,Real Estate ,Real estate
+Amy Goldman fowler,64,Female,United States,767.0,Real Estate ,Real estate
+Daryl Katz,56,Male,United States,826.0,Diversified ,Pharmacies
+Diane Kemper,72,Female,United States,771.0,Real Estate ,Real estate
+Vladimir Kim,57,Male,Kazakhstan,748.0,Metals & Mining ,Mining
+Lai Lai,47,Male,China,564.0,Logistics ,Package delivery
+Manuel Lao hernandez,74,Male,China,892.0,Gambling & Casinos ,Gambling
+James Leprino,80,Male,China,813.0,Food and Beverage ,Cheese
+Liang Liang,50,Male,China,786.0,Diversified ,Conglomerate
+Tom Morris,63,Male,China,862.0,Fashion & Retail ,Retail
+Thi Nguyen,48,Female,China,824.0,Diversified ,Airlines
+Rajan Raheja,64,Male,China,816.0,Diversified ,Diversified
+Ren Ren,61,Male,People'S Republic Of China,1068.0,Manufacturing ,Kitchen appliances
+Richard Sands,67,Male,United States,698.0,Food and Beverage ,Food & beverage
+Kerry Stokes,77,Male,Australia,641.0,Diversified ,"Construction equipment, media"
+Donald Trump,72,Male,Australia,776.0,Real Estate ,"Television, real estate"
+Romesh Wadhwani,70,Male,United States,785.0,Technology ,Software
+Wang Wang,64,Male,China,1117.0,Technology ,Healthcare services
+Clifford Asness,51,Male,China,642.0,Finance and Investments ,Investment management
+Anne Beaufour,54,Male,China,660.0,Healthcare ,Pharmaceuticals
+Henri Beaufour,53,Male,China,661.0,Healthcare ,Pharmaceuticals
+Tom Benson,90,Male,United States,661.0,Sports ,New orleans saints
+Jim Breyer,56,Male,United States,754.0,Technology ,Venture capital
+Alejandro Bulgheroni,73,Male,United States,827.0,Energy ,Oil & gas
+Hasmukh Chudgar,84,Male,United States,931.0,Healthcare ,Pharmaceuticals
+Ennio Doris,77,Male,United States,1010.0,Finance and Investments ,Financial services
+Luis Frias,55,Male,United States,806.0,Technology ,Mobile payments
+Valentin Gapontsev,79,Male,United States,795.0,Manufacturing ,Lasers
+Martin Haefner,64,Male,Switzerland,763.0,Technology ,"Software, investments"
+Christopher Hohn,51,Male,United Kingdom,802.0,Finance and Investments ,Hedge funds
+Johnelle Hunt,86,Female,United Kingdom,744.0,Logistics ,Trucking
+Rakesh Jhunjhunwala,57,Male,India,819.0,Finance and Investments ,Investments
+Lu Lu,55,Male,India,1002.0,Automotive ,"Automobiles, batteries"
+John Middleton,63,Male,United States,791.0,Food and Beverage ,Tobacco
+Kazuo Okada,75,Male,Japan,830.0,Gambling & Casinos ,Casinos
+Jorge Perez,68,Male,Japan,809.0,Real Estate ,Real estate
+Prasert Prasarttong-osoth,85,Male,Japan,723.0,Healthcare ,Hospitals
+Jean Pritzker,55,Male,Japan,794.0,Service ,"Hotels, investments"
+Mochtar Riady,89,Male,Japan,846.0,Diversified ,Diversified
+Arkady Rotenberg,66,Male,Japan,971.0,Construction & Engineering ,"Construction, pipes, banking"
+Michael Rubin,45,Male,Japan,818.0,Fashion & Retail ,Online retail
+Robert Sands,60,Male,Japan,736.0,Food and Beverage ,Food & beverage
+Herbert Simon,83,Male,Japan,757.0,Real Estate ,Real estate
+Robert Toennies,40,Male,Japan,781.0,Food and Beverage ,Meat processing
+Manuel Villar,68,Male,Japan,573.0,Real Estate ,Real estate
+Don Vultaggio,66,Male,United States,820.0,Food and Beverage ,Arizona beverages
+Wang Wang,56,Male,China,546.0,Real Estate ,Real estate
+Wu Wu,48,Male,China,1172.0,Telecom ,Electronics
+Simon Xie,48,Male,China,814.0,Technology ,Online payment service
+Chuck Bundrant,76,Male,United States,850.0,Food and Beverage ,Fishing
+Cai Cai,65,Male,China,494.0,Healthcare ,Pharmaceuticals
+Jose Calderon rojas,-9999,Male,Mexico,1185.0,Food and Beverage ,Beverages
+Jason Chang,74,Male,Singapore,848.0,Technology ,Electronics
+Smita Crishna-godrej,67,Male,Singapore,838.0,Diversified ,Consumer goods
+Ding Ding,47,Male,People'S Republic Of China,655.0,Fashion & Retail ,Sports apparel
+Feng Feng,57,Male,People'S Republic Of China,788.0,Metals & Mining ,"Copper, education"
+Gerald Ford,73,Male,United States,844.0,Finance and Investments ,Banking
+Philippe Foriel-destezet,82,Male,United States,920.0,Service ,Employment agency
+Adi Godrej,76,Male,India,835.0,Diversified ,Consumer goods
+Jamshyd Godrej,69,Male,India,836.0,Diversified ,Consumer goods
+Nadir Godrej,67,Male,India,837.0,Diversified ,Consumer goods
+Joseph Grendys,56,Male,India,866.0,Food and Beverage ,Poultry processing
+Hedda Im brahm-droege,63,Female,Germany,909.0,Service ,Consulting
+Ke Ke,63,Female,People'S Republic Of China,724.0,Healthcare ,Pharmaceuticals
+Randal Kirk,64,Male,People'S Republic Of China,812.0,Healthcare ,Pharmaceuticals
+Alicia Koplowitz,64,Male,People'S Republic Of China,886.0,Finance and Investments ,"Construction, investments"
+Kwek Kwek,77,Male,People'S Republic Of China,1066.0,Real Estate ,Real estate
+Louis Le duff,71,Male,France,851.0,Food and Beverage ,Bakeries
+Yusaku Maezawa,42,Male,France,594.0,Technology ,Online retail
+Sergio Mantegazza,90,Male,France,865.0,Service ,Travel
+Hans Melchers,80,Male,France,899.0,Finance and Investments ,"Chemicals, investments"
+Erwin Mueller,85,Male,France,864.0,Fashion & Retail ,Drugstores
+Rishad Naoroji,66,Male,France,833.0,Diversified ,Consumer goods
+Husnu Ozyegin,73,Male,Turkey,1050.0,Finance and Investments ,"Finance, diversified"
+Prajogo Pangestu,74,Male,Turkey,1022.0,Diversified ,Petrochemicals
+Jeff Rothschild,63,Male,United States,734.0,Technology ,Facebook
+Thomas Siebel,65,Male,United States,852.0,Technology ,Business software
+Paul Singer,73,Male,United States,855.0,Finance and Investments ,Hedge funds
+Ralph Sonnenberg,84,Male,United States,940.0,Manufacturing ,Blinds
+Jon Stryker,60,Male,United States,741.0,Healthcare ,Medical equipment
+Georg Stumpf,45,Male,Austria,889.0,Diversified ,"Real estate, construction"
+Tsai Tsai,65,Male,Austria,777.0,Finance and Investments ,Finance
+Vincent Viola,62,Male,United States,782.0,Finance and Investments ,Electronic trading
+Radovan Vitek,47,Male,Czech Republic,877.0,Real Estate ,Real estate
+Wang Wang,51,Male,Czech Republic,861.0,Technology ,Electronics components
+Wang Wang,53,Male,China,868.0,Technology ,Electronics components
+Carlos Ardila lülle,88,Male,China,937.0,Food and Beverage ,"Soft drinks, diversified"
+William Conway,68,Male,United States,881.0,Finance and Investments ,Private equity
+Daniel D'aniello,71,Male,United States,885.0,Finance and Investments ,Private equity
+Jim Davis,58,Male,United States,762.0,Service ,Staffing & recruiting
+Ding Ding,54,Male,China,685.0,Fashion & Retail ,Sportswear
+John Dorrance,74,Male,China,883.0,Food and Beverage ,Campbell soup
+Doris Fisher,86,Female,China,857.0,Fashion & Retail ,Gap
+John Fisher,57,Female,China,843.0,Fashion & Retail ,Gap
+Caroline Hagen kjos,33,Female,Norway,992.0,Diversified ,Conglomerate
+Kieu Hoang,73,Male,Norway,900.0,Healthcare ,Medical products
+Huang Huang,67,Male,Norway,829.0,Real Estate ,Real estate
+H. Huizenga,80,Male,United States,829.0,Finance and Investments ,Investments
+Osman Kibar,47,Male,United States,902.0,Healthcare ,Biotech
+Aloke Lohia,59,Male,United States,841.0,Manufacturing ,Petrochemicals
+Taha Mikati,73,Male,United States,952.0,Telecom ,Telecom
+Philip Niarchos,64,Male,Greece,884.0,Diversified ,Art collection
+Stefan Olsson,69,Male,Greece,980.0,Diversified ,Diversified
+Sebastian Piñera,68,Male,Chile,873.0,Finance and Investments ,Investments
+Penny Pritzker,59,Male,Chile,880.0,Finance and Investments ,"Hotels, investments"
+Nicolas Puech,75,Male,Chile,714.0,Fashion & Retail ,Hermes
+Chandru Raheja,77,Male,Chile,904.0,Real Estate ,Real estate
+David Rubenstein,68,Male,United States,869.0,Finance and Investments ,Private equity
+Shi Shi,55,Male,People'S Republic Of China,1288.0,Diversified ,"Online games, investments"
+Zygmunt Solorz-zak,61,Male,People'S Republic Of China,946.0,Media & Entertainment ,Tv broadcasting
+Tung Tung,76,Male,People'S Republic Of China,859.0,Logistics ,Shipping
+Mark Walter,58,Male,United States,761.0,Finance and Investments ,Finance
+William Wrigley,54,Male,United States,901.0,Food and Beverage ,Chewing gum
+Mortimer Zuckerman,81,Male,United States,853.0,Real Estate ,"Real estate, media"
+Mohed Altrad,70,Male,United States,962.0,Construction & Engineering ,"Scaffolding, cement mixers"
+Anil Ambani,59,Male,United States,1121.0,Diversified ,Diversified
+Roberto Angelini rossi,69,Male,United States,1053.0,Diversified ,"Forestry, mining"
+Saeed Bin butti al qebaisi,-9999,Male,United States,856.0,Diversified ,"Hospitals, investments"
+Pierre Chen,60,Male,Taiwan,410.0,Diversified ,"Art, electronics"
+Ray Davis,76,Male,United States,887.0,Energy ,Pipelines
+Edward Debartolo,71,Male,United States,831.0,Real Estate ,Shopping centers
+Bennett Dorrance,72,Male,United States,1027.0,Food and Beverage ,Campbell soup
+Eduardo Eurnekian,85,Male,United States,906.0,Diversified ,"Airports, investments"
+Piero Ferrari,73,Male,United States,790.0,Automotive ,Automobiles
+Fiona Geminder,53,Female,Australia,958.0,Manufacturing ,Manufacturing
+Gu Gu,68,Male,Australia,793.0,Manufacturing ,Furniture
+Don Hankey,75,Male,United States,930.0,Finance and Investments ,Auto loans
+Reed Hastings,57,Male,United States,519.0,Media & Entertainment ,Netflix
+Huang Huang,58,Male,United States,986.0,Real Estate ,Real estate
+James Irsay,59,Male,United States,910.0,Sports ,Indianapolis colts
+Kim Kim,52,Male,South Korea,949.0,Technology ,Online services
+Mustafa Kucuk,55,Male,South Korea,1130.0,Fashion & Retail ,Fashion retail
+Mohamed Mansour,70,Male,Egypt,911.0,Diversified ,Diversified
+Najib Mikati,62,Male,Egypt,970.0,Telecom ,Telecom
+Ermirio Moraes,86,Male,Egypt,1049.0,Diversified ,Diversified
+Bob Parsons,67,Male,United States,905.0,Technology ,Web hosting
+Krit Ratanarak,72,Male,United States,774.0,Media & Entertainment ,"Media, real estate"
+Helena Revoredo,71,Female,Spain,1043.0,Service ,Security services
+Phillip Ruffin,83,Female,United States,916.0,Diversified ,"Casinos, real estate"
+Howard Schultz,64,Male,United States,948.0,Food and Beverage ,Starbucks
+E. Shoen,68,Male,United States,915.0,Automotive ,U-haul
+Thomas Straumann,54,Male,United States,842.0,Healthcare ,Dental implants
+Lawrence Stroll,58,Male,United States,928.0,Fashion & Retail ,Fashion investments
+Andrew Tan,65,Male,United States,1092.0,Diversified ,Diversified
+Tsai Tsai,-9999,Male,United States,894.0,Finance and Investments ,Finance
+Frank Vandersloot,69,Male,United States,673.0,Fashion & Retail ,Nutrition and wellness products
+Sandro Veronesi,58,Male,United States,1140.0,Fashion & Retail ,Fashion
+Ty Warner,73,Male,United States,908.0,Real Estate ,"Real estate, plush toys"
+Oprah Winfrey,64,Male,United States,783.0,Media & Entertainment ,Tv shows
+Zhang Zhang,56,Male,United States,934.0,Fashion & Retail ,Retail
+Zuo Zuo,47,Male,United States,919.0,Real Estate ,Real estate services
+Juan Abello,76,Male,United States,981.0,Finance and Investments ,Investments
+Semahat Arsel,89,Male,Turkey,1333.0,Diversified ,Diversified
+Bang Bang,50,Male,Turkey,839.0,Technology ,Online gaming
+Koos Bekker,65,Male,Turkey,969.0,Media & Entertainment ,"Media, investments"
+David Bonderman,75,Male,Turkey,941.0,Finance and Investments ,Private equity
+Francesco Caltagirone,75,Male,Turkey,1079.0,Construction & Engineering ,"Cement, diversified"
+John Caudwell,65,Male,Turkey,990.0,Telecom ,Mobile phones
+Chen Chen,57,Male,Turkey,772.0,Finance and Investments ,Investments
+Chung Chung,47,Male,South Korea,997.0,Logistics ,Logistics
+Isabel Dos santos,45,Female,South Korea,1057.0,Finance and Investments ,Investments
+Fong Fong,93,Male,South Korea,950.0,Real Estate ,Real estate
+Phillip Frost,81,Male,South Korea,879.0,Healthcare ,Pharmaceuticals
+Lutz Helmig,71,Male,South Korea,1076.0,Healthcare ,Hospitals
+B. Hughes,84,Male,South Korea,867.0,Service ,Self storage
+Daniel Kretinsky,42,Male,South Korea,936.0,Energy ,Energy generation
+Raj Kumar & kishin rk,64,Male,Singapore,995.0,Real Estate ,Real estate
+Lam Lam,54,Male,Singapore,875.0,Healthcare ,Pharmaceuticals
+Lau Lau,82,Male,Malaysia,913.0,Diversified ,"Palm oil, property"
+Stephen Mandel,62,Male,Malaysia,821.0,Finance and Investments ,Hedge funds
+Gilles Martin,54,Male,Malaysia,1078.0,Healthcare ,Laboratory services
+Daniel Mate,55,Male,Spain,921.0,Metals & Mining ,"Mining, commodities"
+Robert Miller,72,Male,Spain,929.0,Technology ,Electronics components
+Jorge Moll filho,73,Male,Brazil,1081.0,Healthcare ,Hospitals
+Maria Moraes scripilliti,87,Male,Brazil,1199.0,Diversified ,Diversified
+Sean Parker,38,Male,Brazil,953.0,Technology ,Facebook
+Jay Paul,70,Male,Brazil,882.0,Real Estate ,Real estate
+Patrick Ryan,81,Male,United States,947.0,Finance and Investments ,Insurance
+Thomas Secunda,64,Male,United States,845.0,Media & Entertainment ,Bloomberg lp
+Shen Shen,72,Male,United States,1012.0,Metals & Mining ,Steel production
+Shen Shen,59,Male,China,606.0,Real Estate ,Real estate
+Gil Shwed,50,Male,China,944.0,Technology ,Software
+Song Song,71,Male,China,1042.0,Diversified ,"Aluminum, diversified"
+Warren Stephens,61,Male,United States,932.0,Finance and Investments ,Investment banking
+Glen Taylor,77,Male,United States,878.0,Service ,Printing
+Hanni Toosbuy kasprzak,60,Female,United States,896.0,Fashion & Retail ,Shoes
+Torbjorn Tornqvist,64,Male,United States,933.0,Energy ,Oil trading
+Bulat Utemuratov,60,Male,United States,942.0,Metals & Mining ,"Mining, banking, hotels"
+Chip Wilson,61,Male,United States,669.0,Fashion & Retail ,Lululemon
+Jerry Yang,49,Male,United States,893.0,Technology ,Yahoo
+Zhang Zhang,52,Male,United States,1151.0,Technology ,Touch screens
+Zhu Zhu,59,Male,People'S Republic Of China,1160.0,Construction & Engineering ,Construction
+Ramon Ang,64,Male,Philippines,1025.0,Food and Beverage ,Diversified
+Edward Bass,72,Male,Philippines,964.0,Energy ,"Oil, investments"
+Lee Bass,62,Male,Philippines,956.0,Energy ,"Oil, investments"
+Bert Beveridge,56,Male,Philippines,968.0,Food and Beverage ,Vodka
+George Bishop,80,Male,Philippines,967.0,Energy ,Oil & gas
+Jaime Botin,82,Male,Spain,1063.0,Finance and Investments ,Banking
+Norman Braman,85,Male,United States,927.0,Automotive ,"Art, car dealerships"
+Chin Chin,60,Male,United States,1163.0,Automotive ,Auto parts
+Cho Cho,72,Male,United States,1003.0,Manufacturing ,Auto parts
+John Coates,48,Male,United States,1069.0,Gambling & Casinos ,Online gambling
+Du Du,48,Male,China,1338.0,Manufacturing ,Chemicals
+Aloysio Faria,97,Male,China,1135.0,Finance and Investments ,Banking
+Kenneth Feld,69,Male,United States,979.0,Media & Entertainment ,"Circus, live entertainment"
+Luca Garavoglia,49,Male,United States,907.0,Food and Beverage ,Spirits
+Noam Gottesman,57,Male,United States,998.0,Finance and Investments ,Hedge funds
+Jonathan Gray,48,Male,United States,975.0,Finance and Investments ,Investments
+Stein Hagen,61,Male,United States,983.0,Fashion & Retail ,Consumer goods
+Chang-woo Han,87,Male,United States,1039.0,Gambling & Casinos ,Pachinko parlors
+John Henry,68,Male,United States,961.0,Sports ,Sports
+Lawrence Ho,41,Male,United States,872.0,Gambling & Casinos ,Casinos
+Hui Hui,65,Male,United States,924.0,Manufacturing ,Hygiene products
+Mustafa Koc,87,Male,Turkey,1380.0,Diversified ,Diversified
+Kuan Kuan,70,Male,Turkey,959.0,Manufacturing ,Synthetic gloves
+Jane Lauder,45,Female,Turkey,890.0,Fashion & Retail ,Cosmetics
+Aerin Lauder zinterhofer,48,Female,United States,876.0,Fashion & Retail ,Cosmetics
+Maritsa Lazari,73,Female,United States,1034.0,Real Estate ,Real estate
+Bernard Lewis,92,Male,United States,1014.0,Fashion & Retail ,Fashion retailer
+Vincent Lo,69,Male,United States,1090.0,Real Estate ,Real estate
+Jeffrey Lorberbaum,63,Male,United States,1165.0,Manufacturing ,Flooring
+Joe Mansueto,61,Male,United States,694.0,Finance and Investments ,Investment research
+Jose Marinho,62,Male,United States,1100.0,Media & Entertainment ,Media
+Roberto Marinho,70,Male,United States,1094.0,Media & Entertainment ,Media
+C. Metropoulos,72,Male,United States,966.0,Food and Beverage ,Investments
+Aristotelis Mistakidis,56,Male,United States,951.0,Metals & Mining ,"Mining, commodities"
+Arturo Moreno,71,Male,United States,1000.0,Sports ,"Billboards, anaheim angels"
+Yoshiko Mori,77,Female,United States,996.0,Real Estate ,Real estate
+Adam Neumann,39,Male,United States,1001.0,Real Estate ,Wework
+Or Or,67,Male,United States,974.0,Real Estate ,Real estate
+Richard Peery,79,Male,United States,943.0,Real Estate ,Real estate
+Horst Pudwill,73,Male,United States,1026.0,Manufacturing ,Manufacturing
+P.v. Reddy,60,Male,United States,1021.0,Healthcare ,Pharmaceuticals
+Larry Robbins,48,Male,United States,1030.0,Finance and Investments ,Hedge funds
+Carlos Sanchez,56,Male,United States,1129.0,Healthcare ,Generic drugs
+Stephan Schmidheiny,70,Male,United States,984.0,Finance and Investments ,Investments
+Klaus-peter Schulenberg,-9999,Male,United States,955.0,Service ,Ticketing service
+Charles Simonyi,69,Male,United States,888.0,Technology ,Microsoft
+Mark Stevens,58,Male,United States,912.0,Finance and Investments ,Venture capital
+Sze Sze,68,Male,China,923.0,Manufacturing ,Hygiene products
+Sarik Tara,88,Male,Turkey,1294.0,Construction & Engineering ,Construction
+Lottie Tham,69,Female,Sweden,1073.0,Fashion & Retail ,H&m
+Peter Thiel,50,Male,United States,972.0,Finance and Investments ,"Facebook, palantir"
+Elaine Wynn,76,Male,United States,957.0,Gambling & Casinos ,"Casinos, hotels"
+Denise York,67,Female,United States,1004.0,Sports ,San francisco 49ers
+David Zalik,44,Female,United States,1009.0,Technology ,Technology
+Zhao Zhao,52,Male,United States,1071.0,Healthcare ,Pharmaceuticals
+George Argyros,81,Male,United States,1020.0,Real Estate ,"Real estate, investments"
+John Arrillaga,81,Male,United States,977.0,Real Estate ,Real estate
+Charles Bronfman,86,Male,United States,1033.0,Food and Beverage ,Liquor
+Peter Buck,87,Male,United States,1015.0,Food and Beverage ,Subway sandwich shops
+Chen Chen,50,Female,People'S Republic Of China,1089.0,Finance and Investments ,Investments
+Vivien Chen,59,Female,People'S Republic Of China,999.0,Real Estate ,Real estate
+Chu Chu,48,Female,People'S Republic Of China,1019.0,Manufacturing ,Flavorings
+Jean Coutu,91,Female,People'S Republic Of China,1083.0,Fashion & Retail ,Drugstores
+Jose Cutrale,71,Male,People'S Republic Of China,1017.0,Food and Beverage ,Orange juice
+Jai Dalmia,-9999,Male,People'S Republic Of China,1278.0,Manufacturing ,Cement
+Bergit Douglas,71,Female,People'S Republic Of China,1104.0,Food and Beverage ,Consumer goods
+Alfredo Egydio arruda villela filho,48,Male,Brazil,1454.0,Finance and Investments ,Banking
+Marcel Erni,53,Male,Brazil,1007.0,Finance and Investments ,Private equity
+Andre Esteves,49,Male,Brazil,1207.0,Finance and Investments ,Banking
+Carlo Fidani,63,Male,Canada,1099.0,Real Estate ,Real estate
+Abhay Firodia,73,Male,Canada,1024.0,Automotive ,Automobiles
+Alfred Gantner,50,Male,Canada,1006.0,Finance and Investments ,Private equity
+Geng Geng,55,Male,China,1133.0,Real Estate ,Real estate
+Mitchell Goldhar,56,Male,China,1062.0,Real Estate ,Real estate
+Hortensia Herrero,68,Female,Spain,1029.0,Fashion & Retail ,Supermarkets
+Michael Hintze,64,Female,Spain,1040.0,Finance and Investments ,Investment
+Igor Kesaev,51,Male,Spain,1041.0,Fashion & Retail ,"Tobacco distribution, retail"
+Koon Koon,57,Male,Spain,1366.0,Manufacturing ,Aluminum
+Hermann Langness,65,Male,Spain,1045.0,Food and Beverage ,Retail
+Li Li,54,Male,Spain,991.0,Technology ,Software
+Alexander Mamut,58,Male,Spain,1059.0,Finance and Investments ,Investments
+Joao Marinho,64,Male,Spain,1148.0,Media & Entertainment ,Media
+Drayton Mclane,81,Male,Spain,1131.0,Fashion & Retail ,"Wal-mart, logistics"
+Patrice Motsepe,56,Male,Spain,1302.0,Metals & Mining ,Mining
+Alfred Oetker,51,Male,Spain,1102.0,Fashion & Retail ,Consumer goods
+August Oetker,74,Male,Germany,1103.0,Fashion & Retail ,Consumer goods
+Carl Oetker,45,Male,Germany,1105.0,Fashion & Retail ,Consumer goods
+Christian Oetker,70,Male,Germany,1106.0,Fashion & Retail ,Consumer goods
+Julia Oetker,39,Female,Germany,1107.0,Fashion & Retail ,Consumer goods
+Richard Oetker,67,Male,Germany,1108.0,Fashion & Retail ,Consumer goods
+Daniel Pritzker,58,Male,United States,1035.0,Service ,"Hotels, investments"
+John Pritzker,65,Male,United States,1023.0,Finance and Investments ,"Hotels, investments"
+Nevaldo Rocha,88,Male,United States,1713.0,Fashion & Retail ,Retail
+Luigi Rovati,89,Male,Italy,1060.0,Healthcare ,Pharmaceuticals
+Ferit Sahenk,54,Male,Italy,1193.0,Diversified ,Diversified
+Rosely Schweizer,77,Female,Italy,1109.0,Fashion & Retail ,Consumer goods
+Eric Smidt,58,Male,Italy,993.0,Fashion & Retail ,Hardware stores
+Alexander Spanos,94,Male,United States,1013.0,Sports ,"Real estate, los angeles chargers"
+Leena Tewari,60,Male,United States,1085.0,Healthcare ,Pharmaceuticals
+Tong Tong,63,Male,United States,1064.0,Real Estate ,Real estate
+Peter Unger,73,Male,Germany,1052.0,Automotive ,Auto repair
+Sunny Varkey,61,Male,Germany,935.0,Service ,Education
+Urs Wietlisbach,56,Male,Germany,1008.0,Finance and Investments ,Private equity
+Michael Ying,68,Male,Germany,1031.0,Fashion & Retail ,Retail
+Yu Yu,56,Male,Germany,891.0,Service ,Education
+Eva Bucher-haefner,61,Female,Germany,1028.0,Technology ,Computer associates
+Chen Chen,52,Female,China,1093.0,Real Estate ,Real estate
+Gustavo Denegri,82,Male,China,828.0,Healthcare ,Biotech
+Dermot Desmond,67,Male,China,1243.0,Finance and Investments ,Finance
+Murali Divi,67,Male,China,1113.0,Healthcare ,Pharmaceuticals
+Thomas Flohr,48,Male,Switzerland,2063.0,Logistics ,Vistajet
+Bernard Fraisse,61,Male,Switzerland,1114.0,Healthcare ,Pharmaceuticals
+Harsh Goenka,60,Male,Switzerland,1125.0,Diversified ,Diversified
+David Gottesman,92,Male,Switzerland,1111.0,Finance and Investments ,Investments
+Murli Gyanchandani,-9999,Male,Switzerland,1038.0,Manufacturing ,Detergents
+Bill Haslam,59,Male,Switzerland,976.0,Fashion & Retail ,Truck stops
+Hu Hu,55,Male,China,1269.0,Healthcare ,Pharmaceuticals
+W. Hunt,89,Male,China,939.0,Energy ,Oil
+Alijan Ibragimov,64,Male,Kazakhstan,1046.0,Metals & Mining ,"Mining, metals"
+Bradley Jacobs,61,Male,United States,903.0,Logistics ,Logistics
+Brad Kelley,61,Male,United States,1065.0,Real Estate ,Tobacco
+Vinod Khosla,63,Male,United States,870.0,Technology ,Venture capital
+Stephen Lansdown,65,Male,United States,1005.0,Finance and Investments ,Financial services
+Martin Lau,45,Male,Hong Kong,1116.0,Technology ,E-commerce
+Lee Lee,77,Male,South Korea,1396.0,Construction & Engineering ,"Construction, real estate"
+Lin Lin,55,Male,South Korea,1132.0,Finance and Investments ,Investments
+Kenneth Lo,79,Male,Uk,1228.0,Finance and Investments ,Textiles
+Alexander Machkevich,64,Male,Israel,1091.0,Metals & Mining ,"Mining, metals"
+Clayton Mathile,77,Male,Israel,1048.0,Food and Beverage ,Pet food
+Stanley Perron,95,Male,Israel,1097.0,Real Estate ,"Real estate, retail"
+J. Ricketts,76,Male,United States,1032.0,Finance and Investments ,Td ameritrade
+Dirk Rossmann,71,Male,United States,1349.0,Fashion & Retail ,Drugstores
+Filiz Sahenk,51,Female,Turkey,1290.0,Diversified ,Diversified
+Dan Snyder,53,Female,Turkey,1080.0,Sports ,Washington redskins
+Peter Spuhler,58,Male,Turkey,1244.0,Manufacturing ,Train cars
+Tang Tang,84,Male,Hong Kong,1084.0,Fashion & Retail ,Fashion retail
+John Tyson,64,Male,United States,1149.0,Food and Beverage ,Food processing
+Wong Wong,53,Male,United States,1087.0,Manufacturing ,Furniture
+Lia Aguiar,80,Female,Brazil,1494.0,Finance and Investments ,Banking
+Aziz Akhannouch,57,Female,Morocco,1381.0,Diversified ,"Petroleum, diversified"
+Ron Baron,75,Male,United States,1074.0,Finance and Investments ,Money management
+Shyam Bhartia,65,Male,United States,1144.0,Diversified ,Diversified
+Timothy Boyle,68,Male,United States,960.0,Fashion & Retail ,Columbia sportswear
+Tatiana Casiraghi,33,Female,Monaco,1169.0,Food and Beverage ,Beer
+Chan Chan,-9999,Female,Monaco,1316.0,Real Estate ,Real estate
+Chase Coleman,43,Male,United States,918.0,Finance and Investments ,Hedge fund
+Mark Coombs,57,Male,United States,1198.0,Finance and Investments ,Finance
+James Coulter,58,Male,United States,1127.0,Finance and Investments ,Private equity
+Dulce De godoy bueno,70,Female,Brazil,1274.0,Healthcare ,"Hospitals, health care"
+Ana De mattos barretto villela,44,Female,Brazil,1560.0,Finance and Investments ,Banking
+Frank Fertitta,56,Male,United States,1101.0,Sports ,"Casinos, mixed martial arts"
+Lorenzo Fertitta,49,Male,United States,1095.0,Sports ,"Casinos, mixed martial arts"
+Maria Fissolo,83,Female,Italy,1197.0,Food and Beverage ,"Nutella, chocolates"
+Alexander Frolov,54,Male,Italy,978.0,Metals & Mining ,"Mining, steel"
+Ernest Garcia,61,Male,United States,591.0,Automotive ,Used cars
+Alexandre Grendene bartelle,68,Male,United States,1443.0,Fashion & Retail ,Shoes
+Vinod Gupta,72,Female,India,1112.0,Manufacturing ,Electrical equipment
+Torstein Hagen,75,Female,Norway,1110.0,Service ,Cruises
+He He,52,Female,Norway,1304.0,Service ,Landscape architecture
+Hans-werner Hector,78,Male,Norway,1173.0,Technology ,Sap
+Stanley Hubbard,85,Male,United States,1167.0,Media & Entertainment ,Directv
+Ke Ke,58,Male,China,1231.0,Diversified ,Investments
+Suna Kirac,77,Female,Turkey,1504.0,Diversified ,Diversified
+Kong Kong,50,Male,Turkey,1051.0,Real Estate ,Real estate
+Koo Koo,73,Male,South Korea,1051.0,Diversified ,Diversified
+Heikki Kyostila,72,Male,South Korea,1155.0,Healthcare ,Dental products
+Thomas Lee,74,Male,South Korea,1122.0,Finance and Investments ,Private equity
+Eric Lefkofsky,48,Male,South Korea,1152.0,Technology ,Groupon
+Peter Lim,65,Male,South Korea,987.0,Finance and Investments ,Investments
+Scott Lin,-9999,Male,South Korea,965.0,Technology ,Optical components
+Tomas Olivo lopez,44,Male,South Korea,1180.0,Real Estate ,Shopping centers
+Phillip Ragon,69,Male,South Korea,973.0,Technology ,Health it
+Stewart Rahr,72,Male,United States,1118.0,Healthcare ,Drug distribution
+T. Sanford,82,Male,United States,994.0,Finance and Investments ,"Banking, credit cards"
+Julio Santo domingo,32,Male,United States,1168.0,Food and Beverage ,Beer
+Karl Scheufele,79,Male,United States,1056.0,Fashion & Retail ,Jewelry
+Shen Shen,55,Male,United States,1142.0,Fashion & Retail ,Retail
+Alain Taravella,70,Male,United States,1150.0,Real Estate ,Real estate
+Oleg Tinkov,50,Male,United States,1054.0,Finance and Investments ,Banking
+T.y. Tsai,-9999,Male,United States,1137.0,Finance and Investments ,Finance
+Tung Tung,81,Male,United States,1120.0,Logistics ,Shipping
+Ted Turner,79,Male,United States,1096.0,Media & Entertainment ,Cable television
+Sunil Vaswani,54,Male,United States,1086.0,Diversified ,Diversified
+Jitendra Virwani,52,Male,United States,1218.0,Real Estate ,Real estate
+Lang Walker,72,Male,United States,1058.0,Real Estate ,Real estate
+Wu Wu,83,Male,United States,834.0,Food and Beverage ,Bakery chain
+Xiao Xiao,51,Male,People'S Republic Of China,1141.0,Media & Entertainment ,Entertainment
+Xiong Xiong,61,Male,People'S Republic Of China,1202.0,Real Estate ,Real estate
+Takao Yasuda,69,Male,People'S Republic Of China,1158.0,Fashion & Retail ,Retail
+William Young,77,Male,United States,1119.0,Manufacturing ,Plastics
+Eddie Zakay,-9999,Male,United States,1128.0,Real Estate ,Real estate
+Zhang Zhang,57,Male,People'S Republic Of China,1138.0,Automotive ,Automobiles
+Leslie Alexander,74,Male,People'S Republic Of China,1192.0,Sports ,Sports team
+Patricia Angelini rossi,64,Female,Chile,1312.0,Diversified ,"Forestry, mining"
+Josef Boquoi,84,Male,Chile,1252.0,Food and Beverage ,Frozen foods
+Nikolai Buinov,50,Male,Chile,1070.0,Energy ,"Oil, gas"
+Richard Chandler,59,Male,Chile,1187.0,Finance and Investments ,Investments
+Cheng Cheng,48,Female,China,825.0,Food and Beverage ,Soy sauce
+Patokh Chodiev,65,Male,China,1212.0,Metals & Mining ,"Mining, metals"
+Choo Choo,65,Male,Singapore,1011.0,Real Estate ,Hotels
+Todd Christopher,55,Male,United States,1182.0,Fashion & Retail ,Hair care products
+John De mol,63,Male,Netherlands,1229.0,Media & Entertainment ,Television
+Bob Gaglardi,77,Male,Netherlands,1248.0,Real Estate ,Hotels
+Gordon Getty,84,Male,Netherlands,1157.0,Energy ,Getty oil
+Philippe Ginestet,64,Male,Netherlands,1249.0,Fashion & Retail ,Retail stores
+Sanjiv Goenka,57,Male,Netherlands,1283.0,Diversified ,Diversified
+Alec Gores,65,Male,Netherlands,1139.0,Finance and Investments ,Private equity
+David Hains,87,Male,Australia,1255.0,Finance and Investments ,Investment
+Bahaa Hariri,52,Male,Australia,1162.0,Real Estate ,"Real estate, investments, logistics"
+William Heinecke,69,Male,Australia,1551.0,Real Estate ,Hotels
+Huang Huang,51,Male,People'S Republic Of China,1242.0,Real Estate ,Real estate
+Huang Huang,70,Male,People'S Republic Of China,1263.0,Construction & Engineering ,Construction
+Ravi Jaipuria,63,Male,People'S Republic Of China,1123.0,Food and Beverage ,Soft drinks
+Jiang Jiang,55,Male,People'S Republic Of China,1200.0,Real Estate ,Real estate
+Manuel Jove,77,Male,People'S Republic Of China,1213.0,Real Estate ,Real estate
+Willibert Krueger,77,Male,Germany,1225.0,Food and Beverage ,Food processing
+Kuok Kuok,68,Male,Singapore,1136.0,Manufacturing ,Palm oil
+Christian Latouche,77,Male,France,1175.0,Finance and Investments ,Accounting services
+Guenther Lehmann,-9999,Male,Germany,1203.0,Fashion & Retail ,Drugstores
+Li Li,65,Male,China,1260.0,Manufacturing ,Paper & related products
+Li Li,67,Male,China,1211.0,Healthcare ,Medical devices
+Liang Liang,49,Male,China,1214.0,Food and Beverage ,Nutrition supplements
+Brandt Louie,74,Male,China,1232.0,Food and Beverage ,Drugstores
+Catherine Lozick,73,Male,United States,1239.0,Manufacturing ,Valve manufacturing
+Igor Makarov,56,Male,United States,1181.0,Energy ,Investments
+Mao Mao,77,Male,China,1208.0,Technology ,Cooking appliances
+Harsh Mariwala,67,Male,China,1088.0,Food and Beverage ,Consumer goods
+Martin Moller nielsen,53,Male,China,1183.0,Logistics ,Aircraft leasing
+David Murdock,95,Male,United States,1205.0,Food and Beverage ,"Dole, real estate"
+N.r. Murthy,71,Male,United States,1156.0,Technology ,Software services
+Georg Nemetschek,84,Male,United States,922.0,Technology ,Software
+Vikas Oberoi,47,Male,India,1143.0,Real Estate ,Real estate
+Maja Oeri,63,Female,India,1194.0,Healthcare ,Roche holding
+Ong Ong beng seng,73,NaN,India,1279.0,Diversified ,Diversified
+H. Perot,59,NaN,United States,1177.0,Real Estate ,Real estate
+Tor Peterson,53,NaN,United States,1126.0,Metals & Mining ,Commodities
+Heloise Pratt,55,Female,United States,1206.0,Manufacturing ,"Manufacturing, investment"
+Alexey Repik,38,Male,Russia,1164.0,Healthcare ,Pharmaceuticals
+Shin Shin,64,Male,Russia,1178.0,Finance and Investments ,Insurance
+Kavitark Shriram,61,Male,Russia,1145.0,Technology ,"Venture capital, google"
+Sylvia Stroeher,63,Male,Russia,1250.0,Fashion & Retail ,Cosmetics
+Katsumi Tada,72,Male,Russia,1154.0,Real Estate ,Real estate
+Tang Tang,84,Male,Russia,1196.0,Real Estate ,Real estate
+Georg Von opel,52,Male,Russia,1176.0,Finance and Investments ,"Real estate, investments"
+David Walentas,79,Male,United States,1174.0,Real Estate ,Real estate
+Ronald Wanek,77,Male,United States,1297.0,Manufacturing ,Furniture
+Wang Wang,53,Male,United States,1344.0,Media & Entertainment ,"Tv, movie production"
+Wang Wang,53,Male,United States,1055.0,Technology ,Business software
+Ye Ye,56,Male,China,1188.0,Diversified ,Conglomerate
+Zhu Zhu,60,Male,China,1233.0,Manufacturing ,Solar panel materials
+Antti Aarnio-wihuri,78,Male,Finland,1301.0,Diversified ,Diversified
+S. Abraham,93,Male,Finland,1204.0,Food and Beverage ,Slim-fast
+Joao Alves de queiroz filho,65,Male,Finland,1507.0,Diversified ,Pharmaceuticals
+Mika Anttonen,51,Male,Finland,1287.0,Energy ,Oil & gas
+Thor Bjorgolfsson,51,Male,Finland,1277.0,Diversified ,Investments
+Andrei Bokarev,51,Male,Finland,1296.0,Manufacturing ,"Metals, mining"
+Bernhard Braun-luedicke,41,Male,Germany,1265.0,Healthcare ,Medical technology
+Eva Braun-luedicke,30,Female,Germany,1266.0,Healthcare ,Medical technology
+Friederike Braun-luedicke,33,Female,Germany,1267.0,Healthcare ,Medical technology
+Ron Burkle,65,Male,United States,1067.0,Finance and Investments ,"Supermarkets, investments"
+Vivek Burman,81,Male,United States,1146.0,Food and Beverage ,Consumer goods
+Chen Chen,82,Male,United States,1276.0,Real Estate ,Real estate
+James Clark,74,Male,United States,1153.0,Technology ,"Netscape, investments"
+Christopher Cline,59,Male,United States,1262.0,Energy ,Coal
+Alexandra Daitch,55,Female,United States,1220.0,Food and Beverage ,Cargill
+Dong Dong,47,Male,People'S Republic Of China,799.0,Healthcare ,Pharmaceuticals
+Fritz Draexlmaier,-9999,Male,Germany,1387.0,Automotive ,Auto parts
+Glenn Dubin,61,Male,United States,1219.0,Finance and Investments ,Hedge funds
+Robert Duggan,74,Male,United States,1257.0,Healthcare ,Pharmaceuticals
+Jayme Garfinkel,72,Male,United States,1452.0,Finance and Investments ,Insurance
+Sam Goi,69,Male,United States,1314.0,Food and Beverage ,Frozen foods
+Thomas Hagen,82,Male,United States,1170.0,Finance and Investments ,Insurance
+Carlos Hank rhon,70,Male,Mexico,1247.0,Diversified ,Banking
+Christoph Henkel,60,Male,Mexico,1282.0,Fashion & Retail ,Consumer goods
+Hu Hu,56,Male,China,895.0,Healthcare ,Pharmaceuticals
+Huang Huang,56,Male,Hong Kong,917.0,Automotive ,Auto distribution
+Ramesh Juneja,62,Male,Hong Kong,1346.0,Healthcare ,Pharmaceuticals
+Bruce Karsh,62,Male,United States,1258.0,Finance and Investments ,Private equity
+Henry Laufer,72,Male,United States,1237.0,Finance and Investments ,Hedge funds
+Lee Lee,47,Female,South Korea,1339.0,Service ,"Computer services, tourism"
+Lee Lee,58,Male,South Korea,1393.0,Diversified ,"Food products, entertainment"
+Wolfgang Leitner,65,Male,South Korea,1355.0,Construction & Engineering ,Engineering
+Li Li,51,Male,South Korea,584.0,Healthcare ,Biotech
+Harald Link,63,Male,South Korea,1605.0,Diversified ,Diversified
+Liu Liu,55,Male,China,858.0,Energy ,Natural gas distribution
+Jeffrey Lurie,66,Male,China,1201.0,Sports ,Philadelphia eagles
+Ma Ma,48,Male,China,1098.0,Healthcare ,Pharmaceuticals
+Sarah Macmillan,64,Female,United States,1223.0,Food and Beverage ,Cargill
+Howard Marks,72,Female,United States,1273.0,Finance and Investments ,Private equity
+Miao Miao,63,Male,China,1270.0,Real Estate ,Real estate
+Lachhman Mittal,87,Male,China,1427.0,Automotive ,Tractors
+Mario Moretti polegato,65,Male,China,1326.0,Fashion & Retail ,Shoes
+Vadim Moshkovich,51,Male,Russia,1179.0,Food and Beverage ,"Agriculture, land"
+Mofatraj Munot,73,Male,Russia,1525.0,Real Estate ,Real estate
+Jonathan Nelson,62,Male,Russia,1361.0,Finance and Investments ,Private equity
+Florentino Perez,71,Male,Spain,1115.0,Construction & Engineering ,Construction
+Chuchat Petaumpai,65,NaN,Spain,1477.0,Finance and Investments ,Motorcycle loans
+Peter Peterson,92,Male,Spain,1477.0,Finance and Investments ,Investments
+Arvind Poddar,60,Male,Spain,1308.0,Automotive ,Tires
+Murdaya Poo,77,Male,Indonesia,1398.0,Diversified ,Diversified
+Ren Ren,74,Male,Indonesia,1702.0,Telecom ,Telecom equipment
+Antony Ressler,56,Male,United States,1235.0,Finance and Investments ,Finance
+Francisco Riberas mera,54,Male,United States,1159.0,Manufacturing ,"Steel, autoparts"
+Rodney Sacks,68,Male,United States,1357.0,Food and Beverage ,Energy drinks
+Hilton Schlosberg,65,Male,United Kingdom,1335.0,Food and Beverage ,Energy drinks
+Brian Sheth,42,Male,United Kingdom,1236.0,Finance and Investments ,Investments
+Lucy Stitzer,58,Female,United States,1222.0,Food and Beverage ,Cargill
+Su Su,69,Female,United States,1429.0,Real Estate ,"Utilities, real estate"
+Satoshi Suzuki,64,Male,United States,1044.0,Fashion & Retail ,Cosmetics
+Katherine Tanner,62,Female,United States,1221.0,Food and Beverage ,Cargill
+Arvind Tiku,48,Female,India,1075.0,Energy ,"Oil & gas, investments"
+Wang Wang,52,Male,India,1227.0,Manufacturing ,Hydraulic machinery
+Wang Wang,69,Male,China,1428.0,Manufacturing ,Tires
+Wei Wei,55,Male,China,1610.0,Real Estate ,Real estate
+Amy Wyss,47,Female,China,1259.0,Healthcare ,Medical equipment
+Jon Yarbrough,61,Male,United States,1240.0,Gambling & Casinos ,Video games
+Vladimir Yevtushenkov,69,Male,Russia,1544.0,Telecom ,"Telecom, investments"
+Charles Zegar,70,Male,United States,1124.0,Media & Entertainment ,Bloomberg lp
+Zhu Zhu,56,Male,People'S Republic Of China,1224.0,Healthcare ,Pharmaceuticals
+Saif Al ghurair,94,Male,People'S Republic Of China,1281.0,Diversified ,Diversified
+Syed Albukhary,66,Male,People'S Republic Of China,1600.0,Diversified ,"Engineering, energy, construction"
+Miriam Baumann-blocher,43,Female,People'S Republic Of China,1353.0,Manufacturing ,Chemicals
+Albert Berner,82,Male,People'S Republic Of China,1328.0,Manufacturing ,Fasteners
+Thomas Bruch,68,Male,People'S Republic Of China,1369.0,Fashion & Retail ,Retail
+Chang Chang,99,Male,Singapore,1330.0,Logistics ,Shipping
+Kiat Chiaravanont,-9999,Male,Thailand,1358.0,Diversified ,Diversified
+Jean-paul Clozel,-9999,NaN,Thailand,1251.0,Healthcare ,Pharmaceuticals
+Benjamin De rothschild,54,Male,Switzerland,1363.0,Finance and Investments ,Banking
+James Dinan,59,Male,Switzerland,1171.0,Finance and Investments ,Hedge funds
+Charles Edelstenne,80,Male,Switzerland,1072.0,Manufacturing ,Aviation
+Bernd Freier,61,Male,Germany,1421.0,Fashion & Retail ,Fashion retail
+Bill Gross,74,Male,United States,989.0,Finance and Investments ,Investments
+Jeffrey Gundlach,59,Male,United States,1318.0,Finance and Investments ,Investments
+Suat Gunsel,65,Male,United States,1400.0,Real Estate ,"Real estate, education"
+Shmuel Harlap,73,Male,United States,1298.0,Automotive ,Automotive
+Roberto Hernandez ramirez,76,Male,United States,1311.0,Finance and Investments ,Banking
+Johannes Kaercher,67,Male,United States,1572.0,Manufacturing ,"Vacuums, cleaning products"
+Friedrich Knapp,67,Male,Germany,1422.0,Fashion & Retail ,Fashion retail
+Lee Lee,74,Female,South Korea,1190.0,Fashion & Retail ,Retail
+Lee Lee,44,Female,South Korea,1418.0,Diversified ,"Computer services, tourism"
+Liang Liang,56,Female,People'S Republic Of China,1774.0,Metals & Mining ,Cobalt mining
+Liao Liao,65,Female,People'S Republic Of China,1215.0,Manufacturing ,Petrochemicals
+Lin Lin,89,Male,Taiwan,1216.0,Manufacturing ,Petrochemicals
+Yasseen Mansour,56,Male,Egypt,1268.0,Diversified ,Diversified
+David Nahmad,71,Male,Egypt,1325.0,Fashion & Retail ,Art collection
+Alexander Nesis,55,Male,Egypt,1347.0,Finance and Investments ,"Metals, banking, fertilizers"
+Nandan Nilekani,63,Male,Egypt,1307.0,Technology ,Software services
+Ranjan Pai,45,Male,Egypt,1323.0,Service ,Education
+Park Park,59,Male,Egypt,1382.0,Finance and Investments ,Mutual funds
+Jennifer Pritzker,67,Male,United States,1272.0,Service ,"Hotels, investments"
+Qiu Qiu,56,Male,United States,1395.0,Manufacturing ,Hand tools
+Megdet Rahimkulov,72,Male,United States,1491.0,Finance and Investments ,Investments
+Vito Rodriguez rodriguez,79,Male,Peru,1515.0,Diversified ,Processed milk
+Stephen Rubin,81,Male,Peru,1184.0,Fashion & Retail ,Sports apparel
+Remo Ruffini,56,Male,Peru,938.0,Fashion & Retail ,Winter jackets
+Erik Selin,51,Male,Peru,1253.0,Real Estate ,Real estate
+Peter Sondakh,68,Male,Indonesia,1329.0,Finance and Investments ,Investments
+Alan Trefler,62,Male,Indonesia,1077.0,Technology ,Software
+Tseng Tseng,90,Male,Taiwan,1217.0,Manufacturing ,Petrochemicals
+Masateru Uno,71,Male,Taiwan,1082.0,Fashion & Retail ,Drugstores
+Wang Wang,56,Male,Taiwan,1340.0,Metals & Mining ,Steel smelting
+Evan Williams,46,Male,United States,1047.0,Technology ,Twitter
+Gustav Witzoe,24,Male,United States,945.0,Food and Beverage ,Fish farming
+Horst Wortmann,77,Male,United States,1406.0,Fashion & Retail ,Footwear
+Xiao Xiao,53,Male,People'S Republic Of China,1604.0,Diversified ,Fertilizer
+Xie Xie,57,Male,People'S Republic Of China,1313.0,Finance and Investments ,Investments
+Xue Xue,59,Male,China,1230.0,Technology ,Software
+Yuan Yuan,54,Male,China,1456.0,Fashion & Retail ,"Retail, investments"
+Robin Zeng,50,Male,China,1292.0,Energy ,Batteries
+Zhang Zhang,68,Male,China,1286.0,Diversified ,Valves
+Zhang Zhang,46,Male,China,1567.0,Fashion & Retail ,Supermarket
+Zheng Zheng,56,Male,China,1303.0,Diversified ,Investments
+Zhou Zhou,56,Male,China,1331.0,Real Estate ,Real estate
+Susanne von  Zimmermann von siefart ,61,Female,China,1573.0,Manufacturing ,"Vacuums, home cleaning products"
+Aras Agalarov,62,Female,Russia,1432.0,Fashion & Retail ,Real estate
+Maurice Alter,93,Female,Russia,1261.0,Real Estate ,Real estate
+An An,69,Male,Russia,1134.0,Healthcare ,Pharmaceuticals
+Alex Beard,50,Male,United Kingdom,1320.0,Metals & Mining ,"Mining, commodities"
+Nicolas Berggruen,56,Male,United States,1370.0,Finance and Investments ,Investments
+Vladimir Bogdanov,67,Male,United States,1440.0,Energy ,Oil
+Julio Bozano,82,Male,United States,1376.0,Finance and Investments ,Banking
+Anna Braun,39,Female,United States,1448.0,Healthcare ,Medical technology
+Johanna Braun,38,Female,United States,1449.0,Healthcare ,Medical technology
+Karl Braun,34,Male,United States,1450.0,Healthcare ,Medical technology
+Anand Burman,66,Male,United States,1284.0,Food and Beverage ,Consumer goods
+Edouard Carmignac,70,Male,United States,1410.0,Finance and Investments ,Asset management
+Chen Chen,47,Male,China,1332.0,Manufacturing ,Chemicals
+Cheung Cheung,61,Female,China,1337.0,Manufacturing ,Paper manufacturing
+Chung Chung,66,Male,South Korea,1848.0,Manufacturing ,"Shipbuilding, industrial machines"
+Jack Cowin,75,Male,South Korea,1334.0,Food and Beverage ,Fast food
+Cui Cui,60,Male,South Korea,1505.0,Manufacturing ,Electric components
+Kommer Damen,74,Male,South Korea,1521.0,Manufacturing ,Shipbuilding
+Diego Della valle,64,Male,Italy,1476.0,Fashion & Retail ,Shoes
+Dou Dou,65,Male,Italy,1356.0,Diversified ,"Energy, chemicals"
+N. Edwards,58,Male,Canada,1481.0,Energy ,Oil & gas
+Gabriel Escarrer,83,Male,Spain,1291.0,Service ,Hotels
+Clement Fayat,86,Male,France,1475.0,Construction & Engineering ,Construction
+James France,73,Male,United States,1351.0,Sports ,"Nascar, racing"
+Senapathy Gopalakrishnan,63,Male,United States,1295.0,Technology ,Software services
+David Harding,56,Male,United States,1374.0,Finance and Investments ,Finance
+Stewart Horejsi,80,Male,United States,1373.0,Finance and Investments ,Berkshire hathaway
+Huang Huang,53,Male,China,1725.0,Real Estate ,Real estate
+Hamilton James,66,Male,United States,1345.0,Finance and Investments ,Investments
+John Kapoor,74,Male,United States,1716.0,Healthcare ,Healthcare
+William Lauder,58,Male,United States,1234.0,Fashion & Retail ,Estee lauder
+Li Li,51,Male,United States,1245.0,Healthcare ,Pharmaceuticals
+Willy Michel,71,Male,United States,1434.0,Healthcare ,Medical devices
+Masahiro Noda,79,Male,United States,1246.0,Technology ,Software
+Gregorio Perez companc,82,Male,United States,1463.0,Energy ,Oil & gas
+Linda Pritzker,64,Female,United States,1372.0,Service ,"Hotels, investments"
+Qin Qin,50,Female,United States,1483.0,Media & Entertainment ,Movie theaters
+Matthias Reinhart,58,Female,United States,1293.0,Finance and Investments ,Finance
+Brian Roberts,58,Female,United States,1471.0,Service ,Comcast
+Alberto Roemmers,91,Male,Argentina,1615.0,Healthcare ,Pharmaceuticals
+Gerald Schwartz,76,Male,Argentina,1411.0,Finance and Investments ,Finance
+Thaksin Shinawatra,68,Male,Thailand,1341.0,Finance and Investments ,Investments
+William Stone,63,Male,United States,1241.0,Technology ,Software
+Petter Stordalen,55,Male,Norway,1365.0,Service ,Hotels
+Julia Stoschek,43,Female,Norway,1533.0,Automotive ,Auto parts
+Maximilian Stoschek,-9999,Female,Norway,1534.0,Automotive ,Auto parts
+Sun Sun,68,Male,People'S Republic Of China,1522.0,Manufacturing ,Metals. coal
+Ba Tran,58,Male,People'S Republic Of China,1390.0,Automotive ,Automotive
+Hamdi Ulukaya,45,Male,Turkey,1384.0,Food and Beverage ,Greek yogurt
+Wong Wong,56,Male,Turkey,1352.0,Manufacturing ,Building materials
+Wu Wu,48,Female,Turkey,925.0,Healthcare ,Pharmaceuticals
+Xu Xu,52,Male,Turkey,1409.0,Healthcare ,Medical devices
+Yang Yang,67,Male,Turkey,1161.0,Real Estate ,Real estate
+Yao Yao,53,Male,China,1271.0,Food and Beverage ,Beverages
+Sheng Zhong,60,Male,Singapore,1359.0,Real Estate ,Real estate
+Marcel Adams,97,Male,Canada,1447.0,Real Estate ,Real estate
+Herbert Allen,78,Male,United States,1419.0,Finance and Investments ,Investment banking
+Michael Ashcroft,72,Male,United States,1417.0,Finance and Investments ,Security
+Roman Avdeev,50,Male,United States,1527.0,Finance and Investments ,"Banking, development"
+Emilio Azcarraga jean,50,Male,United States,1468.0,Media & Entertainment ,Tv broadcasting
+Sezai Bacaksiz,68,Male,United States,1541.0,Diversified ,Diversified
+Lesley Bamberger,53,Male,Netherlands,1464.0,Real Estate ,Real estate
+Angela Bennett,74,Male,Netherlands,1416.0,Metals & Mining ,Mining
+Hubertus Benteler,71,Male,Netherlands,1547.0,Automotive ,Auto parts
+Ludwig Braun,27,Male,Netherlands,1489.0,Healthcare ,Medical technology
+Nicola Bulgari,77,Male,Netherlands,1364.0,Fashion & Retail ,Luxury goods
+Paolo Bulgari,80,Male,Italy,1310.0,Fashion & Retail ,Luxury goods
+Chen Chen,48,Male,China,1855.0,Logistics ,Package delivery
+Tony Chen,49,Male,China,1226.0,Technology ,Eletronics
+Chen Chen,67,Male,China,1343.0,Healthcare ,Pharmaceuticals
+Luigi Cremonini,79,Male,Italy,1401.0,Food and Beverage ,Meat processing
+Dominique Desseigne,73,Male,Italy,1503.0,Gambling & Casinos ,Casinos
+Sefik Dizdar,80,Male,Turkey,1682.0,Fashion & Retail ,Fashion retail
+Domenico Dolce,59,Male,Italy,1552.0,Fashion & Retail ,Luxury goods
+Pavel Durov,32,Male,Russia,1426.0,Technology ,Messaging app
+John Farber,92,Male,Russia,1457.0,Manufacturing ,Chemicals
+Robert Fisher,64,Male,Russia,1386.0,Service ,Gap
+William Fisher,61,Male,United States,1362.0,Fashion & Retail ,Gap
+Stefano Gabbana,55,Male,United States,1528.0,Fashion & Retail ,Luxury goods
+Rolf Gerling,63,Male,United States,1462.0,Finance and Investments ,Insurance
+Serge Godin,68,Male,United States,1289.0,Technology ,Information technology
+Sergei Gordeev,45,Male,Russia,1470.0,Real Estate ,Real estate
+Mehmet Gunal,70,Male,Russia,1659.0,Diversified ,"Tourism, construction"
+Yusuf Hamied,81,Male,Russia,1526.0,Healthcare ,Pharmaceuticals
+Gerry Harvey,78,Male,Russia,1693.0,Fashion & Retail ,Retail
+Timothy Headington,68,Male,Russia,1391.0,Energy ,"Oil & gas, investments"
+Huang Huang,59,Male,Russia,1451.0,Real Estate ,Real estate
+Huo Huo,57,Male,Russia,1472.0,Energy ,Coal
+Devendra Jain,89,Male,Russia,1601.0,Manufacturing ,Chemicals
+Jiang Jiang,67,Male,China,1585.0,Automotive ,Auto parts
+Jim Justice,67,Male,China,1306.0,Metals & Mining ,Coal
+Kim Kim,73,Male,China,1486.0,Diversified ,Diversified
+William Koch,78,Male,United States,1402.0,Energy ,"Oil, investments"
+Anthony Langley,63,Male,United Kingdom,1460.0,Diversified ,Manufacturing
+Marc Lasry,57,Male,United Kingdom,1436.0,Finance and Investments ,Hedge funds
+Peter Leibinger,51,Male,Germany,1562.0,Manufacturing ,Machine tools
+Regine Leibinger,55,Female,Germany,1563.0,Manufacturing ,Machine tools
+Li Li,68,Male,Germany,1264.0,Manufacturing ,Construction equipment
+David Lichtenstein,56,Male,Germany,1424.0,Real Estate ,Real estate
+Lim Lim,74,Male,Germany,1469.0,Energy ,Oil trading
+Liu Liu,55,Male,Germany,1397.0,Manufacturing ,Paper manufacturing
+Ma Ma,47,Female,China,1280.0,Manufacturing ,Led lighting
+Prayudh Mahagitsiri,72,Female,China,1487.0,Food and Beverage ,"Coffee, shipping"
+Anand Mahindra,63,Female,China,1254.0,Automotive ,Automobiles
+Kishore Mariwala,83,Male,China,1336.0,Food and Beverage ,Consumer goods
+Craig Mccaw,68,Male,United States,1385.0,Telecom ,Telecom
+Miguel Mckelvey,43,Male,United States,1404.0,Real Estate ,Wework
+Vincent Mcmahon,72,Male,United States,871.0,Sports ,Wrestling
+David Mcmurtry,78,Male,United States,1317.0,Manufacturing ,Manufacturing
+Gary Michelson,69,Male,United States,1425.0,Healthcare ,Medical patents
+Massimo Moratti,73,Male,Italy,1379.0,Energy ,Oil refinery
+Farhad Moshiri,63,Male,Italy,1420.0,Diversified ,Diversified
+Jerry Moyes,74,Male,United States,1603.0,Logistics ,Transportation
+Charles Munger,94,Male,United States,1459.0,Finance and Investments ,Berkshire hathaway
+Kerr Neilson,68,Male,Australia,1635.0,Finance and Investments ,Investment
+Ou Ou,54,Male,Australia,1342.0,Real Estate ,Real estate
+Nihat Ozdemir,68,Male,Turkey,1540.0,Diversified ,Diversified
+Pan Pan,54,Male,China,1438.0,Real Estate ,Real estate
+Park Park,72,Male,China,914.0,Manufacturing ,Sneakers
+Nelson Peltz,76,Male,China,1433.0,Finance and Investments ,Investments
+Roger Penske,81,Male,United States,1319.0,Automotive ,Cars
+Qi Qi,56,Male,United States,1785.0,Real Estate ,Real estate
+Qi Qi,48,Male,United States,1309.0,Technology ,Financial information
+Theodore Rachmat,74,Male,Indonesia,1566.0,Diversified ,Diversified
+Juan Riberas mera,49,Male,Indonesia,1367.0,Metals & Mining ,Steel
+Vijay Sharma,40,Male,India,1407.0,Service ,Financial technology
+Konstantin Strukov,59,Male,India,1445.0,Metals & Mining ,"Gold, coal mining"
+Henry Swieca,61,Male,United States,1403.0,Finance and Investments ,Hedge funds
+Wichai Thongtang,71,Male,United States,1348.0,Real Estate ,Investments
+Torsten Toeller,52,Male,United States,1538.0,Fashion & Retail ,Pet food
+Roman Trotsenko,47,Male,United States,1482.0,Logistics ,"Transport, engineering, real estate"
+Todd Wagner,57,Male,United States,1437.0,Media & Entertainment ,Online media
+Wang Wang,62,Male,China,1444.0,Real Estate ,Real estate
+Wang Wang,52,Male,China,1413.0,Manufacturing ,Electrical equipment
+John Whittaker,76,Male,Uk,1488.0,Real Estate ,Real estate
+Wu Wu,56,Male,Uk,1360.0,Healthcare ,Medical equipment
+Xu Xu,54,Male,Uk,1710.0,Diversified ,"Food, art"
+Zhang Zhang,48,Female,China,1576.0,Logistics ,Logistics
+Melih Abdulhayoglu,50,Male,China,1500.0,Technology ,Internet security
+Radhe Agarwal,73,Male,India,1597.0,Fashion & Retail ,Consumer goods
+Mohamed Al fayed,89,Male,Egypt,1497.0,Fashion & Retail ,"Retail, investments"
+Faisal Al thani,70,Male,Qatar,1435.0,Diversified ,"Hotels, diversified"
+William Austin,76,Male,United States,1430.0,Manufacturing ,Hearing aids
+Louis Bacon,61,Male,United States,1499.0,Finance and Investments ,Hedge funds
+Achal Bakeri,58,Male,India,1701.0,Manufacturing ,Air coolers
+Othman Benjelloun,85,Male,India,1575.0,Finance and Investments ,"Banking, insurance"
+William Berkley,71,Male,United States,1405.0,Finance and Investments ,Insurance
+Aneel Bhusri,52,Male,United States,1399.0,Technology ,Business software
+O. Biondi,53,Male,United States,1501.0,Finance and Investments ,Hedge funds
+John Bloor,75,Male,United States,1510.0,Diversified ,"Real estate, manufacturing"
+David Booth,72,Male,United States,1502.0,Finance and Investments ,Mutual funds
+Cai Cai,48,Male,United States,1839.0,Technology ,Photo sharing app
+Ahmet Calik,60,Male,Turkey,1722.0,Diversified ,"Energy, banking, construction"
+Michel Chalhoub,86,Male,Turkey,1906.0,Fashion & Retail ,Retail
+Chen Chen,41,Male,Turkey,1968.0,Logistics ,Package delivery
+Cho Cho,59,Male,Turkey,1768.0,Finance and Investments ,Finance
+Turgay Ciner,62,Male,Turkey,1782.0,Diversified ,Diversified
+Steve Conine,45,Male,United States,1209.0,Technology ,Online retail
+Jacques D'amours,61,Male,Canada,1625.0,Fashion & Retail ,Retail
+Robert Defares,56,Male,Canada,1590.0,Finance and Investments ,Electronic trading
+Alexander Dzhaparidze,62,Male,Canada,1530.0,Energy ,Oil services
+Stephen Feinberg,58,Male,United States,1529.0,Finance and Investments ,Private equity
+Paul Foster,60,Male,United States,1315.0,Energy ,Oil refining
+Mario Gabelli,76,Male,United States,1392.0,Finance and Investments ,Money management
+Marcos Galperin,-9999,Male,United States,1703.0,Technology ,E-commerce
+Radhe Goenka,72,Male,United States,1598.0,Fashion & Retail ,Consumer goods
+Christopher Goldsbury,75,Male,United States,1511.0,Food and Beverage ,Salsa
+Stelios Haji-ioannou,51,Male,United States,1474.0,Service ,Easyjet
+Ilkka Herlin,59,Male,United States,1520.0,Manufacturing ,"Elevators, escalators"
+Brian Higgins,53,Male,United States,1498.0,Finance and Investments ,Hedge funds
+Stephen Jarislowsky,92,Male,United States,1545.0,Finance and Investments ,Money management
+Michael Jordan,55,Male,United States,1458.0,Sports ,"Charlotte hornets, endorsements"
+Kenji Kasahara,42,Male,Japan,2113.0,Technology ,Social network
+Kim Kim,51,Male,Japan,1568.0,Gambling & Casinos ,Online games
+Edward Lampert,55,Male,Japan,1350.0,Finance and Investments ,Sears
+Thomas Lau,64,Male,Japan,1037.0,Fashion & Retail ,Department stores
+Thai Lee,59,Male,Japan,1238.0,Technology ,It provider
+Lei Lei,65,Female,China,1478.0,Healthcare ,Pharmaceuticals
+Li Li,54,Male,People'S Republic Of China,1189.0,Healthcare ,Pharmaceuticals
+Li Li,61,Male,People'S Republic Of China,1324.0,Diversified ,"Steel, diversified"
+Liu Liu,54,Male,China,1788.0,Food and Beverage ,Agribusiness
+Pier Loro piana,66,Male,China,1593.0,Fashion & Retail ,Fashion
+Billy Mccombs,90,Male,China,1453.0,Diversified ,"Real estate, oil, cars, sports"
+Gian Moratti,81,Male,Italy,1453.0,Energy ,Oil refinery
+Manuel Moroun,91,Male,United States,1388.0,Logistics ,Transportation
+Robert Mouawad,73,Male,Lebanon,1506.0,Service ,Fine jewelry
+Marius Nacht,52,Male,Lebanon,1509.0,Technology ,Software
+Ni Ni,61,Male,Lebanon,1666.0,Manufacturing ,Appliances
+Lirio Parisotto,64,Male,Lebanon,1685.0,Finance and Investments ,Investments
+Karl-johan Persson,43,Male,Lebanon,1654.0,Fashion & Retail ,H&m
+Tom Persson,32,Male,Sweden,1656.0,Fashion & Retail ,H&m
+Dmitry Pumpyansky,54,Male,Russia,1558.0,Metals & Mining ,Steel pipes
+Ruan Ruan,82,Male,China,1415.0,Manufacturing ,Chemicals
+Jean Salata,52,Male,China,1461.0,Finance and Investments ,Finance
+Sheryl Sandberg,48,Male,China,1531.0,Technology ,Facebook
+Niraj Shah,44,Male,China,1210.0,Technology ,Online retail
+Shin Shin,68,Male,China,2087.0,Healthcare ,Pharmaceuticals
+Ben Silbermann,34,Male,China,1516.0,Technology ,Pinterest
+Charlotte Soderstrom,41,Male,Sweden,1657.0,Fashion & Retail ,H&m
+Thomas Steyer,60,Male,United States,1485.0,Finance and Investments ,Hedge funds
+Su Su,49,Male,United States,1835.0,Energy ,"Oil, fertilizers"
+David Teoh,62,Male,United States,1806.0,Telecom ,Telecoms
+Wang Wang,61,Male,People'S Republic Of China,1550.0,Manufacturing ,Chemicals
+Wang Wang,51,Male,China,1327.0,Technology ,Lighting
+Charlotte Weber,75,Female,United States,1587.0,Food and Beverage ,Campbell soup
+Wei Wei,65,Female,United States,1423.0,Food and Beverage ,"Food, beverages"
+Yin-chun Wei,61,Male,Taiwan,1368.0,Food and Beverage ,"Food, beverages"
+Wei Wei,59,Male,Taiwan,1371.0,Food and Beverage ,"Food, beverages"
+Wei Wei,63,Male,Taiwan,1389.0,Food and Beverage ,"Food, beverages"
+Richard White,63,Male,Taiwan,1305.0,Technology ,Software
+Allan Wong,68,Male,Taiwan,1644.0,Manufacturing ,Electronics
+Wong Wong,49,Male,Taiwan,1646.0,Fashion & Retail ,Retail
+Wu Wu,54,Male,Taiwan,1591.0,Automotive ,Auto parts
+Wu Wu,54,Male,Taiwan,1565.0,Real Estate ,Real estate
+Wu Wu,70,Male,China,1565.0,Diversified ,"Internet, auto parts"
+Luis Yarur rey,67,Male,Chile,1622.0,Finance and Investments ,Banking
+Albert Yeung,75,Male,Chile,1490.0,Diversified ,"Real estate, retail"
+Yu Yu,46,Male,Chile,1186.0,Healthcare ,Health clinics
+Kostyantin Zhevago,44,Male,Chile,1794.0,Metals & Mining ,Mining
+Zhou Zhou,53,Male,China,1548.0,Fashion & Retail ,Fashion retail
+Zhou Zhou,75,Male,China,1467.0,Diversified ,"Apparel, real estate"
+Zhuang Zhuang,56,Male,China,2018.0,Manufacturing ,Polyester
+Jose Abdalla filho,-9999,Male,China,1853.0,Finance and Investments ,Investments
+Khalifa Al muhairi,39,Male,United Arab Emirates,1484.0,Diversified ,"Hospitals, investments"
+Folorunsho Alakija,67,Female,United Arab Emirates,1496.0,Energy ,Oil
+Bill Alfond,70,Male,United States,1512.0,Fashion & Retail ,Shoes
+Susan Alfond,72,Female,United States,1519.0,Fashion & Retail ,Shoes
+Ted Alfond,73,Male,United States,1513.0,Fashion & Retail ,Shoes
+Joy Alukkas,61,Male,United States,1653.0,Fashion & Retail ,Jewelry
+Andrey Andreev,44,Male,United Kingdom,1537.0,Technology ,Online dating
+Carol Barnett,61,Female,United Kingdom,1542.0,Food and Beverage ,Publix supermarkets
+Oleg Boyko,53,Male,Russia,1606.0,Diversified ,Diversified
+Ana Brescia cafferata,94,Female,Russia,1539.0,Diversified ,"Mining, banking"
+Binod Chaudhary,63,Female,Nepal,1543.0,Diversified ,Diversified
+Che Che,55,Female,Nepal,2006.0,Healthcare ,Pharmaceuticals
+Chen Chen,52,Male,Nepal,2101.0,Telecom ,Communications equipment
+Richard Desmond,66,Male,Nepal,1637.0,Media & Entertainment ,Publishing
+Mohammed Dewji,43,Male,Nepal,1555.0,Diversified ,Diversified
+Carl Douglas,57,Male,Nepal,1718.0,Diversified ,Investments
+Eric Douglas,50,Male,Nepal,1719.0,Diversified ,Investments
+Bulent Eczacibasi,68,Male,Nepal,2094.0,Diversified ,"Pharmaceuticals, diversified"
+Faruk Eczacibasi,64,Male,Nepal,2094.0,Diversified ,"Pharmaceuticals, diversified"
+Martha Ford,92,Female,United States,1596.0,Automotive ,Ford motor
+Yasuhiro Fukushima,70,Female,United States,1322.0,Media & Entertainment ,Video games
+Reinold Geiger,70,Male,Austria,1619.0,Fashion & Retail ,Beauty products
+Saad Hariri,48,Male,Austria,1921.0,Construction & Engineering ,"Construction, investments"
+Richard Hayne,70,Male,Austria,1354.0,Fashion & Retail ,Urban outfitters
+Ilona Herlin,53,Female,Austria,1633.0,Manufacturing ,"Elevators, escalators"
+Asok Hiranandani,63,Female,Austria,1675.0,Real Estate ,Real estate
+Niranjan Hiranandani,68,Male,Austria,1638.0,Real Estate ,Real estate
+Huang Huang,59,Male,Austria,1383.0,Media & Entertainment ,Amusement parks
+Huang Huang,48,Male,China,1742.0,Logistics ,Logistics
+Hal Jackman,86,Male,China,1588.0,Finance and Investments ,"Insurance, investments"
+Anurang Jain,56,Male,China,1465.0,Manufacturing ,Auto parts
+Keeree Kanjanapas,67,Male,China,1455.0,Real Estate ,Transportation
+Kim Kim,45,Male,China,1735.0,Food and Beverage ,Food
+Seth Klarman,61,Male,China,1582.0,Finance and Investments ,Investments
+Alexander Klyachin,51,Male,Russia,1564.0,Real Estate ,Real estate
+Yuriy Kosiuk,50,Male,Russia,1559.0,Food and Beverage ,Agriculture
+Miguel Krigsner,68,Male,Brazil,1813.0,Fashion & Retail ,Cosmetics
+Lee Lee,66,Male,Brazil,1707.0,Manufacturing ,Glass
+Nicola Leibinger-kammueller,58,Male,Brazil,1692.0,Manufacturing ,Manufacturing
+Li Li,41,Male,Brazil,1692.0,Technology ,Online games
+William Li,43,Male,China,1627.0,Automotive ,Automobiles
+Li Li,55,Male,China,1554.0,Healthcare ,Pharmaceuticals
+Li Li,41,Male,China,1927.0,Manufacturing ,Chemicals
+Lin Lin,68,Male,China,1608.0,Fashion & Retail ,Supermarkets
+Lou Lou,64,Male,China,1626.0,Real Estate ,Real estate
+Low Low tuck,70,Male,China,1439.0,Energy ,Coal
+P.n.c. Menon,69,Male,China,1607.0,Real Estate ,Real estate
+Thomas Meyer,58,Male,China,1762.0,Fashion & Retail ,Apparel retailer
+Ezra Nahmad,72,Male,China,1581.0,Finance and Investments ,Art
+Judith Neilson,72,Male,Australia,1807.0,Finance and Investments ,Investments
+Madeleine Olsson ericksson,73,Female,Sweden,1730.0,Diversified ,Diversified
+Ou Ou,48,Male,Sweden,1630.0,Real Estate ,Real estate
+Eren Ozmen,59,Female,Sweden,1796.0,Manufacturing ,Aerospace
+Fatih Ozmen,60,Male,United States,1614.0,Manufacturing ,Aerospace
+Jose Peres,77,Male,United States,2039.0,Real Estate ,Shopping malls
+Mark Pincus,52,Male,United States,1473.0,Technology ,Online games
+Kevin Plank,45,Male,United States,1195.0,Fashion & Retail ,Under armour
+Nicholas Pritzker,74,Male,United States,1570.0,Service ,"Hotels, investments"
+Que Que,54,Male,United States,1660.0,Healthcare ,Pharmaceuticals
+Jorge Rodriguez rodriguez,72,Male,United States,1809.0,Diversified ,Processed milk
+Nobutada Saji,72,Male,United States,1546.0,Food and Beverage ,Beverages
+Thomas Sandell,57,Male,United States,1621.0,Finance and Investments ,Hedge funds
+Eddy Sariaatmadja,64,Male,United States,1763.0,Media & Entertainment ,"Media, tech"
+Fayez Sarofim,89,Male,United States,1569.0,Finance and Investments ,Money management
+Monika Schoeller,79,Male,United States,1441.0,Media & Entertainment ,Publishing
+Antonio Seabra,75,Male,United States,1922.0,Fashion & Retail ,Cosmetics
+Yuri Shefler,50,Male,United States,1549.0,Food and Beverage ,Alcohol
+Rajju Shroff,84,Male,United States,1800.0,Manufacturing ,Agrochemicals
+Frank Stronach,85,Male,United States,1571.0,Automotive ,Auto parts
+Kevin Systrom,33,Male,United States,1446.0,Technology ,Instagram
+Tang Tang,95,Male,Hong Kong,1446.0,Manufacturing ,"Textiles, electronics"
+Tang Tang,-9999,Female,Hong Kong,1969.0,Food and Beverage ,Packaged foods
+Ning Tang,44,Female,China,1969.0,Finance and Investments ,Online lending
+Jim Thompson,78,Female,China,1634.0,Logistics ,Logistics
+Jonathan Tisch,64,Male,China,1535.0,Diversified ,"Insurance, nfl team"
+Kenneth Tuchman,58,Male,China,1508.0,Service ,Outsourcing
+Wim Van der leegte,70,Male,China,1743.0,Manufacturing ,Manufacturing
+Shamsheer Vayalil,41,Male,India,1592.0,Healthcare ,Healthcare
+Thongma Vijitpongpun,60,Male,India,1738.0,Real Estate ,Real estate
+Arkady Volozh,54,Male,India,1620.0,Media & Entertainment ,Search engine
+Stefan Von holtzbrinck,55,Male,India,1442.0,Media & Entertainment ,Publishing
+Wang Wang,54,Male,India,1958.0,Real Estate ,Real estate
+Wong Wong,56,Male,People'S Republic Of China,1780.0,Real Estate ,Real estate
+Ian Wood,75,Male,United Kingdom,1611.0,Energy ,Energy services
+Xiao Xiao,50,Male,United Kingdom,1616.0,Real Estate ,Real estate
+Jacky Xu,46,Male,United Kingdom,1686.0,Fashion & Retail ,Apparel
+Zhang Zhang,63,Male,People'S Republic Of China,1036.0,Diversified ,"Oil, banking"
+Zhang Zhang,45,Male,People'S Republic Of China,1583.0,Fashion & Retail ,E-commerce
+Anu Aga,75,Female,People'S Republic Of China,1916.0,Construction & Engineering ,Engineering
+Farkhad Akhmedov,62,Female,People'S Republic Of China,1724.0,Energy ,Investments
+Alberto Alcocer,75,Male,People'S Republic Of China,1599.0,Finance and Investments ,Investments
+Bassam Alghanim,66,Male,People'S Republic Of China,1706.0,Diversified ,Diversified
+Kutayba Alghanim,72,Male,Kuwait,1677.0,Diversified ,Diversified
+Alexandra Andresen,20,Female,Kuwait,1651.0,Diversified ,Investments
+Katharina Andresen,22,Female,Kuwait,1652.0,Diversified ,Investments
+Vasily Anisimov,66,Male,Russia,1698.0,Metals & Mining ,Real estate
+Mori Arkin,65,Male,Russia,1650.0,Healthcare ,Pharmaceuticals
+Nigel Austin,47,Male,Australia,1786.0,Fashion & Retail ,Retailing
+Krishna Bangur,57,Male,India,1612.0,Manufacturing ,Graphite electrodes
+Herb Chambers,76,Male,India,1574.0,Automotive ,Car dealerships
+R.g. Chandramogan,69,Male,India,2017.0,Food and Beverage ,Dairy
+Chang Chang,67,Male,India,1589.0,Service ,Educational services
+Chao Chao,74,Male,Taiwan,1764.0,Real Estate ,Real estate
+Chen Chen,42,Male,Taiwan,1299.0,Logistics ,Package delivery
+Chen Chen,45,Male,Taiwan,1705.0,Technology ,Online games
+Henry Cheng,71,Male,Hong Kong,1602.0,Diversified ,Property
+Chey Chey,53,Male,Hong Kong,1820.0,Technology ,"Computer services, telecom"
+Chi Chi,47,Male,Hong Kong,1648.0,Technology ,Software
+Chua Chua,69,Male,Hong Kong,1765.0,Real Estate ,Real estate
+Chung Chung,49,Male,Hong Kong,1754.0,Fashion & Retail ,Retail
+Ciputra Ciputra,86,Male,Indonesia,1854.0,Real Estate ,Real estate
+Alberto Cortina,72,Male,Spain,1578.0,Finance and Investments ,Investments
+Robert Coyiuto,65,Male,Spain,1810.0,Energy ,Power
+Maria Del pino y calvo-sotelo,62,Female,Spain,1683.0,Construction & Engineering ,Construction
+K. Dinesh,64,Male,Spain,1676.0,Technology ,Software services
+Du Du,54,Male,China,759.0,Healthcare ,Vaccines
+John Edson,86,Male,United States,1663.0,Manufacturing ,Leisure craft
+David Einhorn,49,Male,United States,1752.0,Finance and Investments ,Hedge funds
+Bob Ell,73,Male,Australia,1760.0,Construction & Engineering ,Real estate
+Gary Fegel,44,Male,Australia,1661.0,Metals & Mining ,"Commodities, investments"
+Victor Fung,72,Male,Australia,1876.0,Logistics ,Trading company
+William Fung,69,Male,Australia,1849.0,Fashion & Retail ,Sourcing
+Alan Gerry,89,Male,Australia,1671.0,Media & Entertainment ,Cable television
+Balkrishan Goenka,51,Male,India,1938.0,Manufacturing ,Textiles
+Polys Haji-ioannou,58,Male,Cyprus,1557.0,Service ,Easyjet
+Mehmet Hattat,72,Male,Cyprus,1557.0,Diversified ,Diversified
+J. Hill,70,Male,Cyprus,1745.0,Finance and Investments ,Investments
+Eduardo Hochschild,54,Male,Peru,1769.0,Metals & Mining ,Mining
+Hoi Hoi,65,Male,Peru,1375.0,Real Estate ,Real estate
+Hur Hur,69,Male,Peru,1631.0,Food and Beverage ,"Bakeries, fast food"
+George Joseph,96,Male,Peru,1579.0,Finance and Investments ,Insurance
+Ronald Joyce,87,Male,Canada,1792.0,Food and Beverage ,Coffee chain
+T.s. Kalyanaraman,71,Male,Canada,1777.0,Fashion & Retail ,Jewelry
+Nimesh Kampani,71,Male,Canada,2055.0,Finance and Investments ,Investment banking
+Eugene Kaspersky,52,Male,Canada,1696.0,Technology ,Software
+Viktor Kharitonin,45,Male,Russia,1696.0,Healthcare ,Pharmaceuticals
+Pyotr Kondrashev,68,Male,Russia,1639.0,Manufacturing ,Investments
+Yuri Kovalchuk,66,Male,Russia,1891.0,Finance and Investments ,"Banking, insurance, media"
+Kagemasa Kozuki,77,Male,Japan,1715.0,Technology ,Video games
+Michael Krasny,64,Male,United States,1680.0,Technology ,Retail
+James Leininger,73,Male,United States,1642.0,Healthcare ,Medical products
+Li Li,54,Male,United States,1321.0,Automotive ,Auto dealerships
+Li Li,50,Male,United States,1641.0,Manufacturing ,Lithium
+Liu Liu,64,Male,United States,1781.0,Technology ,Manufacturing
+Anatoly Lomakin,65,Male,United States,1645.0,Metals & Mining ,Investments
+Ma Ma,50,Male,United States,1645.0,Fashion & Retail ,Fashion retail
+Gary Magness,64,Male,United States,1766.0,Media & Entertainment ,"Cable tv, investments"
+Youssef Mansour,73,Male,Egypt,1628.0,Diversified ,Diversified
+Strive Masiyiwa,57,Male,Zimbabwe,1275.0,Telecom ,Telecom
+Dariusz Milek,50,Male,Poland,1902.0,Fashion & Retail ,"Real estate, retail"
+Nan Nan,54,Male,Poland,1787.0,Manufacturing ,Power equipment
+Dinesh Nandwana,55,Male,Poland,1787.0,Technology ,Software services
+Oei Oei,70,Male,Poland,1697.0,Finance and Investments ,Investments
+Rubens Ometto silveira mello,68,Male,Poland,2133.0,Energy ,"Sugar, ethanol"
+Ou Ou,69,Male,Poland,1479.0,Real Estate ,Real estate
+Markus Persson,39,Male,Poland,1632.0,Media & Entertainment ,Computer games
+Victor Pinchuk,57,Male,Poland,1647.0,Metals & Mining ,"Steel pipes, diversified"
+Alberto Prada,-9999,Male,Poland,1517.0,Fashion & Retail ,Luxury goods
+Marina Prada,-9999,Female,Poland,1518.0,Fashion & Retail ,Luxury goods
+Forrest Preston,85,Male,United States,1523.0,Healthcare ,Health care
+Jerry Reinsdorf,82,Male,United States,1629.0,Sports ,Sports teams
+Fernando Roig,70,Male,United States,1773.0,Fashion & Retail ,Supermarkets
+Subhash Runwal,75,Male,United States,1739.0,Real Estate ,Real estate
+Yoshiyuki Sankai,59,Male,United States,2122.0,Technology ,Robotics
+Kirill Shamalov,35,Male,Russia,1640.0,Energy ,Petrochemicals
+Shin Shin,63,Male,Russia,2023.0,Fashion & Retail ,Retail
+Evgeny Shvidler,54,Male,Russia,1553.0,Energy ,"Oil & gas, investments"
+Jasminder Singh,67,Male,United Kingdom,1733.0,Real Estate ,Hotels
+Martua Sitorus,58,Male,United Kingdom,1704.0,Manufacturing ,Palm oil
+Peter Sperling,58,Male,United Kingdom,1670.0,Service ,Education
+Jerzy Starak,70,Male,Poland,1784.0,Healthcare ,Pharmaceuticals
+Manny Stul,69,Male,Poland,1708.0,Manufacturing ,Toys
+Su Su,63,Male,Poland,1466.0,Real Estate ,Real estate
+Fuat Tosyali,55,Male,Poland,1789.0,Metals & Mining ,Steel
+Kenny Troutt,70,Male,United States,1664.0,Telecom ,Telecom
+Rufino Vigil gonzalez,70,Male,Mexico,1817.0,Metals & Mining ,Steel
+Wang Wang,48,Male,Mexico,1775.0,Automotive ,Auto parts
+Wang Wang,45,Male,China,1783.0,Telecom ,Telecom services
+Wang Wang,48,Male,China,1665.0,Diversified ,Conglomerate
+Dan Wilks,62,Male,China,1688.0,Energy ,Natural gas
+Farris Wilks,66,Male,China,1689.0,Energy ,Natural gas
+Thomas Wu,68,Male,China,1655.0,Finance and Investments ,Finance
+Yi Yi,47,Male,China,1984.0,Technology ,Software
+Yuan Yuan,67,Male,People'S Republic Of China,1912.0,Manufacturing ,Metal processing
+Richard Yuengling,75,Male,United States,1623.0,Food and Beverage ,Beer
+Gavril Yushvaev,60,Male,United States,1584.0,Finance and Investments ,"Precious metals, real estate"
+Zeng Zeng,43,Male,People'S Republic Of China,1584.0,Technology ,Online games
+Zhang Zhang,68,Male,People'S Republic Of China,1536.0,Manufacturing ,Electronic components
+Zhang Zhang,53,Male,China,1577.0,Food and Beverage ,Wine
+Changpeng Zhao,-9999,Male,China,1681.0,Finance and Investments ,Cryptocurrency
+Zhou Zhou,49,Male,China,1747.0,Manufacturing ,Chemicals
+Zhou Zhou,63,Male,China,1736.0,Manufacturing ,Conglomerate
+Zhu Zhu,52,Male,China,1798.0,Healthcare ,Pharmaceuticals
+Ahmet Zorlu,73,Male,China,1993.0,Diversified ,Diversified
+Len Ainsworth,94,Male,China,1711.0,Gambling & Casinos ,Betting machines
+Edmund Ansin,82,Male,China,1662.0,Media & Entertainment ,Television
+Markus Blocher,47,Male,China,1879.0,Manufacturing ,Chemicals
+Leonid Boguslavsky,67,Male,China,1823.0,Finance and Investments ,Venture capital
+Jorge Brito,65,Male,China,2123.0,Finance and Investments ,Banking
+Saket Burman,41,Male,China,1691.0,Food and Beverage ,Consumer goods
+Steve Case,59,Male,United States,1753.0,Technology ,Aol
+Jeffrey Cheah,73,Male,United States,1875.0,Real Estate ,Property
+Bruce Cheng,82,Male,United States,2060.0,Technology ,Electronics
+Cheng Cheng,49,Male,China,1836.0,Healthcare ,Pharmaceuticals
+Ivan Chrenko,50,Male,Slovakia,1811.0,Real Estate ,Real estate
+Eduardo Cojuangco,83,Male,Philippines,1860.0,Food and Beverage ,"Food, drinks"
+Brunello Cucinelli,64,Male,Philippines,1394.0,Fashion & Retail ,Fashion
+Darwin Deason,78,Male,Philippines,1804.0,Service ,Xerox
+Andrea Della valle,52,Male,Philippines,1946.0,Fashion & Retail ,Shoes
+Jamie Dimon,62,Male,Philippines,1851.0,Finance and Investments ,Banking
+Charles Dunstone,54,Male,United Kingdom,1832.0,Telecom ,Mobile phones
+Bruce Flatt,53,Male,Canada,1744.0,Finance and Investments ,Money management
+Fu Fu,60,Male,Canada,1987.0,Media & Entertainment ,"Tv shows, movies"
+Soichiro Fukutake,72,Male,Canada,1831.0,Service ,Education
+Don Gao,53,Male,Canada,1772.0,Manufacturing ,Power tools
+Gao Gao,51,Male,People'S Republic Of China,1617.0,Manufacturing ,Industrial lasers
+Anne Gittinger,82,Female,United States,1687.0,Fashion & Retail ,Nordstrom department stores
+Clelia Haji-ioannou,47,Female,Cyprus,1649.0,Service ,Easyjet
+John Hancock,42,Male,Australia,1803.0,Metals & Mining ,Trust fund
+Ronnen Harary,46,Male,Canada,1668.0,Manufacturing ,Toys
+Ayman Hariri,40,Male,Lebanon,1761.0,Construction & Engineering ,"Construction, investments"
+Fahd Hariri,36,Male,Lebanon,1805.0,Construction & Engineering ,"Construction, investments"
+Surendra Hiranandani,63,Male,Lebanon,1868.0,Real Estate ,Real estate
+Alan Howard,54,Male,United Kingdom,1732.0,Finance and Investments ,Hedge funds
+Hu Hu,60,Male,China,1850.0,Diversified ,Chemicals
+Archie Hwang,-9999,Male,China,1846.0,Technology ,Semiconductors
+Irwin Jacobs,84,Male,China,1824.0,Technology ,Semiconductors
+Mitchell Jacobson,67,Male,United States,1728.0,Service ,Industrial equipment
+Rana Kapoor,60,Male,United States,1828.0,Finance and Investments ,Banking
+Alexander Karp,50,Male,United States,1795.0,Technology ,Software firm
+Raghuvinder Kataria,69,Male,United States,1799.0,Finance and Investments ,Diversified
+Habil Khorakiwala,75,Male,India,2073.0,Healthcare ,Pharmaceuticals
+Sidney Kimmel,90,Male,United States,1770.0,Fashion & Retail ,Retail
+Andre Koo,51,Male,Taiwan,1586.0,Finance and Investments ,Financial services
+Koo Koo,69,Male,Taiwan,2079.0,Manufacturing ,Electronics
+Andrei Kosogov,57,Male,Taiwan,1943.0,Energy ,"Oil, banking, telecom"
+Lee Lee,55,Male,Taiwan,1556.0,Diversified ,Diversified
+Solomon Lew,73,Male,Taiwan,1679.0,Fashion & Retail ,Retail
+Rodney Lewis,63,Male,Taiwan,1493.0,Energy ,Natural gas
+Li Li,54,Male,China,2007.0,Manufacturing ,Chemicals
+Lin Lin,57,Male,People'S Republic Of China,1819.0,Energy ,Gas
+Lin Lin,55,Male,People'S Republic Of China,1941.0,Manufacturing ,Solar panel components
+Lin Lin,55,Male,People'S Republic Of China,1941.0,Fashion & Retail ,"Footwear, apparel"
+Louise Lindh,38,Female,Sweden,2021.0,Diversified ,Investments
+Liu Liu,65,Male,Sweden,1749.0,Fashion & Retail ,Pharmacies
+Jose Llado fernandez-urrutia,84,Male,Sweden,1818.0,Construction & Engineering ,Construction
+Lu Lu,-9999,Male,People'S Republic Of China,1814.0,Technology ,Drones
+Cargill Macmillan,58,Male,People'S Republic Of China,1756.0,Food and Beverage ,Cargill
+John Macmillan,68,Male,United States,1757.0,Food and Beverage ,Cargill
+Martha Macmillan,66,Female,United States,1758.0,Food and Beverage ,Cargill
+William Macmillan,64,Female,United States,1759.0,Food and Beverage ,Cargill
+Katarina Martinson,36,Female,United States,2031.0,Diversified ,Investments
+Craig Newmark,65,Male,United States,1790.0,Technology ,Craigslist
+Bruce Nordstrom,84,Male,United States,1778.0,Fashion & Retail ,Nordstrom department stores
+Pierre Péladeau,56,Male,United States,1624.0,Media & Entertainment ,Media
+David Penaloza alanis,44,Male,Mexico,1983.0,Construction & Engineering ,Toll roads
+Andreas Pohl,53,Male,Mexico,2053.0,Finance and Investments ,Mutual funds
+Reinfried Pohl,58,Male,Mexico,2054.0,Finance and Investments ,Mutual funds
+Mahendra Prasad,78,Male,India,1830.0,Healthcare ,Pharmaceuticals
+Anton Rabie,46,Male,India,1667.0,Manufacturing ,Toys
+Bianca Rinehart,41,Female,India,1821.0,Metals & Mining ,Trust fund
+Ginia Rinehart,30,Female,India,1812.0,Metals & Mining ,Trust fund
+Alexander Rovt,65,Male,India,1802.0,Manufacturing ,"Fertilizer, real estate"
+Lily Safra,80,Female,Monaco,1793.0,Finance and Investments ,Banking
+Deniz Sahenk,72,Female,Turkey,1998.0,Diversified ,Diversified
+Karin Schick,-9999,Female,Turkey,1847.0,Technology ,Information technology
+Leonard Schleifer,65,Male,Turkey,1862.0,Healthcare ,Pharmaceuticals
+Dieter Schnabel,72,Male,Turkey,1933.0,Manufacturing ,Chemicals
+Bhadresh Shah,66,Male,Turkey,1712.0,Manufacturing ,Engineering
+Shao Shao,63,Male,China,1695.0,Manufacturing ,Diversified
+Eric Shen,47,Male,China,1695.0,Technology ,Online apparel retail
+Nobutoshi Shimamura,92,Male,China,1963.0,Fashion & Retail ,Retail
+Shum Shum,48,Male,China,1147.0,Real Estate ,Real estate
+Helmut Sohmen,78,Male,Austria,1147.0,Logistics ,Shipping
+Sun Sun,45,Male,People'S Republic Of China,2003.0,Technology ,Lighting
+Sun Sun,68,Male,China,1841.0,Real Estate ,Real estate
+Djoko Susanto,68,Male,China,1595.0,Fashion & Retail ,Supermarkets
+Erol Tabanca,61,Male,China,2088.0,Construction & Engineering ,Construction
+Alexander Tedja,72,Male,China,2102.0,Real Estate ,Real estate
+Wilma Tisch,90,Male,China,1690.0,Finance and Investments ,Diversified
+Ayhan Tosyali,54,Male,Turkey,1886.0,Metals & Mining ,Steel
+Fatih Tosyali,52,Male,Turkey,1887.0,Metals & Mining ,Steel
+Tran Tran dinh,57,Male,Turkey,1865.0,Manufacturing ,"Steel, heavy industry"
+Tsai Tsai,68,Male,Turkey,1723.0,Technology ,Semiconductors
+Pavel Tykac,54,Male,Turkey,1834.0,Metals & Mining ,Coal mines
+Jayshree Ullal,57,Female,Turkey,1746.0,Technology ,Technology
+Wan Wan,77,Female,China,2145.0,Food and Beverage ,Food
+Wang Wang,67,Male,People'S Republic Of China,1866.0,Automotive ,Auto distribution
+Wang Wang,68,Male,People'S Republic Of China,1833.0,Food and Beverage ,Food sweeteners
+Hope Welker,31,Female,People'S Republic Of China,1822.0,Metals & Mining ,Trust fund
+Wen Wen,52,Male,People'S Republic Of China,1871.0,Service ,Wastewater treatment
+Stephen Winn,71,Male,United States,1658.0,Real Estate ,Real estate services
+Gordon Wu,83,Male,Hong Kong,1885.0,Real Estate ,Real estate
+Wu Wu,44,Male,China,1838.0,Manufacturing ,Packaging
+Xu Xu,59,Male,China,2065.0,Technology ,Software
+Yang Yang,-9999,Female,China,1878.0,Service ,Education
+Yang Yang,58,Female,China,1609.0,Food and Beverage ,Brewery
+You You,60,Female,China,1957.0,Manufacturing ,"Chemicals, spandex"
+Yu Yu,58,Male,China,1940.0,Real Estate ,Real estate
+Yu Yu,52,Male,China,2086.0,Manufacturing ,Glass
+Yu Yu,56,Male,China,1842.0,Fashion & Retail ,Costume jewelry
+Zan Zan,55,Male,China,1867.0,Diversified ,Diversified
+Zhang Zhang,66,Male,China,1903.0,Real Estate ,Real estate
+Zhao Zhao,51,Male,China,1694.0,Technology ,It products
+Zheng Zheng,57,Male,China,1961.0,Manufacturing ,Electrical equipment
+Hamad Al thani,58,Male,Qatar,1961.0,Finance and Investments ,Investments
+Fawzi Al-kharafi,-9999,Male,Qatar,1973.0,Diversified ,Diversified
+Mohannad Al-kharafi,-9999,Male,Qatar,1974.0,Diversified ,Diversified
+Isak Andic,64,Male,Qatar,1864.0,Fashion & Retail ,Fashion retail
+Marc Andreessen,46,Male,United States,1699.0,Finance and Investments ,Venture capital investing
+Jose Aristrain,55,Male,United States,1928.0,Metals & Mining ,Steel
+Thomas Bailey,81,Male,United States,1898.0,Finance and Investments ,Money management
+Harindarpal Banga,67,Male,India,1883.0,Finance and Investments ,Commodities
+Elena Baturina,55,Female,India,1911.0,Construction & Engineering ,"Investments, real estate"
+Eduardo Belmont anderson,72,Male,India,1911.0,Fashion & Retail ,Cosmetics
+Tomasz Biernacki,45,Male,Poland,1776.0,Fashion & Retail ,Supermarkets
+Zadik Bino,74,Male,Poland,1960.0,Diversified ,"Banking, oil"
+Brett Blundy,58,Male,Poland,1721.0,Fashion & Retail ,"Retail, agribusiness"
+Henadiy Boholyubov,56,Male,Poland,1857.0,Diversified ,"Banking, investments"
+Charles Brandes,75,Male,Poland,1888.0,Finance and Investments ,Money management
+Amit Burman,48,Male,India,1797.0,Food and Beverage ,Consumer goods
+Cai Cai,49,Male,India,1797.0,Media & Entertainment ,Animation
+Chen Chen,47,Male,People'S Republic Of China,1917.0,Energy ,Wind power generation
+Cheng Cheng,34,Male,People'S Republic Of China,1896.0,Service ,Ride-hailing service
+Phongthep Chiaravanont,66,Male,People'S Republic Of China,1997.0,Diversified ,Diversified
+Kochouseph Chittilappilly,67,Male,People'S Republic Of China,2050.0,Manufacturing ,Manufacturing
+Chu Chu,61,Male,China,1899.0,Manufacturing ,Electrical equipment
+Eduardo Costantini,71,Male,China,1899.0,Real Estate ,Real estate
+Sol Daurella,52,Female,China,1791.0,Food and Beverage ,Coca-cola
+Philip Day,52,Male,China,2012.0,Fashion & Retail ,Clothing retail
+D. Del pino y calvo-sotelo,55,Male,Spain,1909.0,Construction & Engineering ,Construction
+Norbert Dentressangle,63,Male,Spain,1932.0,Logistics ,"Transport, logistics"
+Beda Diethelm,77,Male,Spain,1669.0,Healthcare ,Hearing aids
+Mark Dixon,59,Male,Spain,1618.0,Real Estate ,Office real estate
+Henry Engelhardt,60,Male,Spain,1930.0,Finance and Investments ,Insurance
+Fang Fang,51,Male,China,1939.0,Manufacturing ,Home appliances
+Gleb Fetisov,52,Male,China,1880.0,Telecom ,Investments
+Donald Foss,74,Male,China,1709.0,Automotive ,Auto loans
+Robert Friedland,67,Male,United States,2043.0,Metals & Mining ,Mining
+Donald Friese,77,Male,United States,1897.0,Manufacturing ,Manufacturing
+Fu Fu,64,Male,United States,1717.0,Food and Beverage ,Poultry
+Dan Gertler,44,Male,United States,1877.0,Metals & Mining ,Mining
+Dennis Gillings,74,Male,United States,1801.0,Healthcare ,Drug testing
+Ryan Graves,33,Male,United States,1873.0,Technology ,Uber
+Gu Gu,53,Male,China,1873.0,Manufacturing ,Consumer electronics
+Alfredo Harp helu,74,Male,Mexico,1955.0,Finance and Investments ,Banking
+Gudrun Heine,63,Female,Germany,2037.0,Healthcare ,Medical devices
+Francis Holder,77,Male,France,1948.0,Food and Beverage ,Bakeries
+Hong Hong,65,Male,France,2036.0,Fashion & Retail ,Convenience stores
+Douglas Hsu,75,Male,Taiwan,1729.0,Diversified ,Diversified
+Huang Huang,60,Male,Taiwan,1729.0,Metals & Mining ,Minerals
+B. Hughes,57,Male,Taiwan,1700.0,Real Estate ,Storage facilities
+Daisy Igel,90,Female,Brazil,1700.0,Energy ,"Gas, petrochemicals"
+Thomas James,76,Male,Brazil,1737.0,Finance and Investments ,Finance
+Jiang Jiang,54,Male,Brazil,1872.0,Manufacturing ,Home & office products
+Jiang Jiang,54,Male,Brazil,2027.0,Real Estate ,Real estate
+Jin Jin,65,Male,China,1972.0,Real Estate ,Real estate
+Ajay Kalsi,57,Male,China,1889.0,Energy ,Oil & gas
+Helga Kellerhals,78,Female,China,1931.0,Fashion & Retail ,Electronics retailer
+King King,48,Female,China,1962.0,Real Estate ,Real estate
+Sergei Kolesnikov,46,Male,China,2041.0,Manufacturing ,Building materials
+Hemendra Kothari,71,Male,China,1945.0,Finance and Investments ,Financial services
+Eiichi Kuriwada,71,Male,China,1900.0,Logistics ,Package delivery
+Guy Laliberté,58,Male,China,1881.0,Media & Entertainment ,Cirque du soleil
+Lee Lee,51,Male,South Korea,1991.0,Technology ,Internet
+Michael Lee-chin,67,Male,South Korea,1954.0,Finance and Investments ,Mutual funds
+Li Li,54,Male,China,1414.0,Service ,Education
+Li Li,53,Male,China,1942.0,Manufacturing ,Electronics
+Li Li,67,Male,China,1942.0,Fashion & Retail ,Apparel
+Li Li,50,Female,China,1412.0,Food and Beverage ,Soy sauce maker
+Lim Lim,60,Male,Malaysia,1636.0,Manufacturing ,Rubber gloves
+Liu Liu,50,Male,Malaysia,2011.0,Energy ,Gas
+Liu Liu,67,Male,Malaysia,1910.0,Diversified ,"Copper, poultry"
+Liu Liu,53,Male,Malaysia,2115.0,Service ,Sewage treatment
+Lo Lo,71,Male,Malaysia,1901.0,Real Estate ,Real estate
+Lo Lo,88,Male,Malaysia,1950.0,Real Estate ,"Real estate, hotels"
+Tobi Lutke,36,Male,Malaysia,1514.0,Technology ,E-commerce
+Ma Ma,55,Male,Malaysia,1913.0,Diversified ,Energy
+Ziyavudin Magomedov,49,Male,Russia,2080.0,Energy ,"Port, gas"
+Ana Marcondes penido sant'anna,62,Female,Russia,2080.0,Construction & Engineering ,Toll roads
+Terence Matthews,75,Male,Russia,1858.0,Telecom ,Telecom
+Gail Miller,74,Male,United States,1643.0,Automotive ,"Basketball, car dealers"
+Andrei Molchanov,46,Male,Russia,2014.0,Construction & Engineering ,Construction materials
+Ni Ni,62,Male,People'S Republic Of China,1852.0,Real Estate ,Real estate
+Kentaro Ogawa,69,Male,People'S Republic Of China,1480.0,Food and Beverage ,Restaurants
+Erik Paulsson,76,Male,People'S Republic Of China,1731.0,Real Estate ,"Construction, real estate"
+Peng Peng,51,Male,China,1731.0,Manufacturing ,Electronics
+Stefan Pierer,61,Male,China,1937.0,Automotive ,Automotive
+Michael Price,65,Male,United States,1996.0,Finance and Investments ,Investments
+Clayton Riddell,80,Male,United States,1959.0,Energy ,Oil & gas
+Boris Rotenberg,61,Male,United States,1949.0,Construction & Engineering ,"Construction, pipes, chemicals"
+Igor Rybakov,46,Male,United States,2029.0,Manufacturing ,Building materials
+Stephen Saad,54,Male,South Africa,2051.0,Healthcare ,Pharmaceuticals
+K. Sahi,72,Male,Canada,2009.0,Real Estate ,Real estate
+Airat Shaimiev,56,Male,Canada,1884.0,Energy ,"Refinery, chemicals"
+Radik Shaimiev,53,Male,Canada,1893.0,Energy ,"Refinery, chemicals"
+Shang Shang,50,Male,Canada,1895.0,Diversified ,"Tires, chemicals"
+Mikhail Shelkov,50,Male,Canada,1895.0,Metals & Mining ,Titanium
+S.d. Shibulal,63,Male,Canada,1863.0,Technology ,Software services
+Ron Sim,59,Male,Singapore,1936.0,Fashion & Retail ,Retail
+Leonid Simanovsky,68,Male,Singapore,1840.0,Finance and Investments ,Investments
+Basudeo Singh,77,Male,India,2066.0,Healthcare ,Pharmaceuticals
+Samprada Singh,92,Male,India,2077.0,Healthcare ,Pharmaceuticals
+Terry Snow,74,Male,Australia,1925.0,Real Estate ,"Airports, real estate"
+Lynsi Snyder,35,Female,United States,1882.0,Food and Beverage ,In-n-out burger
+Sybill Storz,81,Female,United States,2038.0,Healthcare ,Medical devices
+Harjo Sutanto,92,Male,United States,1827.0,Fashion & Retail ,Consumer goods
+Yoshikazu Tanaka,41,Male,United States,2001.0,Technology ,Social network
+Mehmet Tara,60,Male,United States,2001.0,Construction & Engineering ,Construction
+Rit Thirakomen,66,Male,United States,1989.0,Food and Beverage ,Restaurants
+Tian Tian,64,Male,China,1594.0,Technology ,Measuring instruments
+Ion Tiriac,79,Male,Romania,1953.0,Finance and Investments ,"Banking, insurance"
+Ivar Tollefsen,57,Male,Romania,1894.0,Real Estate ,Real estate
+Mustafa Topbas,74,Male,Turkey,1894.0,Fashion & Retail ,"Food, retail"
+Thomas Tull,48,Male,United States,1907.0,Media & Entertainment ,Movies
+John Van lieshout,72,Male,United States,1976.0,Real Estate ,Real estate
+Wang Wang,29,Male,United States,1755.0,Diversified ,Airline
+Wang Wang,49,Male,United States,1771.0,Service ,Airline
+Wang Wang,61,Male,United States,1965.0,Manufacturing ,"Natural gas, fertilizers"
+Alfred West,75,Male,United States,2062.0,Finance and Investments ,Money management
+Wu Wu,52,Male,United States,1964.0,Energy ,Energy services
+Wu Wu,68,Male,China,1808.0,Healthcare ,Pharmaceuticals
+Xiu Xiu,63,Male,People'S Republic Of China,1904.0,Healthcare ,Pharmaceuticals
+Xu Xu,46,Male,People'S Republic Of China,1904.0,Service ,Driving schools
+Xu Xu,48,Male,China,1741.0,Automotive ,Auto parts
+Xue Xue,48,Male,China,1843.0,Manufacturing ,Agribusiness
+Vadim Yakunin,55,Male,China,2126.0,Healthcare ,Pharmacy
+Yan Yan,57,Male,China,1837.0,Service ,Private schools
+Yang Yang,57,Male,China,1825.0,Real Estate ,Real estate
+Yang Yang,60,Male,China,1779.0,Logistics ,Shipping
+Zhang Zhang,50,Male,China,1870.0,Manufacturing ,Paper & related products
+Zhang Zhang,82,Male,China,2024.0,Manufacturing ,Precision machinery
+Zhang Zhang,58,Male,China,1986.0,Real Estate ,Real estate
+Zhang Zhang,48,Male,China,2137.0,Fashion & Retail ,Retail
+Zhang Zhang,61,Male,China,1748.0,Real Estate ,Real estate
+Zhou Zhou,83,Male,China,1561.0,Manufacturing ,Auto parts
+Zhou Zhou,53,Male,China,1908.0,Real Estate ,Real estate
+William Ackman,52,Male,China,2032.0,Finance and Investments ,Hedge funds
+Soegiarto Adikoesoemo,80,Male,China,2032.0,Logistics ,Chemicals
+Ali Agaoglu,64,Male,China,2032.0,Construction & Engineering ,Construction
+Hamdi Akin,63,Male,China,2042.0,Diversified ,Diversified
+Chirayu Amin,71,Male,China,2042.0,Healthcare ,Pharmaceuticals
+Mehmet Aydinlar,61,Male,China,2030.0,Healthcare ,Hospitals
+Emanuella Barilla,51,Female,China,2105.0,Food and Beverage ,Barilla pasta
+Guido Barilla,59,Male,Italy,2106.0,Food and Beverage ,Barilla pasta
+Luca Barilla,58,Male,Italy,2107.0,Food and Beverage ,Barilla pasta
+Paolo Barilla,57,Male,Italy,2108.0,Food and Beverage ,Barilla pasta
+Mehmet Basaran,71,Male,Italy,2108.0,Energy ,"Banking, gas"
+J. Brown,80,Male,Italy,1874.0,Finance and Investments ,Insurance
+Bu Bu,-9999,Female,Italy,1740.0,Fashion & Retail ,Retail
+Hideyuki Busujima,65,Male,Italy,1750.0,Gambling & Casinos ,Pachinko machines
+Cai Cai,45,Male,Italy,1750.0,Technology ,Electronic components
+Cai Cai,38,Male,Italy,1750.0,Technology ,Electronic components
+Delfin Carballo,65,Male,Italy,1750.0,Finance and Investments ,Banking
+Chen Chen,55,Male,China,1947.0,Real Estate ,"Construction, real estate"
+Chen Chen,58,Male,People'S Republic Of China,1947.0,Technology ,Electronics components
+Chen Chen,54,Male,People'S Republic Of China,2025.0,Manufacturing ,Polyester
+Chen Chen,56,Male,China,2025.0,Diversified ,Industrial machinery
+Manas Chiaravanond,-9999,Male,China,2047.0,Diversified ,Diversified
+Yupa Chiaravanond,-9999,Female,China,2019.0,Diversified ,Diversified
+Prathip Chiravanond,-9999,Male,China,2020.0,Diversified ,Diversified
+Gustavo Cisneros,73,Male,China,2059.0,Media & Entertainment ,Media
+Sandor Csanyi,65,Male,Hungary,1988.0,Diversified ,"Finance, real estate"
+Cui Cui,60,Male,Hong Kong,1988.0,Gambling & Casinos ,Gambling
+Dang Dang,45,Male,China,2099.0,Metals & Mining ,Coal
+Bharat Desai,65,Male,United States,1674.0,Technology ,It consulting
+Joseph Edelman,63,Male,United States,2035.0,Finance and Investments ,Hedge funds
+Wolfgang Egger,-9999,Male,Germany,2035.0,Real Estate ,Real estate
+Andrei Filatov,46,Male,Russia,1981.0,Logistics ,"Ports, railway transport"
+Paul Fireman,74,Male,United States,2052.0,Fashion & Retail ,Reebok
+J. Flowers,60,Male,United States,1990.0,Finance and Investments ,Investments
+Fu Fu,60,Male,United States,2112.0,Diversified ,"Real estate, diversified"
+Sheela Gautam,86,Female,United States,2112.0,Fashion & Retail ,Mattresses
+Drew Houston,34,Male,United States,697.0,Technology ,File hosting service
+Huang Huang,51,Male,China,926.0,Energy ,Storage batteries
+Huang Huang,64,Male,China,2076.0,Real Estate ,Real estate
+Mohammed Ibrahim,72,Male,China,1924.0,Telecom ,Communications
+Hiroshi Ishibashi,71,Male,China,2121.0,Automotive ,Tires
+Bent Jensen,66,Male,Denmark,2121.0,Manufacturing ,Electric linear systems
+Chatchai Kaewbootta,66,Male,Denmark,2121.0,Finance and Investments ,Auto loans
+Jonas Kamprad,52,Male,Sweden,2128.0,Finance and Investments ,Ikea
+Mathias Kamprad,48,Male,Sweden,2129.0,Finance and Investments ,Ikea
+Peter Kamprad,54,Male,Sweden,2130.0,Finance and Investments ,Ikea
+Madhu Kapur,-9999,Female,India,2084.0,Finance and Investments ,Banking
+Richard Kayne,72,Male,United States,1999.0,Finance and Investments ,Investments
+Vladimir Kogan,55,Male,Russia,1999.0,Diversified ,Banking
+Koh Koh,54,Male,Russia,1714.0,Real Estate ,"Real estate, hotels"
+Koo Koo,66,Male,South Korea,1714.0,Technology ,"Electronics, household products"
+Lam Lam,53,Male,South Korea,1935.0,Real Estate ,Real estate
+Isaac Larian,64,Male,South Korea,1926.0,Manufacturing ,Toys
+Frank Laukien,58,Male,United States,2109.0,Manufacturing ,Scientific equipment
+Lee Lee,53,Male,United States,1979.0,Technology ,Online games
+Lee Lee,47,Male,South Korea,2058.0,Technology ,Investments
+Nancy Lerner,58,Male,United States,2071.0,Finance and Investments ,"Banking, credit cards"
+Norma Lerner,82,Male,United States,2072.0,Finance and Investments ,Banking
+Randolph Lerner,56,Male,United States,2070.0,Finance and Investments ,"Banking, credit cards"
+David Li,45,Male,China,1944.0,Technology ,Live streaming service
+Li Li,53,Female,China,1532.0,Healthcare ,Pharmaceuticals
+Li Li,53,Male,China,1532.0,Manufacturing ,Construction materials
+Liang Liang,49,Male,China,1408.0,Manufacturing ,Manufacturing
+Liang Liang,54,Male,China,1995.0,Manufacturing ,Conglomerate
+Liang Liang,86,Male,China,1678.0,Real Estate ,Real estate
+Liao Liao,52,Male,China,2069.0,Food and Beverage ,Wine
+Jenny Lindén urnes,47,Male,China,2116.0,Manufacturing ,Powdered metal
+Liu Liu,47,Male,China,2061.0,Service ,Industrial parks
+Liu Liu,53,Male,China,2132.0,Diversified ,Conglomerate
+Jonathan Lu,49,Male,China,2034.0,Technology ,E-commerce
+William Macaulay,72,Male,United States,2049.0,Energy ,Energy investments
+John Martin,67,Male,United States,2046.0,Healthcare ,Pharmaceuticals
+Yves-loic Martin,52,Male,United States,2046.0,Healthcare ,Laboratory services
+Satish Mehta,67,Male,India,2082.0,Healthcare ,Pharmaceuticals
+Nikita Mishin,46,Male,Russia,1971.0,Logistics ,"Ports, railway transport"
+Konstantin Nikolaev,47,Male,Russia,1970.0,Logistics ,"Ports, railway transport"
+Simon Nixon,50,Male,United Kingdom,2022.0,Technology ,Price comparison website
+Michael O'leary,57,Male,United Kingdom,2075.0,Service ,Ryanair
+Liora Ofer,64,Female,Israel,2015.0,Finance and Investments ,Investments
+Roberto Ongpin,81,Male,Israel,1767.0,Diversified ,Diversified
+Niti Osathanugrah,44,Male,Israel,1767.0,Finance and Investments ,Investments
+Frank Otto,60,Male,Israel,2104.0,Fashion & Retail ,Retail
+Gretel Packer,52,Female,Israel,1869.0,Media & Entertainment ,Casinos
+Alberto Palatchi,68,Female,Israel,2091.0,Fashion & Retail ,Wedding dresses
+Peng Peng,61,Male,Israel,2091.0,Media & Entertainment ,Tourism
+Lucy Peng,45,Female,Israel,1977.0,Technology ,E-commerce
+Andrei Rappoport,55,Male,Russia,2016.0,Finance and Investments ,Investments
+Andrea Reimann-ciardelli,61,Female,United States,1992.0,Fashion & Retail ,Consumer goods
+Igor Rotenberg,45,Male,United States,2044.0,Diversified ,"Construction, real estate"
+Alan Rydge,66,Male,United States,2092.0,Real Estate ,Entertainment
+Chris Sacca,43,Male,United States,1890.0,Finance and Investments ,Venture capital investing
+Alexander Samwer,43,Male,Germany,1918.0,Technology ,Tech investments
+Marc Samwer,47,Male,Germany,1919.0,Technology ,Tech investments
+Oliver Samwer,44,Male,Germany,1920.0,Technology ,Tech investments
+Neil Shen,50,Male,Hong Kong,2074.0,Finance and Investments ,Venture capital
+Albert Shigaboutdinov,65,Male,Hong Kong,2000.0,Diversified ,"Refinery, chemicals"
+Shin Shin,64,Male,Hong Kong,2048.0,Fashion & Retail ,Retail
+Yoshiko Shinohara,83,Female,Hong Kong,2111.0,Service ,Staffing
+Analjit Singh,64,Male,Hong Kong,2141.0,Healthcare ,Healthcare
+Stephen Smith,67,Male,Hong Kong,2045.0,Finance and Investments ,Finance and investments
+Michael Steinhardt,77,Male,Hong Kong,2026.0,Finance and Investments ,Finance
+Svein Stole,55,Male,Hong Kong,2026.0,Finance and Investments ,Investments
+Rustem Sulteev,64,Male,Russia,2005.0,Energy ,"Refinery, chemicals"
+Julio Supervielle,61,Male,Russia,2005.0,Finance and Investments ,Banking
+Min-liang Tan,40,Male,Singapore,2005.0,Media & Entertainment ,Gaming
+Hary Tanoesoedibjo,52,Male,Singapore,2110.0,Media & Entertainment ,Media
+Sukanto Tanoto,68,Male,Indonesia,2081.0,Diversified ,Diversified
+Tiong Tiong,83,Male,Indonesia,2140.0,Diversified ,"Timber, media"
+Laurie Tisch,67,Female,United States,1966.0,Diversified ,"Insurance, nfl team"
+Steven Tisch,69,Male,United States,1967.0,Diversified ,Insurance
+James Truchard,74,Male,United States,2139.0,Technology ,Software
+Vardis Vardinoyannis & family,85,Male,United States,2068.0,Energy ,Oil and gas
+Murat Vargi,70,Male,United States,2028.0,Telecom ,Telecom
+Wan Wan,52,Male,United States,2028.0,Manufacturing ,Fertilizers
+Wang Wang,61,Male,China,2067.0,Automotive ,Auto parts
+Wang Wang,74,Male,China,1859.0,Service ,Budget airline
+Wen Wen,56,Male,China,1859.0,Service ,Sewage treatment
+Myron Wentz,78,Male,China,1495.0,Fashion & Retail ,Health products
+Xia Xia,56,Male,China,1495.0,Automotive ,Automobiles
+Swift Xie,-9999,Male,China,2004.0,Technology ,Drones
+Yao Yao,42,Male,China,1929.0,Technology ,Online marketplace
+Fatma Yazici,45,Female,China,1929.0,Diversified ,Diversified
+Zhang Zhang,49,Male,China,1929.0,Diversified ,"Real estate, shipbuilding"
+Zhao Zhao,51,Female,China,2136.0,Diversified ,"Real estate, finance"
+Zhou Zhou,61,Male,People'S Republic Of China,1684.0,Fashion & Retail ,Jewelry
+Raamdeo Agrawal,61,Male,People'S Republic Of China,1684.0,Finance and Investments ,Financial services
+Maurizio Billi,60,Male,People'S Republic Of China,1684.0,Healthcare ,Generic drugs
+Sara Blakely,47,Male,United States,2127.0,Fashion & Retail ,Spanx
+Pete Bodharamik,45,Male,Thailand,2127.0,Telecom ,Telecom
+Cao Cao,56,Male,China,2002.0,Manufacturing ,Air compressors
+Morris Chang,86,Male,China,2002.0,Technology ,Semiconductors
+Richard Chang,71,Male,China,2002.0,Real Estate ,"Real estate, electronics"
+Chen Chen,62,Male,China,2002.0,Real Estate ,Real estate
+Cho Cho,80,Male,China,2002.0,Manufacturing ,Tire manufacturing
+Yvon Chouinard,79,Male,United States,2153.0,Fashion & Retail ,Patagonia
+Eduard Chukhlebov,54,Male,United States,2153.0,Metals & Mining ,Metallurgy
+Jack Cockwell,77,Male,Canada,2083.0,Finance and Investments ,"Real estate, private equity"
+John Collison,26,Male,Canada,2150.0,Technology ,Stripe
+Patrick Collison,28,Male,Canada,2152.0,Technology ,Stripe
+Henry Davis,67,Male,Canada,2149.0,Food and Beverage ,Beef processing
+Francois Feuillet,69,Male,Canada,1166.0,Automotive ,"Motorhomes, rvs"
+Susumu Fujita,45,Male,Japan,1492.0,Media & Entertainment ,Internet media
+Filaret Galchev,55,Male,Japan,1492.0,Construction & Engineering ,Construction materials
+Yuri Gushchin,73,Male,Russia,1492.0,Food and Beverage ,"Candy, real estate"
+David Hall,66,Male,United States,2148.0,Automotive ,Automotive technology
+He He,53,Male,United States,2148.0,Manufacturing ,Power supply manufacturer
+Hon Hon,63,Male,Hong Kong,2148.0,Fashion & Retail ,Real estate
+Elie Horn,74,Male,Brazil,2148.0,Real Estate ,Real estate
+Huang Huang,64,Male,Australia,2148.0,Manufacturing ,Packaging
+Huang Huang,56,Female,Australia,1980.0,Technology ,Printed circuit boards
+Masayuki Ishihara,69,Female,Japan,1951.0,Gambling & Casinos ,Pachinko machines
+Tarang Jain,56,Male,Japan,1951.0,Manufacturing ,Auto components
+Jiang Jiang,56,Male,Japan,1951.0,Healthcare ,Pharmaceuticals
+Jiang Jiang,48,Male,Japan,1975.0,Technology ,Printed circuit boards
+David Kabiller,54,Male,United States,1844.0,Finance and Investments ,Investment management
+Morris Kahn,88,Male,United States,2151.0,Technology ,Software
+Anton Kathrein,32,Male,United States,2151.0,Manufacturing ,Antennas
+Kim Kim,38,Male,United States,2151.0,Technology ,Mobile gaming
+Michael Kim,54,Male,United States,2098.0,Finance and Investments ,Investment
+Ihor Kolomoyskyy,55,Male,Ukraine,2008.0,Diversified ,"Banking, investments"
+Koo Koo,59,Male,South Korea,1994.0,Technology ,Electronics/household products
+Igor Kudryashkin,56,Male,South Korea,1994.0,Metals & Mining ,Metallurgy
+Lev Kvetnoi,52,Male,South Korea,1994.0,Finance and Investments ,Cement
+Theodore Leonsis,62,Male,South Korea,2056.0,Sports ,Sports teams
+Lev Leviev,62,Male,South Korea,2090.0,Metals & Mining ,Diamonds
+Liang Liang,53,Male,South Korea,2090.0,Manufacturing ,Appliances
+John Liew,50,Male,United States,1845.0,Finance and Investments ,Investment management
+Paul Little,70,Male,United States,1845.0,Real Estate ,"Logistics, real estate"
+Liu Liu,64,Male,People'S Republic Of China,1845.0,Diversified ,"Textiles, energy"
+Liu Liu,53,Male,People'S Republic Of China,2089.0,Technology ,Lithium batteries
+Liu Liu,54,Male,People'S Republic Of China,2089.0,Real Estate ,Real estate
+Lu Lu,47,Male,China,2089.0,Diversified ,Diversified
+Duncan Macmillan,80,Male,China,2057.0,Finance and Investments ,Bloomberg lp
+George Marcus,76,Male,United States,2142.0,Real Estate ,Real estate
+Bernardo Matte,62,Male,United States,2143.0,Manufacturing ,Paper
+Eliodoro Matte,72,Male,United States,2143.0,Manufacturing ,Paper
+Mi Mi,60,Male,People'S Republic Of China,1905.0,Fashion & Retail ,Retail
+Lowell Milken,69,Male,People'S Republic Of China,2096.0,Finance and Investments ,Investments
+Nirmal Minda,60,Male,India,2010.0,Automotive ,Auto parts
+Martin Naughton,79,Male,India,2010.0,Manufacturing ,Heating equipment
+Vadim Novinsky,55,Male,Ukraine,2010.0,Metals & Mining ,Steel
+Sergei Petrov,63,Male,Ukraine,2010.0,Automotive ,Auto import and dealerships
+Carolyn Rafaelian,51,Female,Ukraine,2147.0,Fashion & Retail ,Jewelry
+Lawrence Rossy,75,Male,Ukraine,2147.0,Fashion & Retail ,Dollar stores
+Alice Schwartz,91,Female,Ukraine,1815.0,Manufacturing ,Biotech
+Martin Selig,80,Male,Ukraine,2119.0,Real Estate ,Real estate
+Sathien Setthasit,64,Male,Thailand,2119.0,Food and Beverage ,Energy drinks
+Evan Sharp,34,Male,Thailand,2093.0,Technology ,Pinterest
+Ravindra Sinha,66,Male,Thailand,2093.0,Service ,Security services
+Axel Stawski,67,Male,Thailand,2138.0,Real Estate ,Real estate
+Beny Steinmetz,62,Male,Thailand,2138.0,Metals & Mining ,"Mining, diamonds, real estate"
+Dirk Stroeer,49,Male,Germany,2138.0,Media & Entertainment ,Advertising
+Sun Sun,54,Male,China,2138.0,Technology ,Electronics components
+Sam Tarascio,73,Male,Australia,2138.0,Real Estate ,Real estate
+Robert Toll,77,Male,Australia,2138.0,Real Estate ,Home building
+Surin Upatkoon,69,Male,Australia,2100.0,Diversified ,"Telecom, lotteries, insurance"
+Alexander Vik,63,Male,Australia,2146.0,Finance and Investments ,Investments
+Peter-alexander Wacker,66,Male,Australia,2146.0,Manufacturing ,Chemicals
+Wang Wang,55,Male,Australia,2146.0,Technology ,Fiber optic cables
+V. Watsa,67,Male,Canada,1982.0,Finance and Investments ,"Insurance, investments"
+Sandy Weill,85,Male,United States,2144.0,Finance and Investments ,Citigroup
+Wen Wen,55,Male,China,2144.0,Food and Beverage ,Agribusiness
+Wu Wu,59,Male,China,2120.0,Manufacturing ,Manufacturing
+Yang Yang,49,Male,China,2120.0,Technology ,Apparel
+Yao Yao,53,Male,China,2114.0,Diversified ,Air conditioning
+Zhao Zhao,51,Male,China,2134.0,Fashion & Retail ,"Fashion, entertainment"
+Zhou Zhou,55,Male,China,2134.0,Manufacturing ,Electrical equipment
+Zhu Zhu,51,Male,China,1856.0,Manufacturing ,Electrical equipment
+Zhuo Zhuo,52,Male,China,1978.0,Manufacturing ,Printed circuit boards
+Olgun Zorlu,54,Male,Turkey,1978.0,Diversified ,Diversified

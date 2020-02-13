@@ -1,69 +1,93 @@
-import numpy as np
+#Create a conection to bbdd throught SQLite
+conex = sqlite3.connect("/Users/borjauria/IRONHACK/Ironhack-Module-1-Project---The-best-ever-project/data/raw/borjauria.db")
 
-def wrangling(df):
+#Extracts the query data directly to a DataFrame
+personal_info = pd.read_sql_query("SELECT * from personal_info", conex)
+business_info = pd.read_sql_query("SELECT * from business_info", conex)
+rank_info = pd.read_sql_query("SELECT * from rank_info", conex)
+df_outer = pd.merge(personal_info, business_info, on='id', how='outer')
+df = pd.merge(df_outer, rank_info, on='id', how='outer')
 
-    df.rename(\
-        columns={'lastName': 'Last Name', 'age': 'Age', 'Unnamed: 0': 'Unnamed', 'gender': 'Gender', 'country': 'From', 'image': 'Photo', 'name': 'Name'}, inplace=True)
+#Here I change the name of the columns.
+def change_name_cols(df, dic):
+    for k, v in dic.items():
+        df[k] = df[k].str.replace(k,v)
+    return df
 
-    # Replace Values
-    df['Age'] = df['Age'].str.replace(r"[a-zA-Z]+", '')
-    df['From'] = df['From'].str.replace(r"USA|USA", 'United States')
-    df['Name'] = df['Name'].str.replace(r"( \S+)", '')
-    df['Gender'] = df['Gender'].str.replace(r"[M]", 'Male')
-    df['Gender'] = df['Gender'].str.replace(r"Maleale", 'Male')
-    df['Gender'] = df['Gender'].str.replace(r"(^F$)", 'Female')
-    df['worth'] = df['worth'].str.replace(r"[a-zA-Z]+", '')
-    df['worthChange'] = df['worthChange'].str.replace(r"[a-zA-Z]+", '')
+#Here I eliminate the columns I don't need.
+def drop_columns(df, lst):
+    for i in lst:
+        df.drop(i, axis = 1, inplace=True)
+    return df
 
-    # Convert all inside of "Last Name" in lowercase.
-    df['Last Name'] = df['Last Name'].str.capitalize()
+#With this function I convert the all the words inside of lst in lowercase.
+def column_lower(df, lst):
+    for i in lst:
+        df.update(df[i].str.title())
+    return df
 
-    df.rename(columns={'Unnamed: 0': 'Unnamed', 'Source': 'Source & company', 'worthChange': 'Worth Change', 'realTimeWorth': 'Real Time Worth', 'realTimePosition': 'Real Time Position'}, inplace=True)
+#With this function I convert the first letter of the words inside of lst in Uppercase.
+def column_upper(df, lst):
+    for i in lst:
+        df.update(df[i].str.capitalize())
+    return df
 
-    # I create a new data frame without 'Real Time Worth column, Unnamed: 0_x, Unnamed: 0_y, Unnamed'.
-    df = df.drop('Real Time Worth', 1)
-    df = df.drop('Unnamed: 0_x', 1)
-    df = df.drop('Unnamed: 0_y', 1)
-    df = df.drop('Unnamed', 1)
+#With this function I will fill with the word 'Delete' all those cells that do not contain any data.
+def fill_none(df, lst):
+    for i in lst:
+        df.update(df[i].fillna('NaN', inplace=True))
+    return df
 
-    # New data frame with split value columns from Source & Company
-    df[['Industry', 'Company']] = df["Source & company"].str.split("==> ", expand=True)
+#Converts all the cells in the list columns to floats
+def to_float(df, lst):
+    for i in lst:
+        df[i] = df[i].astype(float)
+    return df
 
-    #New data frame without the 'Source & company' column
-    df = df.drop('Source & company', 1)
+#I split the column 'Source' into two columns ('Industry', 'Company')
+df[['Industry', 'Company']] = df['Source'].str.split(' ==> ', expand=True)
 
-    df['Name'] = df['Name'].str.capitalize()
-    df['Last Name'].fillna('none', inplace=True)
-    df['Gender'].fillna('', inplace=True)
-    df['From'].fillna('none', inplace=True)
-    df['Photo'].fillna('none', inplace=True)
-    df['worth'].fillna('none', inplace=True)
-    df['Worth Change'].fillna('none', inplace = True)
-    df['Real Time Position'].fillna('none', inplace=True)
-    df['position'].fillna('none', inplace =True)
-    df['Industry'].fillna('none', inplace=True)
-    df['Company'].fillna('none', inplace=True)
+#Change_name_cols
+df.rename(columns={'lastName':'Last Name', 'age': 'Age', 'Unnamed: 0': 'Unnamed', 'gender': 'Gender', 'country': 'From', 'name': 'Name','realTimePosition': 'Real Time Position'}, inplace=True)
 
-    # Here I change the type of the data
-    df['Age'].replace(to_replace='None', value=-9999, inplace=True)
-    df['Gender'].replace(to_replace='None', inplace=True)
-    df['From'].replace(to_replace='None', inplace=True)
-    df['Age'].fillna(-9999, inplace=True)
-    df = df.astype({'Age': int})
-    df.loc[df['Age'] > 100, 'Age'] = 2018 - df['Age']
+#Replace some values
+df['Age'] = df['Age'].str.replace(r"[a-zA-Z]+",'')
+df['From'] = df['From'].str.replace(r"USA|USA",'United States')
+df['Name'] = df['Name'].str.replace(r"( \S+)",'')
+df['Gender'] = df['Gender'].str.replace(r"[M]",'Male')
+df['Gender'] = df['Gender'].str.replace(r"Maleale",'Male')
+df['Gender'] = df['Gender'].str.replace(r"(^F$)",'Female')
+df['worth'] = df['worth'].str.replace(r"[a-zA-Z]+",'')
+df['worthChange'] = df['worthChange'].str.replace(r"[a-zA-Z]+",'')
 
-    # I want to know how many nulls there are per column to clean
-    df.isnull().sum()
+# Convert all inside of all columns in lowercase
+low_cols = ['Name', 'Last Name','Gender','From']
+column_lower(df, low_cols)
 
-    df['Gender'].replace('', np.nan, inplace=True)
-    df['From'].replace('', np.nan, inplace=True)
+#column_upper
+up_cols = ['Name', 'Last Name', 'Company']
+column_upper(df, up_cols)
 
-    df = df.dropna()
+#drop_columns
+columns_to_drop = ['id', 'Unnamed: 0_x', 'Source', 'image', 'Unnamed: 0_y', 'Unnamed', 'position','worthChange','realTimeWorth']
+drop_columns(df, columns_to_drop)
 
-    df['Name'] = df['Name'] + ' ' + df['Last Name']
+#columns_to_fill
+columns_to_fill = ['Last Name','Gender','From']
+fill_none(df, columns_to_fill)
 
-    df = df[['id', 'Name', 'Age', 'Gender', 'From', 'Industry', 'Company', 'worth', 'Worth Change', 'Real Time Position', 'Photo']]
+#Change the numbers in list in a float
+to_float(df, ['worth', 'Real Time Position'])
 
-    # Saving the dataframe
-    data = df.to_csv('/Users/borjauria/IRONHACK/Ironhack-Module-1-Project---The-best-ever-project/data/processed/borjauria_done.csv', index=False)
-    return data
+df['Age'].replace(to_replace='None',value=-9999, inplace=True)
+df['Gender'].replace(to_replace='None', inplace=True)
+df['From'].replace(to_replace='None', inplace=True)
+df['Age'].fillna(-9999, inplace=True)
+df = df.astype({'Age':int})
+df.loc[df['Age']> 100, 'Age'] = 2018 - df['Age']
+df['Name'] = df['Name'] + ' ' + df['Last Name']
+df = df[['Name', 'Age', 'Gender', 'From', 'Real Time Position', 'Industry', 'Company']]
+df = df.dropna()
+
+# Saving the dataframe to csv
+data = df.to_csv(r'/Users/borjauria/IRONHACK/Ironhack-Module-1-Project---The-best-ever-project/data/processed/borjauria_done.csv', index=False)
