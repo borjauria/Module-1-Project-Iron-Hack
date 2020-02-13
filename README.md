@@ -15,11 +15,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them. But.. You can see the requirements.txt file to get a better idea of what you will need
 
-Pandas
-Mathplot
-Requests
-Numpy
-BeautifulSoup
+Pandas, Regex, Mathplot, Requests, Numpy, BeautifulSoup...
 
 # Deployment
 
