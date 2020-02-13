@@ -1,4 +1,5 @@
-![Module_1_Project_Iron_hack_Borja_Uría](https://user-images.githubusercontent.com/45542785/74432906-ab3d4380-4e5f-11ea-9dc1-7be285b9b055.png)
+![Module_1_Project_Iron_hack_Borja_Uría](https://user-images.githubusercontent.com/45542785/74434309-7a124280-4e62-11ea-9408-3866d7ceee49.png)
+
 
 ## NOTE: To see everything about project, switch between the development branches.
 
