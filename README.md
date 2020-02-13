@@ -1,7 +1,7 @@
 
 ### NOTE: To see everything about project, switch between the development branches.
 
-# The best ever project
+# Module 1 Project - Iron-Hack
 
 This project analyzes a data set and returns conclusions.
 
