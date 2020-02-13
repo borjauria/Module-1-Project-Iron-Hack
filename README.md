@@ -1,7 +1,7 @@
 ![Module_1_Project_Iron_hack_Borja_Uría](https://user-images.githubusercontent.com/45542785/74434309-7a124280-4e62-11ea-9408-3866d7ceee49.png)
 
 
-## NOTE: To see everything about project, switch between the development branches.
+## ➡➡➡ NOTE: To see everything about project, switch between the development branches.
 
 
 # Module 1 Project - Iron-Hack
