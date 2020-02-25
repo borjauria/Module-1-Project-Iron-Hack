@@ -16,12 +16,12 @@ Pandas, Regex, Mathplot, Requests, Numpy, BeautifulSoup...
 
 ## _Deployment_
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system 
 
-## _Built With_
+## _Built With_ 
 
-# A lot of work, implementation of improvements and above all, with a lot of love ❤️
-
+A lot of work, implementation of improvements and above all, with a lot of love ❤️
+   
 ## _Authors_
 
 The author of this project is Borja Uría (@borjauria), a student at the Data Analytics bootcamp in Iron Hack Madrid.
