@@ -20,7 +20,7 @@ Add additional notes about how to deploy this on a live system
 
 ## _Built With_
 
-# LOVE ❤️
+# A lot of work, implementation of improvements and above all, with a lot of love ❤️
 
 ## _Authors_
 
