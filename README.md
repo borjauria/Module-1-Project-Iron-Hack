@@ -16,7 +16,7 @@ Pandas, Regex, Mathplot, Requests, Numpy, BeautifulSoup...
 
 ## _How to use it_
 
-If you want to use it, you can create a _env_, install the libraries that you will find in the requirements.txt file, clone the whole project and use the dataset >borjauria.db to check what I have done with this project. To execute it you will have to open in a console the file _main.py_
+If you want to use it, you can create a _env_, install the libraries that you will find in the requirements.txt file, clone the whole project and use the dataset 'borjauria.db' to check what I have done with this project. To execute it you will have to open in a console the file _main.py_
 
 ## _Deployment_
 
