@@ -34,4 +34,5 @@ The author of this project is Borja Uría (@borjauria), a student at the Data An
 This project is licensed under the IH License.
 
 ## _Contact info_ 💌
-[Link](https://www.linkedin.com/in/borjauria/)
+[Linkedin](https://www.linkedin.com/in/borjauria/)
+[Twitter](https://twitter.com/borjauria/)
