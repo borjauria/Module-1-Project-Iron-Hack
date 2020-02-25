@@ -1,35 +1,31 @@
 ![Module_1_Project_Iron_hack_Borja_Uría](https://user-images.githubusercontent.com/45542785/74432906-ab3d4380-4e5f-11ea-9dc1-7be285b9b055.png)
 
-## NOTE: To see everything about project, switch between the development branches.
-
-
 # Module 1 Project - Iron-Hack
 
-This project analyzes a data set and returns conclusions.
+This project analyzes a set of data and returns conclusions, these can be seen graphically thanks to some plots that I have created to see better the information obtained.
 
-# Getting Started
+## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+It is important that you know that this project is my first project, and the functions it contains are only useful for my dataset, since I have implemented methods like REGEX, which you can only use if your dataset contains the same as mine : )
 
-# Prerequisites
+## _Prerequisites_
 
-What things you need to install the software and how to install them. But.. You can see the requirements.txt file to get a better idea of what you will need
+You can see the requirements.txt file to get a better idea of what you will need, but a little above that I can tell you that I have learned to use the following:
 
 Pandas, Regex, Mathplot, Requests, Numpy, BeautifulSoup...
 
-# Deployment
+## _Deployment
 
 Add additional notes about how to deploy this on a live system
 
-# Built With
+## _Built With
 
-### LOVE ❤️
+# LOVE ❤️
 
-# Authors
+## _Authors
 
-Borja Uría - Initial work for Project one at Iron Hack
-See also the list of contributors who participated in this project.
+The author of this project is Borja Uría (@borjauria), a student at the Data Analytics bootcamp in Iron Hack Madrid.
 
-# License
+## _License
 
 This project is licensed under the IH License.
